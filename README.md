@@ -3,7 +3,7 @@
 #EXTINF:-1,
 https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png
 
-#EXTINF:-1,Rede Vida Hd https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+#EXTINF:-1,Rede vida https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 #EXTINF:-2,https://images.app.goo.gl/Z8koMBgtcANiSA5b8
 
