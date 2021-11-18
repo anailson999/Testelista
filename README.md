@@ -4,4 +4,4 @@
 https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png
 #EXTINF:-1
 
-#EXTINF:-1,Brasil https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+#EXTINF:-1,Rede Vida HD https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
