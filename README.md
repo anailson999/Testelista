@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1,Rede Vida Hd https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
 #EXTINF:-2,TV Diario HD https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUHqjfXQn83QPD95PRzReys)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc
-#EXTINF:-3,Sky news https://r1---sn-bg07dnss.googlevideo.com/videoplayback?expire=1637301133&ei=LeeWYZy6BsG35gT_raDIDg&ip=45.238.114.85&id=hD7R9CiHurQ.2&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=Z190ujonyXAhYLKdF1_ThZoG&gir=yes&keepalive=yes&fexp=24001373,24007246&c=WEB_EMBEDDED_PLAYER&n=NTFZlKZREqRN1A&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAOYiD1wZM1_ZLVRDN200blbVrwTL6QywfN_6jm6gNlIrAiBkkUXAAnTpO3xTOAKALzQ5Pwu1Qnt3Db8YuTDpj_ktGw%3D%3D&alr=yes&cpn=-NMm3re9HuQCwwX3&cver=1.20211116.01.00&cm2rm=sn-po4vapo3cg-4vgl7e&redirect_counter=2&rm=sn-pmcg-4vge7e&cms_redirect=yes&ipbypass=yes&mh=Eg&mm=30&mn=sn-bg07dnss&ms=nxu&mt=1637279062&mv=m&mvi=1&pl=24&lsparams=ipbypass,mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwQwIfFCTJUcXxiX8gXOJ0BKFnWmFl_1SM8BeZnpcmLEVOWgIgNBEaqT4N5fMcNOwW-8diCqRJGlBmMA5wuIUDKjUp4xs%3D&headm=4&rn=5&rbuf=0
+
+#EXTINF:-3,Fox 23 https://d1hdqxv58eu2nj.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10100_0d4036c1-d9dd-46b1-84f7-506ba49b7b28_LE/48e5843d-2ccf-40f2-8ffb-21bd4b90f22e/0.m3u8
+
 #EXTINF:-4,Red Bull tv https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-5,https://stream-01.sv4.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFnPEBjSRry52bXwBBURDds)/dm/3/x67c77j/s/live-3.m3u8#cell=lsv4
-#EXTINF:-6,Tv gazeta hd https://playback2.akamaized.net/streams/5381476_8947634_lsio43l0ohzvq7tojmw_1/exp=1637367257~acl=%2f*~data=hdntl~hmac=1d447820813d5a228f585fa87075c3c406f8bad3a8ef544940be487e9d3098aa/media/5381476_8947634_lsio43l0ohzvq7tojmw_1@2320000p.m3u8?dw=80&ts=1637280000
-#EXTINF:-7,Canal 26 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1373157842_b2628000_sleng.m3u8
-#EXTINF:-8,Number 1 https://stream-03.sv4.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFnPEBjSRry52bXwBBURDds)/dm/3/x67c77j/s/live-3.m3u8#cell=lsv4
-#EXTINF:-9,SBT https://r2---sn-po4vapo3cg-4vge.googlevideo.com/videoplayback?expire=1637303256&ei=eO-WYcXsIYCbobIP56qxOA&ip=45.238.114.85&id=ABVQXgr2LW4.3&itag=242&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=mT&mm=44%2C29&mn=sn-po4vapo3cg-4vge%2Csn-pmcg-4vge&ms=lva%2Crdu&mv=m&mvi=2&pl=24&gcr=br&initcwndbps=672500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=cq4YjrZfzSobBymYGrx8cr0G&gir=yes&mt=1637281240&fvip=3&keepalive=yes&fexp=24001373%2C24007246&beids=23886206&c=WEB_EMBEDDED_PLAYER&n=zdal8cSfXUxwAg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgcxMo_nUZG4HG-A7xmzcfKjJMlqrQKg6Ioz5j7SKIvRsCIHlOxD45A2tFaDMv4XROVfCm04qWPP_unptfbP7PlpL-&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMCOHj29ouMDg5RC5y-QfY0QGei1jk-tuGptXnoQeQ42AiA9KwqfWwAYxapLeHjItOUDZQ5VhqQIpjpmzXEext4P6A%3D%3D&alr=yes&cpn=ctsxPSeyqV5YcD18&cver=1.20211116.01.00&sq=2760467&rn=3&rbuf=4891
+
+#EXTINF:-5,Canal 26 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1373157842_b2628000_sleng.m3u8
+
+#EXTINF:-6,Number 1 https://stream-03.sv4.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFnPEBjSRry52bXwBBURDds)/dm/3/x67c77j/s/live-3.m3u8#cell=lsv4
+
+#EXTINF:-7,
