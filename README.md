@@ -89,8 +89,11 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 #EXTINF:-1,Vevo HD 2
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
+#EXTINF:-1,SBT
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbtsd/video.m3u8?md5=g-xkw-o58-IioJF2yCBCZg&expires=1637391228
 
+#EXTINF:-1,GLOBO SP
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
 
-
-
-
+#EXTINF:-1,Tv record mg
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
