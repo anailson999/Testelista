@@ -239,7 +239,7 @@ https://content-aeuf1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8
 #EXTINF:-1,KRONE HITS 4K
 https://content-aeuf1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=8b2d703452b248c38706e7bb7f190af3
 
-#EXTINF:-1,JASMIN TV HD
+#EXTINF:-1,Music TV HD
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w1609534631.m3u8
 
 
