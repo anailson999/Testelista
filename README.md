@@ -254,6 +254,14 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,PORSUITUP FHD
 https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1,LOVE NATURE FHD ALT
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,LOVE NATURE USA 1080P
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1,NASA FHD
+http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=e02c631056eedfa1f9ba417db7dbc9057065fe72
 
 
 
