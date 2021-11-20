@@ -248,10 +248,23 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w2045496267.m3u8
 #EXTINF:-1,EURO SPORTS HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=740&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 
-#EXTINF:-1,GLOBO RJ HD
-http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/4796.ts
+#EXTINF:-1,Nature TV HD
+https://stmv1.srvif.com/nattv/nattv/chunklist_w2034641661.m3u8
 
+#EXTINF:-1,SIC HD
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
+#EXTINF:-1,TV CARIOCA NET HD
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1382467024.m3u8
+
+#EXTINF:-1,TV BRASIL HD
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLn-d9Ac5zhU-LZZFAaxzZOg)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1,TV TCM MOSSORO
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
+#EXTINF:-1,TV EVANGELIZAR
+https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w660613103.m3u8
 
 
 
