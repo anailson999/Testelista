@@ -206,8 +206,11 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2102620497.m3u8
 #EXTINF:-1,REDE TV SP HD
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w623693918.m3u8
 
+#EXTINF:-1 ,Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-
+#EXTINF:-1 ,Kronehit TV FHD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 
 
