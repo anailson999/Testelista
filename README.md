@@ -266,10 +266,5 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1,TV EVANGELIZAR
 https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w660613103.m3u8
 
-#EXTINF:-1,CANCAO NOVA HD
-http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1,RADIO JOVEM PAN FM
-http://evp.mm.uol.com.br:1935/jovempanfm/jovempanfm.sdp/playlist.m3u8
-
+#EXTINF:-1,
 
