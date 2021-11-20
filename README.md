@@ -203,39 +203,11 @@ https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1,FUTURA HD
 https://tv.unisc.br/hls/test.m3u8
 
-#EXTINF:-1,Globo NE
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-
 #EXTINF:-1,SBT HD
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
 
-
-#EXTINF:-1,CNN BRASIL HD
-https://cdn.esporteone.com/CNNBRASILSD/video.m3u8?md5=8vnMt0Z_-pwxQiibiIKdkw&expires=1637378851
-
 #EXTINF:-1,Star hits 1
 https://content-zeuuks-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1637375972&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&nielsen=1&iph=f71a2e611349edc0526f58b4b45797f94d830677cf6df17d331e40e1964c1abd&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=fcbaac8c640cd7ede91bc7afac74889b9399c9778b5214710db3213b7edecc22&pbs=8c9caddb668d40009acb476e1b3ef5f4
-
-#EXTINF:-1,Animal planet HD
-https://cdn.esporteone.com/ANIMALPLANETSD/video.m3u8?md5=k0hzHL8TltNMt9L-Quc3Fw&expires=1637379564
-
-#EXTINF:-1,PREMIERE HD
-https://cdn.esporteone.com/PREMIERECLUBESSD/video.m3u8?md5=dSgnofe_5LiorA2DNKjXeQ&expires=1637379759
-
-#EXTINF:-1,PREMIERE HD 2
-https://cdn.esporteone.com/PREMIERE2SD/video.m3u8?md5=leLRFQatPQRP9yGpzbqZxA&expires=1637379864
-
-#EXTINF:-1,SBT HD 3
-https://cdn.esporteone.com/PREMIERE2SD/video.m3u8?md5=leLRFQatPQRP9yGpzbqZxA&expires=1637379864
-
-#EXTINF:-1,COMBATE
-https://cdn.esporteone.com/COMBATESD/video.m3u8?md5=viKqQU4XKfzo0vnobYRMYw&expires=1637380222
-
-#EXTINF:-1,NBA FULL HD
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110961
-
-#EXTINF:-1,NBA HD
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110958
 
 
 
