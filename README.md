@@ -227,6 +227,20 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?versio
 #EXTINF:-1 ,Ultra HD Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?|User-agent=HlsWinkPlayer
 
+#EXTINF:-1,RECORD NEWS HD
+https://youtu.be/saz29dZJR04
+
+#EXTINF:-1,Jovem pan news hd
+https://youtu.be/S8KewdsJ5QM
+
+#EXTINF:-1,NASA HD 2 LIVE
+https://youtu.be/21X5lGlDOfg
+
+#EXTINF:-1,NASA HD 3 LIVE
+https://youtu.be/nA9UZF-SZoQ
+
+#EXTINF:-1,NBC NEWS HD
+https://youtu.be/8k-cv1BK3JU
 
 
 
