@@ -227,4 +227,5 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 ,Kronehit TV [FHD]
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-
+#EXTINF:-1 tvg-name="KRONEHIT TV HD [DE][720p]" tvg-logo="https://streamtest.in/fallback/default.png?v=1543836296", KRONEHIT TV HD [DE][720p]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
