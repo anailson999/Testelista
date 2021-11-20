@@ -206,3 +206,11 @@ https://content-zeuuks-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/
 #TEXINF:-1,ABC NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
+#TEXTINF:-1,TV UNIVERSAL
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_9c277459-d5b2-4f39-8130-8fc9e538057c.m3u8
+
+
+
+
+
+
