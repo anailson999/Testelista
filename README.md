@@ -248,14 +248,8 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w2045496267.m3u8
 #EXTINF:-1,EURO SPORTS HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=740&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 
-#EXTINF:-1,PREMIERE HD
-https://m3u9.ml/b/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=gM7MbbWwY0jqXxs-0gblSg&3U1G7qaTxrPbalZnEx=1637421572
-
-
-
-
-
-
+#EXTINF:-1,GLOBO RJ HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/4796.ts
 
 
 
