@@ -185,4 +185,29 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w222531436.m3u8
 #EXTINF:-1,KroneTV HD 2
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
 
+#EXTINF:-1,RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1,SBT SP HD
+https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/chunklist_w627995847.m3u8
+
+#EXTINF:-1,Globo Sp HD
+https://stream2.canais.info/a/hls/bobosp.m3u8
+
+#EXTINF:-1,Globo NE HD
+https://stream2.canais.info/a/hls/bobonordeste.m3u8
+
+#EXTINF:-1,Globo RJ HD
+https://stream2.canais.info/a/hls/boborj.m3u8
+
+#EXTINF:-1,Band SP HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2102620497.m3u8
+
+#EXTINF:-1,REDE TV SP HD
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w623693918.m3u8
+
+
+
+
+
 
