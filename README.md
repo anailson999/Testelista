@@ -224,23 +224,44 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 #EXTINF:-1,fox sport 1
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 
-#EXTINF:-1,fox sports 2
+#EXTINF:-1,fox sports usa
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
 
 #EXTINF:-1,NBC SPORTS HD
 https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
 
-#EXTINF:-1,NASA SSI
+#EXTINF:-1,NASA
 http://a93e545a-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=eaad2a891f0b4b421b9e905fa8a9b268c47041b0&cdnHost=uhs-akamai.ustream.tv/
 
 #EXTINF:-1,VH1 HD
 https://content-aeuf1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=8b2d703452b248c38706e7bb7f190af3
 
 #EXTINF:-1,KRONE HITS 4K
-https://content-aeuf1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=8b2d703452b248c38706e7bb7f190af3
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1,Music TV HD
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w1609534631.m3u8
+#EXTINF:-1,Tv Diario hd
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1,RAI 1 HD
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w2045496267.m3u8
+
+#EXTINF:-1,EURO SPORTS HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=740&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
