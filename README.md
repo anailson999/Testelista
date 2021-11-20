@@ -188,24 +188,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
 #EXTINF:-1,RECORD SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:-1,SBT SP HD
-https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/chunklist_w627995847.m3u8
-
-#EXTINF:-1,Globo Sp HD
-https://stream2.canais.info/a/hls/bobosp.m3u8
-
-#EXTINF:-1,Globo NE HD
-https://stream2.canais.info/a/hls/bobonordeste.m3u8
-
-#EXTINF:-1,Globo RJ HD
-https://stream2.canais.info/a/hls/boborj.m3u8
-
-#EXTINF:-1,Band SP HD
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2102620497.m3u8
-
-#EXTINF:-1,REDE TV SP HD
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w623693918.m3u8
-
 #EXTINF:-1 ,Kronehit TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
@@ -217,32 +199,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1 ,hdl HD
 https://sc.id-tv.kz/hdl_34_35.m3u8
-
-#EXTINF:-1 ,Ultra REX FullHD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-
-#EXTINF:-1 ,Ultra HD cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
-
-#EXTINF:-1 ,Ultra HD Cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?|User-agent=HlsWinkPlayer
-
-#EXTINF:-1,RECORD NEWS HD
-https://youtu.be/saz29dZJR04.m3u8
-
-#EXTINF:-1,Jovem pan news hd
-https://youtu.be/S8KewdsJ5QM.m3u8
-
-#EXTINF:-1,NASA HD 2 LIVE
-https://youtu.be/21X5lGlDOfg.m3u8
-
-#EXTINF:-1,NASA HD 3 LIVE
-https://youtu.be/nA9UZF-SZoQ.m3u8
-
-#EXTINF:-1,NBC NEWS HD
-https://youtu.be/8k-cv1BK3JU.m3u8
-
-
 
 
 
