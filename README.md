@@ -182,8 +182,7 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w222531436.m3u8
 #EXTINF:-1,NASA TV HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w222531436.m3u8
 
-
-
-
+#EXTINF:-1,KroneTV HD 2
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
 
 
