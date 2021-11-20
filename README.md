@@ -203,5 +203,6 @@ https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m
 #EXTINF:-1,Star hits 1
 https://content-zeuuks-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1637375972&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&nielsen=1&iph=f71a2e611349edc0526f58b4b45797f94d830677cf6df17d331e40e1964c1abd&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=fcbaac8c640cd7ede91bc7afac74889b9399c9778b5214710db3213b7edecc22&pbs=8c9caddb668d40009acb476e1b3ef5f4
 
-
+#TEXINF:-1,ABC NEWS
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
