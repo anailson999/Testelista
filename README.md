@@ -260,6 +260,44 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,NASA FHD
 http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=e02c631056eedfa1f9ba417db7dbc9057065fe72
 
+#EXTINF:-1,LOVE NATURE USA 4K
+http://177.20.208.58:8000/play/a03r/index.m3u8
+
+#EXTINF:-1,MUSIC HD
+http://177.20.208.58:8000/play/a04g/index.m3u8
+
+#EXTINF:-1,BAND HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,1001 NOITES HD
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
+
+#EXTINF:-1,REDE VIDA ALT HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1,REDE TV
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,SUMMER TV HD
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1436476729.m3u8
+
+#EXTINF:-1,MULTITELEVISION HD
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1,TV FORTALEZA HD
+https://cdn.jmvstream.com/w/LVW-8498/LVW8498_D0sfdjg6Vw/chunklist.m3u8
+
+#EXTINF:-1,PAI ETERNO HD
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w829976371.m3u8
+
+#EXTINF:-1,YEEAAH HD
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+
+
+
+
+
 
 
 
