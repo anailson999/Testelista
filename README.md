@@ -179,7 +179,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/
 #EXTINF:-1,Terra Viva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w222531436.m3u8
 
-
+#EXTINF:-1,NASA TV HD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w222531436.m3u8
 
 
 
