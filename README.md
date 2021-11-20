@@ -161,9 +161,6 @@ https://playback2.akamaized.net/streams/5381476_8947634_lsiy13ug3mqaj9gd18a_1/ex
 #EXTINF:-1,SBT Interior HD
 https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/chunklist_w1011557207.m3u8
 
-#EXTINF:-1,TVE HD
-https://ztnr.rtve.es/ztnr/la1_main_720.m3u8
-
 #EXTINF:-1,TV5 Monde HD
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
 
@@ -177,9 +174,6 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_sl
 https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/chunklist_w1360197610.m3u8
 
 #EXTINF:-1,Terra Viva HD
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w222531436.m3u8
-
-#EXTINF:-1,NASA TV HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w222531436.m3u8
 
 #EXTINF:-1,KroneTV HD 2
