@@ -209,7 +209,38 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 #EXTINF:-1,TV UNIVERSAL HD
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_9c277459-d5b2-4f39-8130-8fc9e538057c.m3u8
 
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
+#EXTINF:-1,Al jazeera hd
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1,FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1,NBC NEWS 4K
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+
+#EXTINF:-1,fox sport 1
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+
+#EXTINF:-1,fox sports 2
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+
+#EXTINF:-1,NBC SPORTS HD
+https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
+
+#EXTINF:-1,NASA SSI
+http://a93e545a-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=eaad2a891f0b4b421b9e905fa8a9b268c47041b0&cdnHost=uhs-akamai.ustream.tv/
+
+#EXTINF:-1,VH1 HD
+https://content-aeuf1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=8b2d703452b248c38706e7bb7f190af3
+
+#EXTINF:-1,KRONE HITS 4K
+https://content-aeuf1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=8b2d703452b248c38706e7bb7f190af3
+
+#EXTINF:-1,JASMIN TV HD
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w1609534631.m3u8
 
 
 
