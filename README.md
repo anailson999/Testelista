@@ -266,5 +266,4 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1,TV EVANGELIZAR
 https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w660613103.m3u8
 
-#EXTINF:-1,
 
