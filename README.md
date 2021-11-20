@@ -229,3 +229,43 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-name="KRONEHIT TV HD [DE][720p]" tvg-logo="https://streamtest.in/fallback/default.png?v=1543836296", KRONEHIT TV HD [DE][720p]
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1,LOVE NATURE USA FHD
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+
+#EXTINF:-1,LOVE NATURE USA 2 FHD
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,XPLORER FHD 1
+https://xplore-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,EXPLORER FHD 2
+https://xplore-plex.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1,CIRCLE FHD 
+https://circle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,AUTO MOTOR FHD
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1,INWILD FHD
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,PORSUITUP FHD
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
