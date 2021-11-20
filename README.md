@@ -221,13 +221,13 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1,TV EVANGELIZAR Hd
 https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w660613103.m3u8
 
-#EXTINF:-1 ,Kronehit TV HD
+#EXTINF:-1 ,Kronehit TV HD #5
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1 ,Kronehit TV [FHD]
+#EXTINF:-1 ,Kronehit TV FHD ALT 3
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-name="KRONEHIT TV HD [DE][720p]" tvg-logo="https://streamtest.in/fallback/default.png?v=1543836296", KRONEHIT TV HD [DE][720p]
+#EXTINF:-1 KRONEHIT TV HD 720p
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:-1,LOVE NATURE USA FHD
