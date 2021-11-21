@@ -309,13 +309,13 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 EXTINF:-1,NBA TV HD
-http://185.224.218.17:83/22446688/22446688/387143.ts
+http://185.224.218.17:83/live/22446688/22446688/387143.m3u8
 
 #EXTINF:-1,NBA TV
-http://185.224.218.17:83/22446688/22446688/387144.ts
+http://185.224.218.17:83/live/22446688/22446688/387144.ts
 
 #EXTINF:-1,NBA TV FHD
-http://185.224.218.17:83/22446688/22446688/387145.ts
+http://185.224.218.17:83/live/22446688/22446688/387145.m3u8
 
 #EXTINF:-1,RECORD NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637514782/ei/vimaYdR95YKhsg_IzKjgBA/ip/45.238.114.52/id/saz29dZJR04.1/source/yt_live_broadcast/requiressl/yes/tx/24078603/txs/24078603%2C24105952%2C24105953%2C24105954%2C24105955%2C24105956/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886201/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOu3iS1b4p8-94mz9tF_o4UUs630sUld5FEQODq1fzMeAiB4RJncrMFmcoCObWszauhbOTUjrgunuL8ex_N0Ju9eWQ%3D%3D/file/index.m3u8
