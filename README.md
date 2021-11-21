@@ -374,7 +374,20 @@ http://linea.cc:8000/live/test123/test123/60964.ts?checkedby:ahlakid.com.m3u8
 #EXTINF:-1,Discovery Channel  US
 http://linea.cc:8000/live/test123/test123/54069.ts?checkedby:ahlakid.com.m3u8
 
+#EXTINF:-1,NBA HD
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110958.m3u8
 
+#EXTINF:-1,NBA Network
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110959.m3u8
+
+#EXTINF:-1,NBA TV CALIFORNIA
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110960.m3u8
+
+#EXTINF:-1,NBA TV HD 2
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110961.m3u8
+
+#EXTINF:-1,NBA TV FHD
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110962.m3u8
 
 
 
