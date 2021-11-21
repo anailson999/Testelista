@@ -296,3 +296,8 @@ https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1,Kronehits
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
+#EXTINF:-1,Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1,Kronehit TV [FHD]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
