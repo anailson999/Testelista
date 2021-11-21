@@ -755,9 +755,13 @@ http://dhxt2zok2aqcr.cloudfront.net/live/rs21_240p414k/index.m3u8
 
 #EXTINF:-1,TV TERCEIRO ANJO
 http://streamer1.streamhost.org/salive/GMI3anjoh/chunklist_w1457806587.m3u8
-#EXTINF:-1,
 
-#EXTINF:-1,
+#EXTINF:-1,Relaxing Channel FHD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637558022/ei/ptKaYamYH4Kf7AS5p5PwDw/ip/45.238.114.112/id/M7Lo0eZc_eg.1/source/yt_live_broadcast/requiressl/yes/tx/24027684/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPLTfyFAivSxMDeGxG0HqRoxZ9O1KOHB_SZbYaFbi1sdAiBO3eMp0XeHmTuZRbYpPQ3gygygTIEuCGVTQl2bF13DMQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1,NASA CHANNEL 4K
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637558577/ei/0dSaYauuOIqowgTK-ryIDw/ip/45.238.114.112/id/21X5lGlDOfg.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP572z-J5u-3sPueoC18BsMNaN_pT7ChiMnLnCdxfRmBAiEAzybPYrdRWonD6beZWnYdMYPRMvmNjtVboGs1tPRqk3k%3D/file/index.m3u8
+
 
 #EXTINF:-1,
 
