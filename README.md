@@ -326,6 +326,43 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637515868/ei/_
 #EXTINF:-1,TV APARECIDA FHD ALT
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637516170/ei/Ki-aYcWEA9zH1sQPyYqNyA0/ip/45.238.114.52/id/1KIucmaYkmU.9/source/yt_live_broadcast/requiressl/yes/tx/23997970/txs/23997970%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/spc/4ocVC2fSiTje0kIJ_XvM4WK4zJL6/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIDR2PHitYa1lFKK9rqHtfrcUOc2qHUT_BE3ARA_n0snAiEA9LxntgxmR1SbCrTl2VqAkO8SnEtHeNC0deL6nNJEzDU%3D/file/index.m3u8
 
+#EXTINF:-1,SBT ALT HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637516458/ei/SjCaYcDUGY_awgSj6qXQCg/ip/45.238.114.52/id/LrdprAVuV4M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/spc/4ocVC8ecLcLRVZo7O2I9vHmsy6DM/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP2zzg4NiZurzy8OdhUgHj5enyCmYl8eSOOrvl6WTVLBAiEA-cF004HuQqP-i3Sm1I4j8OSii7nUgeNP1Avho9RQS7Q%3D/file/index.m3u8
+
+#EXTINF:-1,NOVO TEMPO HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637516776/ei/iDGaYaDJCMT0wASE4YbYCg/ip/45.238.114.52/id/wxdR5F7ySdM.48/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOGrb_jMfu-dSnKN2fGR5YHRSV8c5OCbDPJ8CXOBFBAJAiEAlR34fxmhZINmYHbsdY-ZWgziWpJ2NlNaInkcqzhbjoQ%3D/file/index.m3u8
+
+#EXTINF:-1,RIT TV HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637517034/ei/ijKaYaeuL_vm1sQP_-u04A0/ip/45.238.114.52/id/qhqXIr3Yy7I.1/source/yt_live_broadcast/requiressl/yes/hfr/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPnaPVYcVRlkALoqt-5uhYpez9eSUthFZa-hPNF1OyzsAiBfLjlOZQwKIwMJgg7RU8mi98zsO0zWLMYn7pdvRmOiiQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1,CANCAO NOVA HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637517210/ei/OjOaYc3XJ-iR2LYP1Y6Q-Ag/ip/45.238.114.52/id/PolgieDWrqk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPkIJ0bRG2VkdCbSbiwxfHXxXBfJhug0RKLXCb4q7w3oAiBHlIRUx3VkmHgZ67JuMRQmzotJ0XWKgnSkEFeMIts5Zw%3D%3D/file/index.m3u8
+
+#EXTINF:-1,NASA CHANNEL FHD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637517561/ei/mTSaYbKTKNaR-LAP2OS44Ag/ip/45.238.114.52/id/nA9UZF-SZoQ.4/source/yt_live_broadcast/requiressl/yes/tx/24027684/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOK5gQ9QTmK2JGySjgL0H_7i9yjkJDhsMyxkeTPTGDB0CIQC2j0XS-UTApKxlvY46dHMZTybWtpCv2jXe9d4hVkEg6Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1,NATURE FHD LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637517894/ei/5jWaYaz5CpeI-LAP0t6iqAE/ip/45.238.114.52/id/HMnatoiMdjA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPanF4oNEzyLhHTaVW-R8N5rRw0Xr6fZAIx76CRqLl0wAiEAqhf5m7k04ZzXnyp8WYh0YplJIMHQC4jILGlfPj2cL6I%3D/file/index.m3u8
+
+#EXTINF:-1,C5N FHD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637518230/ei/NjeaYdX3AoKUyQWAyoiIDg/ip/45.238.114.52/id/jN0TnHxhliA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANaYyL9rWfMCEQlNLl2X0wpN3oKBqyJ9W38De5X1K6GRAiEAv_JmHFpm_SzBb3cfZ0yJAhMJ150b_k3474MHpazXhus%3D/file/index.m3u8
+
+#EXTINF:-1,DD NEWS 24x7 FHD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637518542/ei/bjiaYeypI5LO7ATaha6wCA/ip/45.238.114.52/id/k9NOCARWnyU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJUhJQtSbQGMUH45SSUswr8za1E2ZhAWonAxt35-l2HoAiEAz8rLJ-KJRocG3rRDMT7RsWGgHp_Gzu5LDfOkc1e0CEw%3D/file/index.m3u8
+
+#EXTINF:-1,NASA CHANNEL FHD+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637518895/ei/zzmaYfKOBeyC8wLr0LSoBw/ip/45.238.114.52/id/21X5lGlDOfg.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/spc/4ocVC2Fuo1dGUubCehyOMY9XwOsF/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJOjIIY99JT7421ysNdcRirRTFoysOE5l1j6AlrvFaSRAiAyv7YIKYzO4bxW9Ev-69NYe7iaw5v1c1dZx0zseL6QzQ%3D%3D/file/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
