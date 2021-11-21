@@ -356,7 +356,8 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1,TV Câmara 2 BR
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,RecordTV São Paulo
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1,
 
