@@ -8,6 +8,12 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,Love nature usa hd
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,KRONEHIT TV +++
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1,LOVE NATURE alt hd2 ESPANHOL
+http://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,Kronehits RU HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
