@@ -356,26 +356,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637518895/ei/z
 #EXTINF:-1,BAND NEWS HD NOT 24HS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637522486/ei/1keaYeqVGYLCxwSs54bADQ/ip/45.238.114.64/id/koGewEizy1w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcNO1HLSIazPv3tp9y1foZ96ss9b0AVxum8R9qYcKzUYCIQC0c_S9CrKKgw88sgUcXVOiNdXTAgcdpOocYwjVagn4gg%3D%3D/file/index.m3u8
 
-#EXTINF:-1,NBA ALT HD
-http://185.224.218.17:83/live/22446688/22446688/387166.ts
-
-#EXTINF:-1,NBA ALT HD 2
-http://185.224.218.17:83/live/22446688/22446688/387167.ts
-
-#EXTINF:-1,NBA ALT HD 3
-http://185.224.218.17:83/live/22446688/22446688/387168.ts
-
-#EXTINF:-1,NBA ALT HD 4
-http://185.224.218.17:83/live/22446688/22446688/387169.ts
-
-#EXTINF:-1,NBA ALT HD 5
-http://185.224.218.17:83/live/22446688/22446688/387170.ts
-
-#EXTINF:-1, LOVE NATURE HD++
-http://185.224.218.17:83/live/22446688/22446688/326834.ts
-
-#EXTINF:-1,SMITHSONIAN HD
-http://185.224.218.17:83/live/22446688/22446688/310775.ts
 
 
 
