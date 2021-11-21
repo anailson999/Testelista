@@ -347,9 +347,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637518895/ei/z
 #EXTINF:-1,BAND NEWS HD NOT 24HS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637522486/ei/1keaYeqVGYLCxwSs54bADQ/ip/45.238.114.64/id/koGewEizy1w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcNO1HLSIazPv3tp9y1foZ96ss9b0AVxum8R9qYcKzUYCIQC0c_S9CrKKgw88sgUcXVOiNdXTAgcdpOocYwjVagn4gg%3D%3D/file/index.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,TV DIARIO FORTALEZA
+https://www.dailymotion.com/video/x7txn7q
 
-#EXTINF:-1,
+#EXTINF:-1,TV Câmara 1 BR
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1,TV Câmara 2 BR
+https://stream3.camara.gov.br/tv2/manifest.m3u8
 
 #EXTINF:-1,
 
