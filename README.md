@@ -438,120 +438,317 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1,AGRO MAIS HD
-http://evpp.mm.uol.com.br:1935/geob_band/agromais/chunklist.m3u8;
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/chunklist.m3u8
+
 #EXTINF:-1,BAND HD
-http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w793816707.m3u8;
+http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w793816707.m3u8
+
 #EXTINF:-1,BAND HD (TV RBA)
-https://5cf4a2c2512a2.streamlock.net:1443/rbatv/rbatv/chunklist_w652800062.m3u8;
+https://5cf4a2c2512a2.streamlock.net:1443/rbatv/rbatv/chunklist_w652800062.m3u8
+
 #EXTINF:-1,GLOBO RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8;
-#EXTINF:-1, MASTER SHOW TV;URL=http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w88667257.m3u8;
-#EXTINF:-1, RECORD DF HD;URL=http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8;
-#EXTINF:-1, RECORD GO;URL=http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8;
-#EXTINF:-1, RECORD MANAUS HD;URL=http://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8;
-#EXTINF:-1, RECORD MG HD;URL=http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8;
-#EXTINF:-1, RECORD PA HD;URL=http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8;
-#EXTINF:-1, RECORD RJ HD;URL=http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8;
-#EXTINF:-1, RECORD RS HD;URL=http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8;
-#EXTINF:-1, RECORD SP HD;URL=http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8;
-#EXTINF:-1, RECORD (TV ITAPOAN HD);URL=http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8;
-#EXTINF:-1, REDE BRASIL;URL=https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1988549372.m3u8;
-#EXTINF:-1, REDE PREMIUM;URL=http://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1392640.m3u8;
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
+
+#EXTINF:-1,MASTER SHOW TV
+http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w88667257.m3u8
+
+#EXTINF:-1,RECORD DF HD
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+
+#EXTINF:-1,RECORD GO
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+
+#EXTINF:-1,RECORD MANAUS HD
+http://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8
+
+#EXTINF:-1,RECORD MG HD
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
+
+#EXTINF:-1,RECORD PA HD
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+
+#EXTINF:-1,RECORD RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
+
+#EXTINF:-1,RECORD RS HD
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+
+#EXTINF:-1,RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1,RECORD (TV ITAPOAN HD)
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+
+#EXTINF:-1,REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1988549372.m3u8
+
+#EXTINF:-1,REDE PREMIUM
+http://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1392640.m3u8;
+
 #EXTINF:-1,REDE TV PAMPA
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1960289208.m3u8;
-#EXTINF:-1, SBT PIAUI (TV CIDADE VERDE);URL=http://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1567662340.m3u8;
-#EXTINF:-1, SBT (TV JORNAL CARUARU);URL=http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w412493965.m3u8;
-#EXTINF:-1, SBT (TV JORNAL RECIFE)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8;
-#EXTINF:-1, SBT (TV SERRADOURADA)
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w97601455_b1000000.m3u8;
-#EXTINF:-1, TERRA VIVA HD;URL=http://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1846226571.m3u8;
-#EXTINF:-1, TV8 BRASIL FULL HD;URL=https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8;
-#EXTINF:-1, TV BRASIL (TVE RS);URL=http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1931722850.m3u8;
-#EXTINF:-1, TV CULTURA HD;URL=http://evpp.mm.uol.com.br:1935/cultura1/cultura_720.sdp/playlist.m3u8;
-#EXTINF:-1, TV CULTURA PA;URL=http://str.portalcultura.com.br/funtelpa/tv_funtelpa/chunklist_w453169071.m3u8;
-#EXTINF:-1, TV CULTURA RN HD;URL=https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w448757694.m3u8;
-#EXTINF:-1, TVE BAHIA HD;URL=http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8;
-#EXTINF:-1, TV GAZETA HD (TV ALTERNATIVA MA);URL=http://stmv4.srvstm.com/wagner1168/wagner1168/media_w277204921_2307.m3u8;
-#EXTINF:-1, TV UNIAO;URL=http://stmv1.ifantasy.com.br/admin/admin/chunklist_w1832246586.m3u8;
-#EXTINF:-1, TV VIA MORENA;URL=http://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8;
-#EXTINF:-1, TV VITORIA - PE;URL=http://novo.bitstreaming.info:1936/tvvitoriape/tvvitoriape/chunklist_w1832927497.m3u8;
-#EXTINF:-1, LOADING TV HD;URL=http://origin-02.nxplay.com.br/IDEAL_TV_HD/tracks-v1a1/mono.m3u8;
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1960289208.m3u8
+
+#EXTINF:-1,SBT PIAUI (TV CIDADE VERDE)
+http://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1567662340.m3u8
+
+#EXTINF:-1,SBT (TV JORNAL CARUARU);URL=http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w412493965.m3u8;
+
+#EXTINF:-1,SBT (TV JORNAL RECIFE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
+
+#EXTINF:-1,SBT (TV SERRADOURADA)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w97601455_b1000000.m3u8
+#EXTINF:-1,TERRA VIVA HD
+http://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1846226571.m3u8
+
+
+#EXTINF:-1,TV8 BRASIL FULL HD
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+
+#EXTINF:-1,TV BRASIL (TVE RS)
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1931722850.m3u8
+
+#EXTINF:-1,TV CULTURA HD
+http://evpp.mm.uol.com.br:1935/cultura1/cultura_720.sdp/playlist.m3u8
+
+#EXTINF:-1,TV CULTURA PA
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/chunklist_w453169071.m3u8
+
+#EXTINF:-1,TV CULTURA RN HD
+https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w448757694.m3u8
+
+#EXTINF:-1,TVE BAHIA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1,TV GAZETA HD (TV ALT
+http://stmv4.srvstm.com/wagner1168/wagner1168/media_w277204921_2307.m3u8
+
+#EXTINF:-1,TV UNIAO;URL=http://stmv1.ifantasy.com.br/admin/admin/chunklist_w1832246586.m3u8
+
+#EXTINF:-1,TV VIA MORENA
+http://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+
+#EXTINF:-1,TV VITORIA PE
+http://novo.bitstreaming.info:1936/tvvitoriape/tvvitoriape/chunklist_w1832927497.m3u8
+
+#EXTINF:-1,LOADING TV HD
+http://origin-02.nxplay.com.br/IDEAL_TV_HD/tracks-v1a1/mono.m3u8
   
-#EXTINF:-1, NASA PUBLIC;URL=http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8;
-#EXTINF:-1, YEEAAH TV;URL=http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w892752633.m3u8;
+#EXTINF:-1,NASA PUBLIC
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1, LOVE NATURE - ESPANHOL;URL=http://bamus-spa-roku.amagi.tv/playlist.m3u8;
+#EXTINF:-1,YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w892752633.m3u8
 
-#EXTINF:-1, CMC CALIFORNIA MUSIC CHANNEL;URL=http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8;
-#EXTINF:-1, DEEJAY TV;URL=http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8;
-#EXTINF:-1, DREAM TV;URL=http://2122248074.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_3_750/playlist.m3u8;
-#EXTINF:-1, GOSPEL MUSIC TELEVISION;URL=http://stmv6.srvstm.com/gmusic/gmusic/playlist.m3u8;
-#EXTINF:-1, HITV;URL=http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8;
-#EXTINF:-1, KRONEHIT TV&HD;URL=http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8;
-#EXTINF:-1, LA MEGA MUNDIAL;URL=http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w485250669.m3u8;
-#EXTINF:-1, M2O MUSIC;URL=http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8;
-#EXTINF:-1, MELODY CHANNEL;URL=http://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8;
-#EXTINF:-1, MTV INTERNATIONAL;URL=http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8;
-#EXTINF:-1, MTV LIVE HD;URL=http://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1a2/mono.m3u8;
-#EXTINF:-1, MUSIC TOP;URL=http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8;
-#EXTINF:-1, POWER HD;URL=http://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8;
-#EXTINF:-1, RADIO CAPITAL TIVU;URL=http://capital-live-tv-01-hds.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8;
-#EXTINF:-1, RADIO CONTACT FEEL GOOD;URL=http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8;
-#EXTINF:-1, RADIONORBA TV;URL=http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/chunklist_w1224680993_b800000.m3u8;
-#EXTINF:-1, RADIOU TV;URL=http://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v2a1/mono.m3u8;
-#EXTINF:-1, RETRO;URL=http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8;
-#EXTINF:-1, RETRO PLUS TV;URL=http://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8;
-#EXTINF:-1, ROCK TV;URL=http://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w960731565_b680000.m3u8;
-#EXTINF:-1, SEXY KPOP TV;URL=http://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1676683678.m3u8;
-#EXTINF:-1, SI TV;URL=https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w865187166.m3u8;
-#EXTINF:-1, THE RETRO CHANNEL;URL=https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w111841477.m3u8;
-#EXTINF:-1, TOP LATINO TV;URL=http://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8;
-#EXTINF:-1, TOP TV - BR;URL=http://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8;
-#EXTINF:-1, TOP TV - PARANA;URL=http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w1266476728.m3u8;
-#EXTINF:-1, TRACE BRAZUCA HD;URL=http://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8;
-#EXTINF:-1, TRACE LATINA HD;URL=http://mj1b2xsspj.singularcdn.net.br/trace/latina/6/prog_index.m3u8;
-#EXTINF:-1, TRACE TOCA HD;URL=http://mj1b2xsspj.singularcdn.net.br/trace/toca/6/prog_index.m3u8;
-#EXTINF:-1, TRACE URBAN;URL=http://mj1b2xsspj.singularcdn.net.br/trace/urbanint/5/prog_index.m3u8;
-#EXTINF:-1, TV BNO - BR;URL=http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8;
-#EXTINF:-1, TV MAX - BR;URL=http://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8;
-#EXTINF:-1, VIBEE TV;URL=http://abr.de1se01.v2beat.live/live/live6/chunks.m3u8;
-#EXTINF:-1, VISION TV;URL=http://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w192497333.m3u8;
-#EXTINF:-1, CAZAVISION - PORTUGAL;URL=http://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8;
-#EXTINF:-1, SOBRENATURAL TV&HD;URL=http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w430333346.m3u8;
-#EXTINF:-1, AD SPORTS HD;URL=http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8;
- AD SPORTS 2;URL=http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8;
- AL SHARJAH SPORTS HD;URL=http://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8;
- BAYERN TV HD;URL=http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8;
- CLARO SPORTS FHD++;URL=http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8;
- DUBAI RACING HD;URL=http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8;
- DUBAI RACING 2 HD;URL=http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8;
- DUBAI SPORTS HD;URL=http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8;
- DUBAI SPORTS 2 HD;URL=http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8;
- FIGHT SPORTS;URL=http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8;
- FITE HD;URL=http://cdn-cf.fite.tv/linear/fite247/playlist.m3u8;
- FOX SPORTS NEWS HD;URL=http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8;
- MLB NETWORK HD;URL=http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8;
- OMAN SPORTS FHD;URL=http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8;
- RACING COM;URL=http://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8;
- REDBULL TV;URL=http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8;
- SKY RACING 1 HD;URL=http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8;
- SKY RACING 2 HD;URL=http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8;
- STADIUM HD;URL=http://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8;
- SURF NOW HD;URL=http://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8;
- SURF NOW 2 HD;URL=http://1091-surfnowtv-1.plex.wurl.com/manifest/playlist.m3u8;
- TELETRAK TV;URL=http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8;
- TENNIS CHANNEL HD;URL=http://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8;
- TENNIS CHANNEL PLUS HD;URL=http://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
- YABAN HD;URL=http://content-auso3.uplynk.com;
- CANCAO NOVA PORTUGAL;URL=https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w1781839972.m3u8;
- CAPELINHA DE FATIMA;URL=https://streamer-b02.videos.sapo.pt/live/santuario/chunklist_w1728841699.m3u8;
- APARECIDA;URL=http://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8;
- TV NOVO TEMPO Br;URL=http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist.m3u8;
- TV PAI ETERNO br;URL=http://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8;
- TV REDE GOSPEL HD;URL=https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8;
- TV SECULO 21;URL=http://dhxt2zok2aqcr.cloudfront.net/live/rs21_240p414k/index.m3u8;
- TV TERCEIRO ANJO;URL=http://streamer1.streamhost.org/salive/GMI3anjoh/chunklist_w1457806587.m3u8;
+#EXTINF:-1,LOVE NATURE ESPANHOL
+http://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,CMC CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+
+#EXTINF:-1,DEEJAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1,DREAM TV
+http://2122248074.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_3_750/playlist.m3u8
+
+#EXTINF:-1,GOSPEL MUSIC TELEVISION
+http://stmv6.srvstm.com/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:-1,HITV
+http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
+
+#EXTINF:-1, KRONEHIT TV&HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1,LA MEGA MUNDIAL
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w485250669.m3u8
+
+#EXTINF:-1,M2O MUSIC
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+
+#EXTINF:-1,MELODY CHANNEL
+http://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
+
+#EXTINF:-1,MTV INTERNATIONAL
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1,MTV LIVE HD
+http://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,POWER HD
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
+
+#EXTINF:-1,RADIO CAPITAL TIVU
+http://capital-live-tv-01-hds.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1,RADIO CONTACT FEEL GOOD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:-1,RADIONORBA TV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/chunklist_w1224680993_b800000.m3u8
+
+#EXTINF:-1,RADIOU TV
+http://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,RETRO PLUS TV
+http://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1,ROCK TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w960731565_b680000.m3u8
+
+#EXTINF:-1,SEXY KPOP TV
+http://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1676683678.m3u8
+
+#EXTINF:-1,SI TV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w865187166.m3u8
+
+#EXTINF:-1,THE RETRO CHANNEL
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w111841477.m3u8
+
+#EXTINF:-1,TOP LATINO TV
+http://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+
+#EXTINF:-1,TOP TV 
+http://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
+
+#EXTINF:-1,TOP TV PARANA
+http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w1266476728.m3u8
+
+#EXTINF:-1,TRACE BRAZUCA HD
+http://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
+
+#EXTINF:-1,TRACE LATINA HD
+http://mj1b2xsspj.singularcdn.net.br/trace/latina/6/prog_index.m3u8
+
+#EXTINF:-1,TRACE TOCA HD
+http://mj1b2xsspj.singularcdn.net.br/trace/toca/6/prog_index.m3u8
+
+#EXTINF:-1,TRACE URBAN
+http://mj1b2xsspj.singularcdn.net.br/trace/urbanint/5/prog_index.m3u8
+
+#EXTINF:-1,TV BNO - BR
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+#EXTINF:-1,TV MAX - BR
+http://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8
+
+#EXTINF:-1,VIBEE TV
+http://abr.de1se01.v2beat.live/live/live6/chunks.m3u8;
+
+#EXTINF:-1,VISION TV
+http://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w192497333.m3u8
+
+#EXTINF:-1,CAZAVISION - PORTUGAL
+http://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+
+#EXTINF:-1,SOBRENATURAL TV&HD
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w430333346.m3u8
+
+#EXTINF:-1,AD SPORTS HD
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1,AD SPORTS 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
+
+#EXTINF:-1,AL SHARJAH SPORTS HD
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1,BAYERN TV HD
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
+
+#EXTINF:-1,CLARO SPORTS FHD++
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:-1,DUBAI RACING HD
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,DUBAI RACING 2 HD
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,DUBAI SPORTS HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,DUBAI SPORTS 2 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1,FIGHT SPORTS
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+
+#EXTINF:-1,FITE HD
+http://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1,FOX SPORTS NEWS HD
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1,MLB NETWORK HD
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,OMAN SPORTS FHD
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+
+#EXTINF:-1,RACING COM
+http://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+
+#EXTINF:-1,REDBULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1,SKY RACING 1 HD
+http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:-1,SKY RACING 2 HD
+http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+#EXTINF:-1,STADIUM HD
+http://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1,SURF NOW HD
+http://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,SURF NOW 2 HD
+http://1091-surfnowtv-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,TELETRAK TV
+http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
+
+#EXTINF:-1,TENNIS CHANNEL HD
+http://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1,TENNIS CHANNEL PLUS HD
+http://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1,YABAN HD
+http://content-auso3.uplynk.com
+
+#EXTINF:-1,CANCAO NOVA PORTUGAL
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w1781839972.m3u8
+
+#EXTINF:-1,CAPELINHA DE FATIMA
+https://streamer-b02.videos.sapo.pt/live/santuario/chunklist_w1728841699.m3u8
+
+#EXTINF:-1,APARECIDA
+http://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1,TV NOVO TEMPO BR
+http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist.m3u8
+
+#EXTINF:-1,TV PAI ETERNO br
+http://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1,TV REDE GOSPEL HD
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1,TV SECULO 21
+http://dhxt2zok2aqcr.cloudfront.net/live/rs21_240p414k/index.m3u8
+
+#EXTINF:-1,TV TERCEIRO ANJO
+http://streamer1.streamhost.org/salive/GMI3anjoh/chunklist_w1457806587.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
