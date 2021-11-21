@@ -3,7 +3,7 @@
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 #EXTINF:-1,FOX 23 4K
-https://d1hdqxv58eu2nj.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10100_0d4036c1-d9dd-46b1-84f7-506ba49b7b28_LE/48e5843d-2ccf-40f2-8ffb-21bd4b90f22e/0.m3u8
+https://d1hdqxv58eu2nj.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10100_0d4036c1-d9dd-46b1-84f7-506ba49b7b28_LE/48e5843d-2ckcf-40f2-8ffb-21bd4b90f22e/0.m3u8
 
 #EXTINF:-1,RED BULL TV 4K
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -301,3 +301,10 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:-1,Kronehit TV [FHD]
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1,Kronehits h256
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
+
+
+
+
