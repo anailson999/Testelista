@@ -308,7 +308,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
 #EXTINF:-1,Kronehits alt
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-EXTINF:-1,NBA TV HD
+#EXTINF:-1,NBA TV HD
 http://185.224.218.17:83/live/22446688/22446688/387143.m3u8
 
 #EXTINF:-1,NBA TV
