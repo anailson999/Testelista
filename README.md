@@ -371,8 +371,8 @@ http://linea.cc:8000/live/test123/test123/25541.ts?checkedby:ahlakid.com.m3u8
 #EXTINF:-1,Sundance TV US
 http://linea.cc:8000/live/test123/test123/60964.ts?checkedby:ahlakid.com.m3u8
 
-
-
+#EXTINF:-1,Discovery Channel  US
+http://linea.cc:8000/live/test123/test123/54069.ts?checkedby:ahlakid.com.m3u8
 
 
 
