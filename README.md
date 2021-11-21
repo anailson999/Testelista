@@ -5,6 +5,23 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,REDE VIDA HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1,Love nature usa hd
+http://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Kronehits RU HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1,SOBRENATURAL TV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w430333346.m3u8
+
+#EXTINF:-1,CLARO SPORTS FHD
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:-1,FOX SPORTS NEWS HD
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+
+
 #EXYINF:-1,REDE FAMILIA HD
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
 
