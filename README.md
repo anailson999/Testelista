@@ -319,3 +319,35 @@ http://185.224.218.17:83/22446688/22446688/387145.ts
 
 #EXTINF:-1,RECORD NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637514782/ei/vimaYdR95YKhsg_IzKjgBA/ip/45.238.114.52/id/saz29dZJR04.1/source/yt_live_broadcast/requiressl/yes/tx/24078603/txs/24078603%2C24105952%2C24105953%2C24105954%2C24105955%2C24105956/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886201/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOu3iS1b4p8-94mz9tF_o4UUs630sUld5FEQODq1fzMeAiB4RJncrMFmcoCObWszauhbOTUjrgunuL8ex_N0Ju9eWQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1,JOVEM PAN NEWS HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637515868/ei/_C2aYccvxYTWxA-h-56wCw/ip/45.238.114.52/id/fHpDKynBgLM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOqgVqNPDZC9m_fTQzKcEaUYqhgK_Olj98vBRNf-zxtUAiEAvqiHDYPiA5vIGTB7p3I4NKtPO-23W27NvXCqhTZf8K0%3D/file/index.m3u8
+
+#EXTINF:-1,TV APARECIDA FHD ALT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637516170/ei/Ki-aYcWEA9zH1sQPyYqNyA0/ip/45.238.114.52/id/1KIucmaYkmU.9/source/yt_live_broadcast/requiressl/yes/tx/23997970/txs/23997970%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/spc/4ocVC2fSiTje0kIJ_XvM4WK4zJL6/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIDR2PHitYa1lFKK9rqHtfrcUOc2qHUT_BE3ARA_n0snAiEA9LxntgxmR1SbCrTl2VqAkO8SnEtHeNC0deL6nNJEzDU%3D/file/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
