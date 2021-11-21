@@ -305,6 +305,8 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,Kronehits h256
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
 
+#EXTINF:-1,Kronehits alt
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
 
