@@ -83,7 +83,7 @@ http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNI
 #EXTINF:-1,RECORD DF HD
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXYINF:-1,RECORD MG
+#EXTINF:-1,RECORD MG
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1,RECORD MG HD
