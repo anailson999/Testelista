@@ -5,6 +5,22 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,REDE VIDA HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1,TNT SPORTS FHD 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637566533/ei/5fOaYa3EDcyT-LAPpMy7-Ac/ip/45.238.114.112/id/9lkaGchqINs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/spc/4ocVC1ABOu8FNrlk1Gx_4XZ6rL0a/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIreKkM0FmGib9D2HSAy61loKTCI-PeSPjBOjJCY8-tJAiEAhc2BoNFNeSgt00JrmZzGStQ5DKZa4LhmT7-qbdKw9Go%3D/file/index.m3u8
+
+#EXTINF:-1,TNT SPORTS 2 FHD
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Love nature usa hd
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
 
