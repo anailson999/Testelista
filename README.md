@@ -11,21 +11,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637627354/ei/e
 #EXTINF:-1,SBT RIO ALT HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637628457/ei/yeWbYbKDGquakATP0KjACw/ip/45.238.114.112/id/Qiv6JNjSD-0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANV4PNSdFSOFa4OLbwzt39yABCymYCb_-Atz-cUfSgVlAiA0v1VtJ7W9vnPMnvVx-j1Q6n1e0i8cyHJ0pA3e0C5TBQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1,NBC Sports Bay Area HD
-http://185.224.218.17:83/live/22446688/22446688/263176.m3u8
-
-#EXTINF:-1,NBC Sports Boston HD
-http://185.224.218.17:83/live/22446688/22446688/263177.m3u8
-
-#EXTINF:-1,NBA TV HD
-http://185.224.218.17:83/live/22446688/22446688/387143.m3u8
-
-#EXTINF:-1,NBA TV
-http://185.224.218.17:83/live/22446688/22446688/387144.m3u8
-
-#EXTINF:-1,NBA TV FHD
-http://185.224.218.17:83/live/22446688/22446688/387145.m3u8
-
 #EXTINF:-1,TNT SPORTS FHD 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637566533/ei/5fOaYa3EDcyT-LAPpMy7-Ac/ip/45.238.114.112/id/9lkaGchqINs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/spc/4ocVC1ABOu8FNrlk1Gx_4XZ6rL0a/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIreKkM0FmGib9D2HSAy61loKTCI-PeSPjBOjJCY8-tJAiEAhc2BoNFNeSgt00JrmZzGStQ5DKZa4LhmT7-qbdKw9Go%3D/file/index.m3u8
 
@@ -703,27 +688,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637559811/ei/o
 
 #EXTINF:-1,RESIDENT EVIL CHANNEL 2 24/7 4K
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637576808/ei/CBybYcrqJfvp1sQP6uutqA0/ip/45.238.114.112/id/WK4IrOdoRkU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIyyXleAn0HBrEu-JZjviZiZXq9HSwieP3jfGpzy_gDwCIQDcrsQpxw_BJxvG9jRQdD7JOB7kwOLQaEYeIT2NjxAPHA%3D%3D/file/index.m3u8
-
-#EXTINF:-1,SKY NEWS 4K
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637560622/ei/ztyaYf6RFoie7QSb-7nACg/ip/45.238.114.112/id/9Auq9mYxFEE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOeu8MzDTqRzmJ5uQqw-kaWCZxTA9iQ4xNRoQ0uRFa6wCIQCF6oUvK1z7cMPSzKgWobBCsVn0xXLz6N6rNrxLhMpOew%3D%3D/file/index.m3u8
-
-#EXTINF:-1,SMITHSONIAN++
-http://185.224.218.17:83/live/22446688/22446688/310775.m3u8
-
-#EXTINF:-1,Sundance HD+
-http://showplustv.pro:80/live/ahmed12/ahmed123/64267.m3u8
-
-#EXTINF:-1NBA HD
-http://showplustv.pro:80/live/ahmed12/ahmed123/64260.m3u8
-
-#EXTINF:-1FXX HD
-http://showplustv.pro:80/live/ahmed12/ahmed123/64244.m3u8
-
-#EXTINF:-1,Fox News HD
-http://showplustv.pro:80/live/ahmed12/ahmed123/64231.m3u8
-
-#EXTINF:-1,USA Nasa HD
-http://showplustv.pro:80/live/ahmed12/ahmed123/63973.m3u8
 
 #EXTINF:-1,SUNDANCE FHD
 http://smartmedia.watch:2086/live/angel1/angel1/64493.m3u8
