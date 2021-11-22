@@ -698,69 +698,6 @@ http://smartmedia.watch:2086/live/angel1/angel1/64490.m3u8
 #EXTINF:-1,SMITHSONIAN WEST
 http://smartmedia.watch:2086/live/angel1/angel1/64491.m3u8
 
-#EXTINF:-1,MTV CLASSIC
-http://smartmedia.watch:2086/live/angel1/angel1/64463.m3u8
-
-#EXTINF:-1,MTV EAST
-http://smartmedia.watch:2086/live/angel1/angel1/64464.m3u8
-
-#EXTINF:-1,MTV LIVE HD
-http://smartmedia.watch:2086/live/angel1/angel1/64465.m3u8
-
-#EXTINF:-1, MTV2 
-http://smartmedia.watch:2086/live/angel1/angel1/64466.m3u8
-
-#EXTINF:-1,MTV U
-http://smartmedia.watch:2086/live/angel1/angel1/64467.m3u8
-
-#EXTINF:-1, NICK MUSIC
-http://smartmedia.watch:2086/live/angel1/angel1/64474.m3u8
-
-#EXTINF:-1, ME TV
-http://smartmedia.watch:2086/live/angel1/angel1/218742.m3u8
-
-#EXTINF:-1,WEATHER CHANNEL
-http://smartmedia.watch:2086/live/angel1/angel1/64513.m3u8
-
-#EXTINF:-1,ANIMAL PLANET US
-http://smartmedia.watch:2086/live/angel1/angel1/64392.m3u8
-
-#EXTINF:-1,TRAVEL CHANNEL EAST
-http://smartmedia.watch:2086/live/angel1/angel1/64501.m3u8
-
-#EXTINF:-1,TRAVEL CHANNEL WEST
-http://smartmedia.watch:2086/live/angel1/angel1/64502.m3u8
-
-#EXTINF:-1,WORLD FISHING NETWORK
-http://smartmedia.watch:2086/live/angel1/angel1/64515.m3u8
-
-#EXTINF:-1FOXSP PREMIUM
-http://smartmedia.watch:2086/live/angel1/angel1/94756.m3u8
-
-#EXTINF:-1,FOX SPORTS HD
-http://smartmedia.watch:2086/live/angel1/angel1/94757.m3u8
-
-#EXTINF:-1,FOX SPORTS 2 HD
-http://smartmedia.watch:2086/live/angel1/angel1/94758.m3u8
-
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://smartmedia.watch:2086/live/angel1/angel1/94759.m3u8
-
-#EXTINF:-1,FOX LIFE HD
-http://smartmedia.watch:2086/live/angel1/angel1/94761.m3u8
-
-#EXTINF:-1,FOX HD
-http://smartmedia.watch:2086/live/angel1/angel1/94762.m3u8
-
-#EXTINF:-1,FOX PREMIUM 2 FHD
-http://smartmedia.watch:2086/live/angel1/angel1/94765.m3u8
-
-#EXTINF:-1,FOX SPORTS FHD
-http://smartmedia.watch:2086/live/angel1/angel1/94767.m3u8
-
-#EXTINF:-1,FOX Sports Florida
-http://smartmedia.watch:2086/live/angel1/angel1/94768.m3u8
-
 #EXTINF:-1,NBA HD
 http://new-pro.tv:8080/live/golden_eagle/khalid/90123.m3u8
 
@@ -770,7 +707,7 @@ http://new-pro.tv:8080/live/golden_eagle/khalid/90160.m3u8
 #EXTINF:-1,FXX HD
 http://new-pro.tv:8080/live/golden_eagle/khalid/90161.m3u8
 
-#EXTINF:-1CNBC HD
+#EXTINF:-1,CNBC HD
 http://new-pro.tv:8080/live/golden_eagle/khalid/70360.m3u8
 
 #EXTINF:-1,MSNBC
@@ -824,83 +761,11 @@ http://new-pro.tv:8080/live/golden_eagle/khalid/92065.m3u8
 #EXTINF:-1,NBA HD
 http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42047.m3u8
 
-#EXTINF:-1,FXX HD 2
+#EXTINF:-1,FXX 4K
 http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42074.m3u8
 
-#EXTINF:-1,RED BULL TV FHD
+#EXTINF:-1,RED BULL TV 4K
 http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42209.m3u8
-
-#EXTINF:-1,NBA TV HD ALT 1
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/67914.m3u8
-
-#EXTINF:-1,NBC SPORTS BAY AREA PLUS HD
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/67740.m3u8
-
-#EXTINF:-1,OLYMPIC CHANNEL HD
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/67739.m3u8
-
-#EXTINF:-1,CCX1
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,CCX2
-https://nwct-tr-ls2.nwct.org/live/live.m3u8
-
-#EXTINF:-1,CCX2
-https://nwct-tr-ls2.nwct.org/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-
-#EXTINF:-1,CCX3
-https://nwct-tr-ls3.nwct.org/live/live.m3u8
-
-#EXTINF:-1,CCX3
-https://nwct-tr-ls3.nwct.org/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-
-#EXTINF:NASA TV
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-
-#EXTINF:0-1,NASA TV ALT 2
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,NASA TV ALT 3
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u
-
-#EXTINF:-1,Nat Geo Wild 1
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-
-#EXTINF:-1,Nat Geo Wild 2
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-
-#EXTINF:-1,Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:-1,National Geographic 1
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-
-#EXTINF:-1,National Geographic 2
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-
-#EXTINF:-1,National Geograpic 3
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
-#EXTINF:-1,Olympic Channel (UHD)
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,CNN FHD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9029.m3u8
-
-#EXTINF:-1NASA Live US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/16585.m3u8
-
-#EXTINF:-1,Nasa TV UHD US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/30314.m3u8
-
-#EXTINF:-1TNT US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15366.m3u8
-
-#EXTINF:-1,The Weather Channel US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/17427.m3u8
-
-#EXTINF:-1,Fight Sports US
-http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/17883.m3u8
 
 
 
