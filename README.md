@@ -14,6 +14,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637566954/ei/i
 #EXTINF:-1,SHOPTIME HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637569287/ei/p_6aYcaQHOST-LAPufiHwAs/ip/45.238.114.112/id/U_FnWLRoJYY.1/source/yt_live_broadcast/requiressl/yes/tx/24114337/txs/24114336%2C24114337%2C24114338/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPxuMqhAM349bRSArqMLrVNMJ3UsXI9saunPQfnuw4BQCIDtLW8T-415U-FqOgv0_-FXudKh2hDC_d1t-n5zCKNGk/file/index.m3u8
 
+#EXTINF:-1,BAND JORNALISMO HD NOT 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637600767/ei/n3mbYZWREpK-xAS3kKHYAQ/ip/45.238.114.112/id/DGg1x45cvb8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgEZXro3g_asuwf9YtaYROiPE-bALtx0L3SBY0pb6M_lMCIQD1lTm8cPukJPHTWEwgcADSEKu8XArHej181fgQOndyzg%3D%3D/file/index.m3u8
+
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
 
@@ -518,7 +521,6 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w97601455_b1000000.m3u8
 #EXTINF:-1,TERRA VIVA HD
 http://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1846226571.m3u8
-
 
 #EXTINF:-1,TV8 BRASIL FULL HD
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
