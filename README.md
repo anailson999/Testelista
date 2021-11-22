@@ -11,6 +11,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637627354/ei/e
 #EXTINF:-1,SBT RIO ALT HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637628457/ei/yeWbYbKDGquakATP0KjACw/ip/45.238.114.112/id/Qiv6JNjSD-0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANV4PNSdFSOFa4OLbwzt39yABCymYCb_-Atz-cUfSgVlAiA0v1VtJ7W9vnPMnvVx-j1Q6n1e0i8cyHJ0pA3e0C5TBQ%3D%3D/file/index.m3u8
 
+#EXTINF:-1,NBC Sports Bay Area HD
+http://185.224.218.17:83/play/22446688/22446688/263176.ts
+
+#EXTINF:-1,NBC Sports Boston HD
+http://185.224.218.17:83/play/22446688/22446688/263177.ts
+
 #EXTINF:-1,TNT SPORTS FHD 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637566533/ei/5fOaYa3EDcyT-LAPpMy7-Ac/ip/45.238.114.112/id/9lkaGchqINs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/spc/4ocVC1ABOu8FNrlk1Gx_4XZ6rL0a/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIreKkM0FmGib9D2HSAy61loKTCI-PeSPjBOjJCY8-tJAiEAhc2BoNFNeSgt00JrmZzGStQ5DKZa4LhmT7-qbdKw9Go%3D/file/index.m3u8
 
