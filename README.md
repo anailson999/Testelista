@@ -707,4 +707,32 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637576808/ei/C
 #EXTINF:-1,SKY NEWS 4K
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637560622/ei/ztyaYf6RFoie7QSb-7nACg/ip/45.238.114.112/id/9Auq9mYxFEE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOeu8MzDTqRzmJ5uQqw-kaWCZxTA9iQ4xNRoQ0uRFa6wCIQCF6oUvK1z7cMPSzKgWobBCsVn0xXLz6N6rNrxLhMpOew%3D%3D/file/index.m3u8
 
+#EXTINF:-1,SMITHSONIAN++
+http://185.224.218.17:83/play/22446688/22446688/310775.ts
+
+#EXTINF:-1,Sundance HD+
+http://showplustv.pro:80/play/ahmed12/ahmed123/64267.ts
+
+#EXTINF:-1NBA HD
+http://showplustv.pro:80/play/ahmed12/ahmed123/64260.ts
+
+#EXTINF:-1FXX HD
+http://showplustv.pro:80/play/ahmed12/ahmed123/64244.ts
+
+#EXTINF:-1,Fox News HD
+http://showplustv.pro:80/play/ahmed12/ahmed123/64231.ts
+
+#EXTINF:-1,USA Nasa HD
+http://showplustv.pro:80/play/ahmed12/ahmed123/63973.ts
+
+#EXTINF:-1,SUNDANCE FHD
+http://smartmedia.watch:2086/play/angel1/angel1/64493.ts
+
+#EXTINF:-1,SMITHSONIAN EAST
+http://smartmedia.watch:2086/play/angel1/angel1/64490.ts
+
+#EXTINF:-1,SMITHSONIAN WEST
+http://smartmedia.watch:2086/play/angel1/angel1/64491.ts
+
+
 
