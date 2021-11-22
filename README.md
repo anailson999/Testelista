@@ -14,6 +14,27 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637566954/ei/i
 #EXTINF:-1,SHOPTIME HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637569287/ei/p_6aYcaQHOST-LAPufiHwAs/ip/45.238.114.112/id/U_FnWLRoJYY.1/source/yt_live_broadcast/requiressl/yes/tx/24114337/txs/24114336%2C24114337%2C24114338/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPxuMqhAM349bRSArqMLrVNMJ3UsXI9saunPQfnuw4BQCIDtLW8T-415U-FqOgv0_-FXudKh2hDC_d1t-n5zCKNGk/file/index.m3u8
 
+#EXTINF:-1,Agro Canal HD 
+http://177.20.208.58:8000/play/a044/index.m3u8
+
+#EXTINF:-1,Bloomberg TV
+ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1,CULTURA HD
+ http://177.20.208.58:8000/play/a01x/index.m3u8
+
+#EXTINF:-1,Fashion HD
+ http://177.20.208.58:8000/play/a04h/index.m3u8
+
+#EXTINF:-1,Love Nature 4k Latin America 
+ http://177.20.208.58:8000/play/a03r/index.m3u8
+
+#EXTINF:-1,RedeTV! HD1
+ http://177.20.208.58:8000/play/a03x/index.m3u8
+
+#EXTINF:-1,Travel HD
+ http://177.20.208.58:8000/play/a04i/index.m3u8
+
 #EXTINF:-1,Love nature usa hd
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
 
