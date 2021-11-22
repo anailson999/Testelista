@@ -678,6 +678,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637559212/ei/T
 #EXTINF:-1,GOD OF WAR CHANNEL 24/7 4K
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637559811/ei/o9maYYyqNZHR1gKJzaWgAQ/ip/45.238.114.112/id/_Dil_kNRDU0.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKlwhK6de45qTeTqnTxh5gJam1T0xu4ddRKTtig-3nRACIEu-4LbmbL__E_A8OLUTX5Q8nMQMq23ec_zB2HbVim8R/file/index.m3u8
 
+#EXTINF:-1,RESIDENT EVIL CHANNEL 2 24/7 4K
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637576808/ei/CBybYcrqJfvp1sQP6uutqA0/ip/45.238.114.112/id/WK4IrOdoRkU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIyyXleAn0HBrEu-JZjviZiZXq9HSwieP3jfGpzy_gDwCIQDcrsQpxw_BJxvG9jRQdD7JOB7kwOLQaEYeIT2NjxAPHA%3D%3D/file/index.m3u8
+
 #EXTINF:-1,SKY NEWS 4K
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637560622/ei/ztyaYf6RFoie7QSb-7nACg/ip/45.238.114.112/id/9Auq9mYxFEE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOeu8MzDTqRzmJ5uQqw-kaWCZxTA9iQ4xNRoQ0uRFa6wCIQCF6oUvK1z7cMPSzKgWobBCsVn0xXLz6N6rNrxLhMpOew%3D%3D/file/index.m3u8
 
