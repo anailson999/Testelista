@@ -38,7 +38,7 @@ http://177.20.208.58:8000/play/a044/index.m3u8
 #EXTINF:-1,Love nature usa hd
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,KRONEHIT TV +++
+#EXTINF:-1,KRONEHIT TV +++ Stable
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:-1,LOVE NATURE alt hd2 ESPANHOL
@@ -74,35 +74,29 @@ http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIO
 #EXTINF:-1,RECORD BA
 http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1,Record BA HD
+#EXTINF:-1,RECORD BA HD
 http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1,RECORD DF
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1RECORD DF HD
+#EXTINF:-1,RECORD DF HD
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXYINF:-1,RRECORD MG
+#EXYINF:-1,RECORD MG
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1,RECORD MG HD
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1,Record PA
+#EXTINF:-1,RECORD PA
 http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1,Record PA HD
+#EXTINF:-1,RECORD PA HD
 http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1,Terra Viva
+#EXTINF:-1,TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,TNT Sports
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,TNT Sports HD
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1,Record News HD Alt
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
