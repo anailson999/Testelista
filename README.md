@@ -771,20 +771,20 @@ http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42209.m3u8
 http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42008.m3u8
 
 #EXTINF:-1,SyFy HD USA
-http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/42042
+http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42042.m3u8
 
 #EXTINF:-1,PPV Action 1 HD
-http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/42218
+http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42218.m3u8
 
 #EXTINF::-1,PPV Action 2 HD
-http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/42219
+http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42219.m3u8
 
 #EXTINF:-1,PPV Action 3 HD
-http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/42220
+http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42220.m3u8
 
 #EXTINF:-1,PPV Action 4 HD
-http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/42221
+http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42221.m3u8
 
 #EXTINF:-1,Hallmark HD
-http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/42024
+http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42024.m3u8
 
