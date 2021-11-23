@@ -8,9 +8,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
 
-#EXTINF:-1,Jovem pan news
-https://youtu.be/NpJdj4dFwJE
-
 #EXTINF:-1,Bloomberg TV
  https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
