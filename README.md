@@ -686,5 +686,31 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,Love Nature ES 1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8
 
+#EXTINF:-1,Kronehit HD Plus
+https://m.vk.com/away.php?to=http%3A%2F%2Fbitcdn-kronehit.bitmovin.com%2Fv2%2Fhls%2Fchunklist_b3128000.m3u8&post
+=-174905436_467
+
+#EXTINF:-1,Music Top HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,Nagoo TV HD
+
+http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,4FunTv HD
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,
 
