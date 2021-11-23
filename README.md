@@ -287,9 +287,6 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 #EXTINF:-1,Today TV Full HD
 https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
 
-#EXTINF:-1,NASA ISS HD
-http://a93e545a-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/17074538/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=eaad2a891f0b4b421b9e905fa8a9b268c47041b0&cdnHost=uhs-akamai.ustream.tv/
-
 #EXTINF:-1,KRONE HITS 4K #2
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
@@ -349,9 +346,6 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,LOVE NATURE USA 1080P
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1,NASA FHD
-http://a93e5457-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=e02c631056eedfa1f9ba417db7dbc9057065fe72
 
 #EXTINF:-1,LOVE NATURE USA 4K
 http://177.20.208.58:8000/play/a03r/index.m3u8
