@@ -611,3 +611,82 @@ http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist.m3u8
 #EXTINF:-1,TV REDE GOSPEL HD
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
+#EXTINF:-1,BBC NEWS HD
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1,CBS NEWS HD
+ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8 
+
+#EXTINF:-1,CBN Family HD
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8 
+
+#EXTINF:-1,Cable Hits FHD
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1,NHK World Japan HD+
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1,NHK World Japan HD Alt
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1,TNT US
+http://tv247.club/hls/tnt.m3u8 
+
+#EXTINF:-1,Sky News HD
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+
+#EXTINF:-1,DooTV HD
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+
+#EXTINF:-1,Sky Sports HD
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8 
+
+#EXTINF:-1,True Movies HD2
+http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
+
+#EXTINF:-1,Boomberg HD
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1,Love Nature HDD
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8 
+
+#EXTINF:-1,ABC 10 HD
+https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+
+#EXTINF:-1,ABC 11 HD
+https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
+
+#EXTINF:-1,ABC 13 HD
+https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
+
+#EXTINF:-1,ABC 13 VA
+https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
+
+#EXTINF:-1,ABC 16 HD
+https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+
+#EXTINF:-1,ABC 24 HD
+https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+
+#EXTINF:-1,CBS Houston TX HD
+https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
+
+#EXTINF:-1,Claro Sports
+http://45.179.140.242:8000/play/a0ht
+
+#EXTINF:-1,Smithsonian HD
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Nasa HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+
+#EXTINF:-1,Nasa Public HD
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1,Love Nature US 1
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Love Nature ES 1
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8
+
+#EXTINF:-1,
