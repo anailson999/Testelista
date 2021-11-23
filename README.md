@@ -677,9 +677,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1,Love Nature US 1
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Love Nature ES 1
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8
-
 #EXTINF:-1,Kronehit HD Plus
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
@@ -695,9 +692,6 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1,NASA iss
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,NASA Media
+#EXTINF:-1,NASA FHD
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,NASA Public
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
