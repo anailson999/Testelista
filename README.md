@@ -629,9 +629,6 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #EXTINF:-1,NHK World Japan HD Alt
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1,TNT US
-http://tv247.club/hls/tnt.m3u8 
-
 #EXTINF:-1,Sky News HD
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 
@@ -690,3 +687,4 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8
 
 #EXTINF:-1,
+
