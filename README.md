@@ -410,12 +410,6 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1,AGRO MAIS HD
 http://evpp.mm.uol.com.br:1935/geob_band/agromais/chunklist.m3u8
 
-#EXTINF:-1,BAND HD
-http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w793816707.m3u8
-
-#EXTINF:-1,BAND HD (TV RBA)
-https://5cf4a2c2512a2.streamlock.net:1443/rbatv/rbatv/chunklist_w652800062.m3u8
-
 #EXTINF:-1,RECORD DF HD
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
 
