@@ -5,24 +5,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,REDE VIDA HD 1
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1,REDE VIDA HD+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637627354/ei/euGbYdy-BZmMxQSPopqQAg/ip/45.238.114.112/id/lm_VX06sZSY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCbnhPIQ7A_TDS6zM9Nnu9TlOMgMzZUExVZLmigA94NQCICWTy7KidPd1jvu03oglnWRHGale9r2tyFRCGrkIpC27/file/index.m3u8
-
-#EXTINF:-1,SBT RIO ALT HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637628457/ei/yeWbYbKDGquakATP0KjACw/ip/45.238.114.112/id/Qiv6JNjSD-0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANV4PNSdFSOFa4OLbwzt39yABCymYCb_-Atz-cUfSgVlAiA0v1VtJ7W9vnPMnvVx-j1Q6n1e0i8cyHJ0pA3e0C5TBQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1,TNT SPORTS FHD 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637566533/ei/5fOaYa3EDcyT-LAPpMy7-Ac/ip/45.238.114.112/id/9lkaGchqINs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/spc/4ocVC1ABOu8FNrlk1Gx_4XZ6rL0a/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIreKkM0FmGib9D2HSAy61loKTCI-PeSPjBOjJCY8-tJAiEAhc2BoNFNeSgt00JrmZzGStQ5DKZa4LhmT7-qbdKw9Go%3D/file/index.m3u8
-
-#EXTINF:-1,NBA FHD NOT 24/7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637566954/ei/ivWaYZLLAbST-LAP5LiLkA4/ip/45.238.114.112/id/ICbLbLtPqQw.1/source/yt_live_broadcast/requiressl/yes/tx/24027683/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSZj9jxuDHW7O8EUE1MyBo6Fx9kpDJMLu4y3jk81DEN0CIQCG8NcNuQYRD5w5SI3d2cqMZLwTn6E4Ywjsgpr6oFBUcQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1,SHOPTIME HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637569287/ei/p_6aYcaQHOST-LAPufiHwAs/ip/45.238.114.112/id/U_FnWLRoJYY.1/source/yt_live_broadcast/requiressl/yes/tx/24114337/txs/24114336%2C24114337%2C24114338/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPxuMqhAM349bRSArqMLrVNMJ3UsXI9saunPQfnuw4BQCIDtLW8T-415U-FqOgv0_-FXudKh2hDC_d1t-n5zCKNGk/file/index.m3u8
-
-#EXTINF:-1,BAND JORNALISMO HD NOT 24/7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637600767/ei/n3mbYZWREpK-xAS3kKHYAQ/ip/45.238.114.112/id/DGg1x45cvb8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgEZXro3g_asuwf9YtaYROiPE-bALtx0L3SBY0pb6M_lMCIQD1lTm8cPukJPHTWEwgcADSEKu8XArHej181fgQOndyzg%3D%3D/file/index.m3u8
-
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
 
@@ -419,45 +401,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
 #EXTINF:-1,Kronehits alt 2
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1,RECORD NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637514782/ei/vimaYdR95YKhsg_IzKjgBA/ip/45.238.114.52/id/saz29dZJR04.1/source/yt_live_broadcast/requiressl/yes/tx/24078603/txs/24078603%2C24105952%2C24105953%2C24105954%2C24105955%2C24105956/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886201/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOu3iS1b4p8-94mz9tF_o4UUs630sUld5FEQODq1fzMeAiB4RJncrMFmcoCObWszauhbOTUjrgunuL8ex_N0Ju9eWQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1,JOVEM PAN NEWS HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637515868/ei/_C2aYccvxYTWxA-h-56wCw/ip/45.238.114.52/id/fHpDKynBgLM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOqgVqNPDZC9m_fTQzKcEaUYqhgK_Olj98vBRNf-zxtUAiEAvqiHDYPiA5vIGTB7p3I4NKtPO-23W27NvXCqhTZf8K0%3D/file/index.m3u8
-
-#EXTINF:-1,TV APARECIDA FHD ALT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637516170/ei/Ki-aYcWEA9zH1sQPyYqNyA0/ip/45.238.114.52/id/1KIucmaYkmU.9/source/yt_live_broadcast/requiressl/yes/tx/23997970/txs/23997970%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/spc/4ocVC2fSiTje0kIJ_XvM4WK4zJL6/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIDR2PHitYa1lFKK9rqHtfrcUOc2qHUT_BE3ARA_n0snAiEA9LxntgxmR1SbCrTl2VqAkO8SnEtHeNC0deL6nNJEzDU%3D/file/index.m3u8
-
-#EXTINF:-1,SBT ALT HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637516458/ei/SjCaYcDUGY_awgSj6qXQCg/ip/45.238.114.52/id/LrdprAVuV4M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/spc/4ocVC8ecLcLRVZo7O2I9vHmsy6DM/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP2zzg4NiZurzy8OdhUgHj5enyCmYl8eSOOrvl6WTVLBAiEA-cF004HuQqP-i3Sm1I4j8OSii7nUgeNP1Avho9RQS7Q%3D/file/index.m3u8
-
-#EXTINF:-1,NOVO TEMPO HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637516776/ei/iDGaYaDJCMT0wASE4YbYCg/ip/45.238.114.52/id/wxdR5F7ySdM.48/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOGrb_jMfu-dSnKN2fGR5YHRSV8c5OCbDPJ8CXOBFBAJAiEAlR34fxmhZINmYHbsdY-ZWgziWpJ2NlNaInkcqzhbjoQ%3D/file/index.m3u8
-
-#EXTINF:-1,RIT TV HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637517034/ei/ijKaYaeuL_vm1sQP_-u04A0/ip/45.238.114.52/id/qhqXIr3Yy7I.1/source/yt_live_broadcast/requiressl/yes/hfr/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPnaPVYcVRlkALoqt-5uhYpez9eSUthFZa-hPNF1OyzsAiBfLjlOZQwKIwMJgg7RU8mi98zsO0zWLMYn7pdvRmOiiQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1,CANCAO NOVA HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637517210/ei/OjOaYc3XJ-iR2LYP1Y6Q-Ag/ip/45.238.114.52/id/PolgieDWrqk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPkIJ0bRG2VkdCbSbiwxfHXxXBfJhug0RKLXCb4q7w3oAiBHlIRUx3VkmHgZ67JuMRQmzotJ0XWKgnSkEFeMIts5Zw%3D%3D/file/index.m3u8
-
-#EXTINF:-1,NASA CHANNEL FHD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637517561/ei/mTSaYbKTKNaR-LAP2OS44Ag/ip/45.238.114.52/id/nA9UZF-SZoQ.4/source/yt_live_broadcast/requiressl/yes/tx/24027684/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOK5gQ9QTmK2JGySjgL0H_7i9yjkJDhsMyxkeTPTGDB0CIQC2j0XS-UTApKxlvY46dHMZTybWtpCv2jXe9d4hVkEg6Q%3D%3D/file/index.m3u8
-
-#EXTINF:-1,NATURE FHD LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637517894/ei/5jWaYaz5CpeI-LAP0t6iqAE/ip/45.238.114.52/id/HMnatoiMdjA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPanF4oNEzyLhHTaVW-R8N5rRw0Xr6fZAIx76CRqLl0wAiEAqhf5m7k04ZzXnyp8WYh0YplJIMHQC4jILGlfPj2cL6I%3D/file/index.m3u8
-
-#EXTINF:-1,C5N FHD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637518230/ei/NjeaYdX3AoKUyQWAyoiIDg/ip/45.238.114.52/id/jN0TnHxhliA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANaYyL9rWfMCEQlNLl2X0wpN3oKBqyJ9W38De5X1K6GRAiEAv_JmHFpm_SzBb3cfZ0yJAhMJ150b_k3474MHpazXhus%3D/file/index.m3u8
-
-#EXTINF:-1,DD NEWS 24x7 FHD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637518542/ei/bjiaYeypI5LO7ATaha6wCA/ip/45.238.114.52/id/k9NOCARWnyU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJUhJQtSbQGMUH45SSUswr8za1E2ZhAWonAxt35-l2HoAiEAz8rLJ-KJRocG3rRDMT7RsWGgHp_Gzu5LDfOkc1e0CEw%3D/file/index.m3u8
-
-#EXTINF:-1,NASA CHANNEL FHD+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637518895/ei/zzmaYfKOBeyC8wLr0LSoBw/ip/45.238.114.52/id/21X5lGlDOfg.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/spc/4ocVC2Fuo1dGUubCehyOMY9XwOsF/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJOjIIY99JT7421ysNdcRirRTFoysOE5l1j6AlrvFaSRAiAyv7YIKYzO4bxW9Ev-69NYe7iaw5v1c1dZx0zseL6QzQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1,BAND NEWS HD NOT 24HS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637522486/ei/1keaYeqVGYLCxwSs54bADQ/ip/45.238.114.64/id/koGewEizy1w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcNO1HLSIazPv3tp9y1foZ96ss9b0AVxum8R9qYcKzUYCIQC0c_S9CrKKgw88sgUcXVOiNdXTAgcdpOocYwjVagn4gg%3D%3D/file/index.m3u8
-
 #EXTINF:-1,TV DIARIO FORTALEZA
 https://www.dailymotion.com/video/x7txn7q
 
@@ -673,19 +616,4 @@ http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist.m3u8
 
 #EXTINF:-1,TV REDE GOSPEL HD
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-
-#EXTINF:-1,Relaxing Channel FHD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637558022/ei/ptKaYamYH4Kf7AS5p5PwDw/ip/45.238.114.112/id/M7Lo0eZc_eg.1/source/yt_live_broadcast/requiressl/yes/tx/24027684/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPLTfyFAivSxMDeGxG0HqRoxZ9O1KOHB_SZbYaFbi1sdAiBO3eMp0XeHmTuZRbYpPQ3gygygTIEuCGVTQl2bF13DMQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1,NASA CHANNEL 4K
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637558577/ei/0dSaYauuOIqowgTK-ryIDw/ip/45.238.114.112/id/21X5lGlDOfg.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP572z-J5u-3sPueoC18BsMNaN_pT7ChiMnLnCdxfRmBAiEAzybPYrdRWonD6beZWnYdMYPRMvmNjtVboGs1tPRqk3k%3D/file/index.m3u8
-
-#EXTINF:-1,RESIDENT EVIL CHANNEL 24/7 4K
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637559212/ei/TNeaYcanL9XKj-8P5_i0-Ao/ip/45.238.114.112/id/pVqCZ8SUY38.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/spc/4ocVC_FGVw5eqhTdhHNZLN5IpbMS/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgV5aTr91Ifckgk68fl572YIgEjaEHiHTdJckOmKZhEKsCIQD5JsGjHLK_YSmvJ7E3-N9Btoh_4aEcXIF2Jd7RN0IUfQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1,GOD OF WAR CHANNEL 24/7 4K
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637559811/ei/o9maYYyqNZHR1gKJzaWgAQ/ip/45.238.114.112/id/_Dil_kNRDU0.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKlwhK6de45qTeTqnTxh5gJam1T0xu4ddRKTtig-3nRACIEu-4LbmbL__E_A8OLUTX5Q8nMQMq23ec_zB2HbVim8R/file/index.m3u8
-
-#EXTINF:-1,RESIDENT EVIL CHANNEL 2 24/7 4K
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637576808/ei/CBybYcrqJfvp1sQP6uutqA0/ip/45.238.114.112/id/WK4IrOdoRkU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIyyXleAn0HBrEu-JZjviZiZXq9HSwieP3jfGpzy_gDwCIQDcrsQpxw_BJxvG9jRQdD7JOB7kwOLQaEYeIT2NjxAPHA%3D%3D/file/index.m3u8
 
