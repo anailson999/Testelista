@@ -688,11 +688,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-sam
 
 #EXTINF:-1,Kronehit HD Plus
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
 #EXTINF:-1,Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1,Nagoo TV HD
-
 http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,4FunTv HD
