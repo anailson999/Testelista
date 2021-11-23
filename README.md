@@ -770,21 +770,15 @@ http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42209.m3u8
 #EXTINF:-1,VH1 HD US
 http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42008.ts
 
-#EXTINF:-1,SyFy HD USA
-http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42042.m3u8
-
-#EXTINF:-1,PPV Action 1 HD
-http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42218.m3u8
-
-#EXTINF::-1,PPV Action 2 HD
-http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42219.m3u8
-
-#EXTINF:-1,PPV Action 3 HD
-http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42220.m3u8
-
-#EXTINF:-1,PPV Action 4 HD
-http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42221.m3u8
-
 #EXTINF:-1,Hallmark HD
 http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42024.m3u8
+
+#EXTINF:-1World Fishing Network HD
+http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42015.m3u8
+
+#EXTINF:-1,Smithsonian+++
+http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42170.m3u8
+
+#EXTINF:-1,NBA HD++++
+http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42047.m3u8
 
