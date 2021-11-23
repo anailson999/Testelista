@@ -768,7 +768,7 @@ http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42074.m3u8
 http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42209.m3u8
 
 #EXTINF:-1,VH1 HD US
-http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42008.m3u8
+http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42008.ts
 
 #EXTINF:-1,SyFy HD USA
 http://wagmaott.com:8080/live/mag00:1A:79:49:0F:A6/ubkyntGhbV/42042.m3u8
