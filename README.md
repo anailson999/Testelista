@@ -5,6 +5,60 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,REDE VIDA HD 1
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1,FOX_ACTION
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/index.m3u8
+
+#EXTINF:-1,FOX SERIES
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/in
+dex.m3u8
+
+#EXTINF:-1,Max
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/Stream(01)/index.
+m3u8
+
+#EXTINF:-1,DHE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DHE_HD)/Stream(01)/ind
+ex.m3u8
+
+#EXTINF:-1,Golden HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/
+index.m3u8
+
+#EXTINF:-1,Golden Edge
+http://149.56.26.6:25461/live/dreamscanales/123456/1658.m3u8
+
+#EXTINF:-1,CINEcanal
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/Stream(0
+1)/index.m3u8
+
+#EXTINF:-1,TOONCAST
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/i
+ndex.m3u8
+
+#EXTINF:-1,Animal Planet
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stre
+am(01)/index.m3u8
+
+#EXTINF:-1,24 hrs
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8?sd=10
+
+#EXTINF:-1,CANAL CLARO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CLARO_HD)/index.
+m3u8
+
+#EXTINF:-1,PASIONES HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/index.m3u
+8
+#EXTINF:-1,Claro sports alt
+http://jjoo2016ch01-
+hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:0,UNIVISION_TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+
+EXTINF:-1,NBA TV HD
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8http://216.31.255.235/hlsl/5/NBATV/NBA
+TV.m3u8
+
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
 
