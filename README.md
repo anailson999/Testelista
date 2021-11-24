@@ -8,6 +8,9 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
 
+#EXTINF:0,BBC EARTH HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7082.ts?checkedby:iptvcat.com
+
 #EXTINF:-1,Bloomberg TV
  https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
