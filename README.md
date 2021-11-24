@@ -20,6 +20,14 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/41479
 #EXTINF:0,UFC Fight Pass US
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/
 
+#EXTINF:0,Hallmark Movies & More (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTINF:0,Love Nature (1080p)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Love Nature Español (1080p)
+https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
 
 #EXTINF:-1,Bloomberg TV
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
