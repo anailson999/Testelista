@@ -5,6 +5,11 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,REDE VIDA HD 1
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1,Fichtner hd us
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/529.m3u8
+
+
+
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
 
