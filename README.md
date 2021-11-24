@@ -11,24 +11,14 @@ http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/529.m3u8
 #EXTINF:0,NBA TV FHD
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173432.ts?checkedby:iptvcat.com
 
-#EXTINF:0,NBA Live 1 HD US
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/8538?checkedby:iptvcat.com
-
-#EXTINF:0,NBA HD US
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/533?checkedby:iptvcat.com
-
-#EXTINF:0,NBA HD
-http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/12355?checkedby:iptvcat.com
-
+#EXTINF:0,
 #EXTINF:0,NASA TV Media HD
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR0IYyBVSi__xfa9W82df0UA?checkedby:iptvcat.com
 
 #EXTINF:0,NASA TV HD US
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/11067?checkedby:iptvcat.com
 
-#EXTINF:0,SMITHSONIAN CHANNEL HD  US
-http://linea.cc:8000/test123/test123/56542.ts?checkedby:iptvcat.com
-
+#EXTINF:0,
 #EXTINF:0,GLOBO NORDESTE HD BR
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80021?checkedby:iptvcat.com
 
