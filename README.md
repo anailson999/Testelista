@@ -11,7 +11,6 @@ http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/529.m3u8
 #EXTINF:0,NBA TV FHD
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173432.ts?checkedby:iptvcat.com
 
-#EXTINF:0,
 #EXTINF:0,NASA TV Media HD
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR0IYyBVSi__xfa9W82df0UA?checkedby:iptvcat.com
 
