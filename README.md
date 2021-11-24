@@ -668,7 +668,7 @@ http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1,Smithsonian HD
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Nasa HD
+#EXTINF:-1,Space Channel HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
 #EXTINF:-1,Nasa Public HD
