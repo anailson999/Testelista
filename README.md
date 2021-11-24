@@ -721,4 +721,46 @@ http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/10217.m3u8
 http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8945.m3u8
 
 
+#EXTINF:-1,CBSN FHD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/10217.m3u8
+
+#EXTINF:-1,CBSN HD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8945.m3u8
+
+
+#EXTINF:-1,AMC HD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8969.m3u8
+
+#EXTINF:0,Animal Planet HD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8957.m3u8
+
+#EXTINF:0 ,Bein Sport US HD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/9521.m3u8
+
+#EXTINF:0 ,BET HD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/9008.m3u8
+
+#EXTINF:0,Bloomberg VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/10219.m3u8
+
+#EXTINF:0,Bloomberg HD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8994.m3u8
+
+#EXTINF:0 ,Boomerang FHD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/10218.m3u8
+
+#EXTINF:0,Boomerang HD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/9009.m3u8
+
+#EXTINF:0,Bravo HD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/9007.m3u8
+
+#EXTINF:0,Cartoon Network HD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8974.m3u8
+
+
+
+
+
+
 
