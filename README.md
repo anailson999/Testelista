@@ -8,26 +8,23 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
 
-#EXTINF:0,BBC EARTH HD
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7082.ts?checkedby:iptvcat.com
-
 #EXTINF:-1,Bloomberg TV
- https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1,CULTURA HD
- http://177.20.208.58:8000/play/a01x/index.m3u8
+http://177.20.208.58:8000/play/a01x/index.m3u8
 
 #EXTINF:-1,Fashion HD
- http://177.20.208.58:8000/play/a04h/index.m3u8
+http://177.20.208.58:8000/play/a04h/index.m3u8
 
 #EXTINF:-1,Love Nature 4k Latin America 
- http://177.20.208.58:8000/play/a03r/index.m3u8
+http://177.20.208.58:8000/play/a03r/index.m3u8
 
 #EXTINF:-1,RedeTV! HD1
- http://177.20.208.58:8000/play/a03x/index.m3u8
+http://177.20.208.58:8000/play/a03x/index.m3u8
 
 #EXTINF:-1,Travel HD
- http://177.20.208.58:8000/play/a04i/index.m3u8
+http://177.20.208.58:8000/play/a04i/index.m3u8
 
 #EXTINF:-1,Love nature usa hd
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
