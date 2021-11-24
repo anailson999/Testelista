@@ -683,15 +683,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1,Nagoo TV HD
+#EXTINF:-1,Nago TV HD
 http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,4FunTv HD
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-
-#EXTINF:-1,NASA iss
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,NASA FHD
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
