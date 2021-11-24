@@ -8,7 +8,29 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,Fichtner hd us
 http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/529.m3u8
 
+#EXTINF:0,NBA TV FHD
+http://dmtn.tv:80/live/gen-pro-ress/TQK2KKVB4P/173432.ts?checkedby:iptvcat.com.m3u8
 
+#EXTINF:0,NBA Live 1 HD US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8538?checkedby:iptvcat.com.m3u8
+
+#EXTINF:0,NBA HD US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/533?checkedby:iptvcat.com.m3u8
+
+#EXTINF:0,NBA HD
+http://grdts.jrtf21.com:2082/live/dondream_312833/68U5Dja4/12355?checkedby:iptvcat.com.m3u8
+
+#EXTINF:0,NASA TV Media HD
+http://gooserace.xyz:80/live/play/8RKaarZp2hb82YDzh8OYR0IYyBVSi__xfa9W82df0UA?checkedby:iptvcat.com.m3u8
+
+#EXTINF:0,NASA TV HD US
+http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/11067?checkedby:iptvcat.com.m3u8
+
+#EXTINF:0,SMITHSONIAN CHANNEL HD  US
+http://linea.cc:8000/live/test123/test123/56542.ts?checkedby:iptvcat.com.m3u8
+
+#EXTINF:0,GLOBO NORDESTE HD BR
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/80021?checkedby:iptvcat.com.m3u8
 
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
@@ -693,69 +715,4 @@ http://haititivi.com:8088/live/haititv/tele6NY/tracks-v1a1/index.m3u8
 
 #EXTINF:0,NASA TV 3
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-
-
-
-
-#EXTINF:-1,Hallmark hd
-Hallmark Channel HD US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/7746.m3u8
-
-#EXTINF:-1,MSNBC HD US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/575.m3u8
-
-#EXTINF:-1,MTV Base HD US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/7744.m3u8
-
-#EXTINF:-1,MTV Rocks US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/494.m3u8
-
-#EXTINF:-1,NBA HD US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/533.m3u8
-
-#EXTINF:-1,UFC Fight Pass
-UFC Fight Pass US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/6421.m3u8
-
-#EXTINF:-1,Smithsonian Channel US HD
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/41479.m3u8
-
-
-#EXTINF:-1,CBSN FHD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/10217.m3u8
-
-#EXTINF:-1,CBSN HD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8945.m3u8
-
-
-#EXTINF:-1,AMC HD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8969.m3u8
-
-#EXTINF:0,Animal Planet HD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8957.m3u8
-
-#EXTINF:0 ,Bein Sport US HD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/9521.m3u8
-
-#EXTINF:0 ,BET HD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/9008.m3u8
-
-#EXTINF:0,Bloomberg VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/10219.m3u8
-
-#EXTINF:0,Bloomberg HD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8994.m3u8
-
-#EXTINF:0 ,Boomerang FHD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/10218.m3u8
-
-#EXTINF:0,Boomerang HD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/9009.m3u8
-
-#EXTINF:0,Bravo HD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/9007.m3u8
-
-#EXTINF:0,Cartoon Network HD VIP US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8974.m3u8
-
 
