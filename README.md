@@ -8,21 +8,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
 
-#EXTINF:0,MSNBC HD US
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/575
-
-#EXTINF:0,NBA HD US
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/533
-
-#EXTINF:0,Smithsonian Channel US
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/41479
-
-#EXTINF:0,UFC Fight Pass US
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/
-
-#EXTINF:0,Hallmark Movies & More (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-
 #EXTINF:0,Love Nature (1080p)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
