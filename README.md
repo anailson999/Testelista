@@ -691,4 +691,34 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,Nago TV HD
 http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,Hallmark hd
+Hallmark Channel HD US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/7746.m3u8
+
+#EXTINF:-1,MSNBC FHD+ US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/575.m3u8
+
+#EXTINF:-1,MTV Base HD US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/7744.m3u8
+
+#EXTINF:-1,MTV Rocks US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/494.m3u8
+
+#EXTINF:-1,NBA HD US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/533.m3u8
+
+#EXTINF:-1,UFC Fight Pass HD
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/6421.m3u8
+
+#EXTINF:-1,Smithsonian Channel US HD
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/41479.m3u8
+
+
+#EXTINF:-1,CBSN FHD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/10217.m3u8
+
+#EXTINF:-1,CBSN HD VIP US
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8945.m3u8
+
+
 
