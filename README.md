@@ -18,9 +18,81 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR0IYyBVSi__xfa9W82df0UA?checked
 #EXTINF:0,NASA TV HD US
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/11067?checkedby:iptvcat.com
 
-#EXTINF:0,
+#EXTINF:0,AMC HD
+http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/28887?checkedby:iptvcat.com
+
+#EXTINF:0,ANIMAL PLANET
+http://168.205.87.198:8555/live/antony/1234/18.ts?checkedby:iptvcat.com
+
+#EXTINF:0,AXN FHD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79970?checkedby:iptvcat.com
+
+#EXTINF:0,Band HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81022?checkedby:iptvcat.com
+
+#EXTINF:0,BAND SPORTS HD
+http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/28868?checkedby:iptvcat.com
+
+#EXTINF:0,BIS FHD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81027?checkedby:iptvcat.com
+
+#EXTINF:0,BOOMERANG HD
+http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/28858?checkedby:iptvcat.com
+
+#EXTINF:0,Cinemax FHD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81038?checkedby:iptvcat.com
+
+#EXTINF:0,Combate HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81040?checkedby:iptvcat.com
+
+#EXTINF:0,Combate HD BR ALT 2
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81040?checkedby:iptvcat.com
+
+#EXTINF:0,Channel FHD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81057?checkedby:iptvcat.com
+
+#EXTINF:0,Discovery HD BR
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46518?checkedby:iptvcat.com
+
+#EXTINF:0,DISCOVERY ID
+http://168.205.87.198:8555/live/antony/1234/36.ts?checkedby:iptvcat.com
+
+#EXTINF:0,DISCOVERY TURBO HD
+http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/28839?checkedby:iptvcat.com
+
+#EXTINF:0,ESPN 2 FHD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81065?checkedby:iptvcat.com
+
+#EXTINF:0,ESPN BRASIL FHD²
+http://s.pdsrv.io:80/mbkbdhjh/1acxGPz248/97102?checkedby:iptvcat.com
+
+#EXTINF:0,EVANGELIZAR HD
+http://solutionplay.xyz:8080/techruthes/10987658/5921?checkedby:iptvcat.com
+
+#EXTINF:0,FOX HD
+http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/28904?checkedby:iptvcat.com
+
+#EXTINF:0,FOX PREMIUM 1 HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80006?checkedby:iptvcat.com
+
+#EXTINF 0,FOX PREMIUM 2 HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80007?checkedby:iptvcat.com
+
+#EXTINF:0,Shoptime BR
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46590?checkedby:iptvcat.co
+
 #EXTINF:0,GLOBO NORDESTE HD BR
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80021?checkedby:iptvcat.com
+
+#EXTINF:0,RECORD HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80058?checkedby:iptvcat.com
+
+#EXTINF:0,RECORD NEWS HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80063?checkedby:iptvcat.com
+
+#EXTINF:0,TV Diario
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/8078.ts?checkedby:iptvcat.com
+
 
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
