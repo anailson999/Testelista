@@ -17,6 +17,8 @@ https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CD
 #EXTINF:1 ,Smithsonian Channel Asia (1080p) (Science)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:1 ,Claro Sports  (Spanish)
+http://45.179.140.242:8000/play/a0ht
 
 #EXTINF:-1,Bloomberg TV
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
