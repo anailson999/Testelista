@@ -708,3 +708,36 @@ https://d27r4t30huw0iy.cloudfront.net/playlist.m3u8
 #EXTINF:1 ,Love Nature Espãnol
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
 
+#EXTINF:0,EXTINF:1 ,NASA TV (720p)  (Science)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:1 ,NASA TV (720p) [Not 24/7]  (Science)
+https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+
+#EXTINF:1 ,NASA TV (504p)  (Science)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:1 ,NASA TV ISS Views  (Science)
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+#EXTINF:1 ,NASA TV Media (720p)  (Education)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:1 ,NASA TV Public (720p)  (Education)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:1 ,NASA TV Public  (Education)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:1 ,Nat Geo WILD  (Documentary)
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+
+#EXTINF:1 ,National Geographic  (Documentary)
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
+
+#EXTINF:1 ,National Geographic Abu Dhabi  (Documentary)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+#EXTINF:1 ,Nature Live - Animal Live (Bumblebee)  (Relax)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
