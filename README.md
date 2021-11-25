@@ -695,3 +695,16 @@ http://haititivi.com:8088/live/haititv/tele6NY/tracks-v1a1/index.m3u8
 #EXTINF:0,NASA TV 3
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
+
+#EXTINF:1 ,Love Nature 1080p
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:1 ,Love Nature (Outdoor)
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:1 ,Love Nature 4K (Outdoor)
+https://d27r4t30huw0iy.cloudfront.net/playlist.m3u8
+
+#EXTINF:1 ,Love Nature Espãnol
+https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
+
