@@ -729,31 +729,13 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:1 ,Nat Geo WILD  (Documentary)
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 
-#EXTINF:1 ,National Geographic  (Documentary)
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
-
-#EXTINF:1 ,National Geographic Abu Dhabi  (Documentary)
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
 #EXTINF:1 ,Nature Live - Animal Live (Bumblebee)  (Relax)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 
 #EXTINF :0,Euronews en Español (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0,Mar TV (1080p)
-http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
-
-#EXTINF:0,Love Nature Español [Geo-blocked]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8
-
 #EXTINF:0,Love Nature (1080p) alt
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:0,Love Nature Español (1080p) Alt
-https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
-
-#EXTINF:0,Love Nature BR
-http://177.91.162.202:8000/play/LoveNature/index.m3u8
 
 
