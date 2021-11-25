@@ -705,18 +705,6 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:1 ,Love Nature 1080p
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:0,NASA TV (720p)  (Science)
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-#EXTINF:1 ,NASA TV (720p) [Not 24/7]  (Science)
-https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-
-#EXTINF:1 ,NASA TV (504p)  (Science)
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-
-#EXTINF:1 ,NASA TV ISS Views  (Science)
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-
 #EXTINF:1 ,NASA TV Media (720p)  (Education)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
