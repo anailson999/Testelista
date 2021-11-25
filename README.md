@@ -14,6 +14,10 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,Love Nature Español (1080p)
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
 
+#EXTINF:1 ,Smithsonian Channel Asia (1080p) (Science)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1,Bloomberg TV
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
