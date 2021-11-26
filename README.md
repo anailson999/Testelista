@@ -727,29 +727,29 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:0,NBA HD
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110958
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110958.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA Network" tvg-logo="" group-title="NBA TV",|.NBA.| NBA Network
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110959
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110959.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA TV CALIFORNIA" tvg-logo="" group-title="NBA TV",|.NBA.| NBA TV CALIFORNIA
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110960
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110960.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA TV HD" tvg-logo="" group-title="NBA TV",|.NBA.| NBA TV HD
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110961
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110961.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA TV FHD" tvg-logo="" group-title="NBA TV",|.NBA.| NBA TV FHD
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110962
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110962.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA 1" tvg-logo="" group-title="NBA TV",|.NBA.| NBA 1
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110963
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110963.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA 3" tvg-logo="" group-title="NBA TV",|.NBA.| NBA 3
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110964
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110964.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA 2" tvg-logo="" group-title="NBA TV",|.NBA.| NBA 2
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110965
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110965.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|.NBA.| NBA 4" tvg-logo="" group-title="NBA TV",|.NBA.| NBA 4
-http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/110966
+http://vip.vprotv.com:25443/live/Mqjdjfbdhg/Z87DA7Q5DZ/110966.m3u8
 
