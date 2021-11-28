@@ -23,6 +23,18 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0,Smithsonian HDD
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:0,NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+
+#EXTINF:0,Reuters TV
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,NASA TV Public 1080p
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:0,NASA TV Media 1080p
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
 #EXTINF:0,Claro Sports
 http://45.179.140.242:8000/play/a0ht
 
