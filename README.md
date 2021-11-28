@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0,Jovem Pan News not 24/7
+https://youtu.be/watch?v=n2nf-uBEiXs
+
 #EXTINF:0,Euronews Live
 https://www.youtube.com/watch?v=sPgqEHsONK8
 
