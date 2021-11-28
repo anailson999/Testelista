@@ -5,11 +5,56 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,REDE VIDA HD 1
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:0,CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,Bloomberg
+https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:0,ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:0,CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:0,NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+
 #EXTINF:0,Deejay TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 
-#EXTINF:0,Rai 4k
-https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:0,Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+
+#EXTINF:0,Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+
+#EXTINF:0,Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709 
+
+#EXTINF:0,Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+
+#EXTINF:0 ,Iris 
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+
+#EXTINF:0 ,Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+
+#EXTINF:0,Rai News 24
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+
+#EXTINF:0,Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
+
+#EXTINF:0 ,Sky TG 24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+
+#EXTINF:0 ,TGCOM 24
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+
+#EXTINF:0,Dmax
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 
 #EXTINF:0,Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
