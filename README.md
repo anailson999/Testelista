@@ -8,13 +8,23 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:0,Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:0,Love Nature HDD
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+
+#EXTINF:0, Love Nature 2 HDD
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Love Nature 4k
+https://www.we-play.tv/watching/tv/lovenature-4k
+
+#EXTINF:0,Smithsonian HDD
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:0,Claro Sports
 http://45.179.140.242:8000/play/a0ht
 
 #EXTINF:0,Love Nature Español [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8
-
-
 
 #EXTINF:-1,Agro Canal HD 
 http://177.20.208.58:8000/play/a044/index.m3u8
