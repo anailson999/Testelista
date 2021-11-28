@@ -14,8 +14,11 @@ http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:0, Love Nature 2 HDD
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:0,Love Nature 4k
-https://www.we-play.tv/watching/tv/lovenature-4k
+#EXTINF:0,Love Nature 3 hd
+https://d27r4t30huw0iy.cloudfront.net/playlist.m3u8
+
+#EXTINF:0,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:0,Smithsonian HDD
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
