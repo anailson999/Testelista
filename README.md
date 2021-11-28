@@ -1,4 +1,11 @@
-EXTM3U
+#EXTM3U
+
+#EXTINF:0,Euronews Live
+https://www.youtube.com/watch?v=sPgqEHsONK8
+
+#EXTINF:0,Sport2U
+https://live.sport2u.tv/EvoLive/myStream/playlist.m3u8
+
 #EXTINF:-1,REDE VIDA FHD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
