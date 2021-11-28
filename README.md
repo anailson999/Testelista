@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:0,NASA FHD
+https://youtu.be/watch?v=21X5lGlDOfg
+
+#EXTINF:0,NASA MÍDIA HD
+https://youtu.be/watch?v=nA9UZF-SZoQ
+
+#EXTINF:0,Record News HD
+https://youtu.be/watch?v=saz29dZJR04
+
+#EXTINF:0,Sky News HD
+https://youtu.be/watch?v=9Auq9mYxFEE
+
+#EXTINF:0,NBC NEWS HD
+https://youtu.be/watch?v=SrWdkIscbug
+
 #EXTINF:0,Jovem Pan News not 24/7
 https://youtu.be/watch?v=n2nf-uBEiXs
 
@@ -17,6 +32,9 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 
 #EXTINF:0,CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,ABC NEWS HD
+https://youtu.be/watch?v=w_Ma8oQLmSM
 
 #EXTINF:0,ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
