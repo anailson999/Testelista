@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTINF:0,Kronehits HD
+#EXTINF:-0,Kronehits HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1,Love Nature HD#
