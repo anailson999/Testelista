@@ -2,6 +2,12 @@
 EXTINF:-1,Love Nature 4k Español
 http://177.20.208.58:8000/play/a03r/index.m3u8
 
+#EXTINF:-1,Love Nature 4k UHD
+http://177.20.208.58:8000/play/a03r/index.m3u8
+
+#EXTINF:0,TV CULTURA HD
+https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/chunklist_w1926300754.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 1 HD
 http://mantech-tv.xyz:8888/mantechnology768/0795958379/10
 
