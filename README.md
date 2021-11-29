@@ -1,30 +1,168 @@
 #EXTM3U
-#EXTINF:0,ELEVENSPORT 1 HD
-http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3177
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 1 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/10
 
-#EXTINF:0,ELEVENSPORT 2 HD
-http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3176
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 2 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/11
 
-#EXTINF:0,ELEVENSPORT 3 HD
-http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3175
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 3 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/12
 
-#EXTINF:0,ELEVENSPORT 4 HD
-http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3174
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 1  Full-HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/1
 
-#EXTINF:0,GOLF CHANNEL
-http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3173
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 2 Full-HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/2
 
-#EXTINF:0,FIGHTBOX HD
-http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3172
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 3 Full-HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/3
 
-#EXTINF:0,BEIN SPORT HD
-http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/4929
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",beIN SPORTS 1 Full-HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/4
 
-#EXTINF:0,BEIN SPORTS NBA HD
-http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/4928
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",beIN SPORTS 2 Full-HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/5
 
-#EXTINF:0,BEIN SPORT NEWS HD
-http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/4927
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",beIN SPORTS 3 Full-HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/6
+
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",beIN SPORTS 4 Full-HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/206
+
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",beIN SPORTS 5 Full-HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/207
+
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",beIN SPORTS 6 Full-HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/208
+
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",beIN SPORTS 7 Full-HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/209
+
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",beIN SPORTS NBA HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/7
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS XTRA 1 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS XTRA 2 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/9
+
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",beIN SPORTS 1 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/13
+
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",beIN SPORTS 2 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/14
+
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",beIN SPORTS 3 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/15
+
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",beIN SPORTS 4 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/16
+
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",beIN SPORTS 5 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/17
+
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",beIN SPORTS 6 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/18
+
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",beIN SPORTS 7 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/19
+
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",beIN SPORTS hd
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/200
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS News HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/201
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC Sport 1 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/43
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC Sport 2 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/44
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | bein SPORTS HD1
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/45
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | bein SPORTS HD2
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/46
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | bein SPORTS HD3
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/47
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | bein SPORTS Max HD4
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/160
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | bein SPORTS Max HD5
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/161
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | bein SPORTS Max HD6
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/162
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | bein SPORTS Max HD7
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/163
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | bein SPORTS Max HD8
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/164
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | beIN SPORTS Max HD9
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/165
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | beIN SPORTS Max HD10
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/166
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC Sport Live 3 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/167
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC SPORT LIVE 5 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/168
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC SPORT LIVE  6 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/169
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC SPORT LIVE 7 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/170
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 1 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/86
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 2 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/87
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 4 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/89
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 5 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/90
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 6 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/91
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 7 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/92
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 3 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/88
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eleven Sport
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/150
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ESPN UK
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/151
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eurosport 1 UK
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/152
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eurosport 2 UK
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/153
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS ENGLISH 1 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/133
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS ENGLISH 3 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/135
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS ENGLISH 2 HD
+http://mantech-tv.xyz:8888/mantechnology768/0795958379/134
 
 #EXTINF:0,NASA FHD
 https://youtu.be/watch?v=21X5lGlDOfg
