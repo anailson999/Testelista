@@ -6,7 +6,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,Love Nature HD#
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 
-#EXTINF:-1,, Net Geo Wild HD
+#EXTINF:-1,Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 #EXTINF:-1,Love Nature 4k#
@@ -18,31 +18,31 @@ http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-1,Love Nature 4k UHD
 http://177.20.208.58:8000/play/a03r/index.m3u8
 
-#EXTINF:0,TV CULTURA HD
+#EXTINF:-0,TV CULTURA HD
 https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/chunklist_w1926300754.m3u8
 
-#EXTINF:0,NASA FHD
+#EXTINF:-0,NASA FHD
 https://youtu.be/watch?v=21X5lGlDOfg
 
-#EXTINF:0,NASA MÍDIA HD
+#EXTINF:-0,NASA MÍDIA HD
 https://youtu.be/watch?v=nA9UZF-SZoQ
 
-#EXTINF:0,Record News HD
+#EXTINF:-0,Record News HD
 https://youtu.be/watch?v=saz29dZJR04
 
-#EXTINF:0,Sky News HD
+#EXTINF:-0,Sky News HD
 https://youtu.be/watch?v=9Auq9mYxFEE
 
-#EXTINF:0,NBC NEWS HD
+#EXTINF:-0,NBC NEWS HD
 https://youtu.be/watch?v=SrWdkIscbug
 
-#EXTINF:0,Jovem Pan News not 24/7
+#EXTINF:-0,Jovem Pan News not 24/7
 https://youtu.be/watch?v=n2nf-uBEiXs
 
-#EXTINF:0,Euronews Live
+#EXTINF:-0,Euronews Live
 https://www.youtube.com/watch?v=sPgqEHsONK8
 
-#EXTINF:0,Sport2U
+#EXTINF:-0,Sport2U
 https://live.sport2u.tv/EvoLive/myStream/playlist.m3u8
 
 #EXTINF:-1,REDE VIDA FHD
@@ -84,7 +84,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 #EXTINF:0,Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 
-#EXTINF:0 ,Sky TG 24
+#EXTINF:0,Sky TG 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 
 #EXTINF:0,Dmax
@@ -96,7 +96,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0,Love Nature HDD
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 
-#EXTINF:0, Love Nature 2 HDD
+#EXTINF:0,Love Nature 2 HDD
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:0,Love Nature 3 hd
@@ -387,7 +387,7 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 ,KRONEHIT 4k#1
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1 ,HDL RU HD
+#EXTINF:-1,HDL RU HD
 https://sc.id-tv.kz/hdl_34_35.m3u8
 
 #EXTINF:-1,FUTURA HD
@@ -613,7 +613,8 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1,TV GAZETA HD (TV ALT
 http://stmv4.srvstm.com/wagner1168/wagner1168/media_w277204921_2307.m3u8
 
-#EXTINF:-1,TV UNIAO;URL=http://stmv1.ifantasy.com.br/admin/admin/chunklist_w1832246586.m3u8
+#EXTINF:-1,TV UNIAO
+http://stmv1.ifantasy.com.br/admin/admin/chunklist_w1832246586.m3u8
 
 #EXTINF:-1,TV VIA MORENA
 http://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
