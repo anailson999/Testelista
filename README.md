@@ -1,5 +1,18 @@
 #EXTM3U
-EXTINF:-1,Love Nature 4k Español
+
+#EXTINF:0,Kronehits HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1,Love Nature HD#
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+
+#EXTINF:-1,, Net Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
+#EXTINF:-1,Love Nature 4k#
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+
+#EXTINF:-1,Love Nature 4k Español
 http://177.20.208.58:8000/play/a03r/index.m3u8
 
 #EXTINF:-1,Love Nature 4k UHD
