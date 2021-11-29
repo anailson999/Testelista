@@ -1,4 +1,7 @@
 #EXTM3U
+EXTINF:-1,Love Nature 4k Español
+http://177.20.208.58:8000/play/a03r/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 1 HD
 http://mantech-tv.xyz:8888/mantechnology768/0795958379/10
 
@@ -182,7 +185,25 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,REDE VIDA HD 1
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:0,CNN
+#REDE SECULO 21 HD 1
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?
+
+#EXTINF:-1 ,REDE SECULO 21 HD 2
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
+
+#EXTINF:-1 ,TV APARECIDA HD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
+
+#EXTINF:-1 SANTUÁRIO DE FÁTIMA HD
+https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8
+
+#EXTINF:-1 ,TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?
+
+#EXTINF:-1 ,IURD TV HD UNIVERSAL
+https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,CNN Int HD
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0,ABC NEWS HD
