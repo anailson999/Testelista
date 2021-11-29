@@ -583,7 +583,8 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1,TV GAZETA HD (TV ALT
 http://stmv4.srvstm.com/wagner1168/wagner1168/media_w277204921_2307.m3u8
 
-#EXTINF:-1,TV UNIAO;URL=http://stmv1.ifantasy.com.br/admin/admin/chunklist_w1832246586.m3u8
+#EXTINF:-1,TV UNIAO
+http://stmv1.ifantasy.com.br/admin/admin/chunklist_w1832246586.m3u8
 
 #EXTINF:-1,TV VIA MORENA
 http://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
