@@ -143,18 +143,6 @@ http://mantech-tv.xyz:8888/mantechnology768/0795958379/92
 #EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 3 HD
 http://mantech-tv.xyz:8888/mantechnology768/0795958379/88
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eleven Sport
-http://mantech-tv.xyz:8888/mantechnology768/0795958379/150
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ESPN UK
-http://mantech-tv.xyz:8888/mantechnology768/0795958379/151
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eurosport 1 UK
-http://mantech-tv.xyz:8888/mantechnology768/0795958379/152
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eurosport 2 UK
-http://mantech-tv.xyz:8888/mantechnology768/0795958379/153
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS ENGLISH 1 HD
 http://mantech-tv.xyz:8888/mantechnology768/0795958379/133
 
@@ -980,52 +968,4 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Love Nature (1080p) alt
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Sports News FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/676904
-#EXTINF:-1,Sports 1 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682932
-#EXTINF:-1,Sports 1 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5482
-#EXTINF:-1,Sports 1 HD VIP AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678748
-#EXTINF:-1,Sports 2 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682933
-#EXTINF:-1,Sports 2 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5481
-#EXTINF:-1,Sports 3 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682934
-#EXTINF:-1,Sports 3 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5480
-#EXTINF:-1,Sports 4 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5479
-#EXTINF:-1,Sports 5 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682935
-#EXTINF:-1,Sports 5 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5478
-#EXTINF:-1,Sports 6 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54777
-#EXTINF:-1,Sports 7 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683135
-#EXTINF:-1,Sports 7 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5476
-#EXTINF:-1,Sports 8 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53432
-#EXTINF:-1,Sports 9 FHD VIP AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682936
-#EXTINF:-1,Sports 9 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5474
-#EXTINF:-1,Sports 10 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5473
-#EXTINF:-1,Sports 11 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683410
-#EXTINF:-1,Sports 11 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667466
-#EXTM3U
-#EXTINF:-1,FR | SPORT 1 HD
-http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/438
-#EXTINF:-1,FR | SPORT 3 HD
-http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/439
-#EXTINF:-1,FR | SPORT 2 HD
-http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/440
-#EXTINF:-1,FR
 
