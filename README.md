@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:0,ELEVENSPORT 1 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3177
+
+#EXTINF:0,ELEVENSPORT 2 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3176
+
+#EXTINF:0,ELEVENSPORT 3 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3175
+
+#EXTINF:0,ELEVENSPORT 4 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3174
+
+#EXTINF:0,GOLF CHANNEL
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3173
+
+#EXTINF:0,FIGHTBOX HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3172
+
+#EXTINF:0,BEIN SPORT HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/4929
+
+#EXTINF:0,BEIN SPORTS NBA HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/4928
+
+#EXTINF:0,BEIN SPORT NEWS HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/4927
 
 #EXTINF:0,NASA FHD
 https://youtu.be/watch?v=21X5lGlDOfg
@@ -583,8 +609,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1,TV GAZETA HD (TV ALT
 http://stmv4.srvstm.com/wagner1168/wagner1168/media_w277204921_2307.m3u8
 
-#EXTINF:-1,TV UNIAO
-http://stmv1.ifantasy.com.br/admin/admin/chunklist_w1832246586.m3u8
+#EXTINF:-1,TV UNIAO;URL=http://stmv1.ifantasy.com.br/admin/admin/chunklist_w1832246586.m3u8
 
 #EXTINF:-1,TV VIA MORENA
 http://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
@@ -792,7 +817,6 @@ http://haititivi.com:8088/live/haititv/tele6NY/tracks-v1a1/index.m3u8
 
 #EXTINF:0,NASA TV 3
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-
 
 #EXTINF:1 ,Love Nature 1080p
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
