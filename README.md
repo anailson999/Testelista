@@ -23,7 +23,7 @@ https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/chunklist_w19263007
 #EXTINF:-0,NASA FHD
 https://youtu.be/watch?v=21X5lGlDOfg
 
-#EXTINF:-0,NASA MÍDIA HD
+#EXTINF:-0,NASA MÍDIA HD 1
 https://youtu.be/watch?v=nA9UZF-SZoQ
 
 #EXTINF:-0,Record News HD
