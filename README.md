@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-0,Animal planet us hd
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,hr
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,NexTV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-#EXTINF:-1,WGN9 Chicago
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-
-
-#EXTINF:-0,Kronehits HD
+#EXTINF:-1,Kronehits HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1,Love Nature HD#
