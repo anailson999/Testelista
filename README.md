@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-0,beINSports HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/506
+
+#EXTINF:-0,
+
+
+
 #EXTINF:-0,Kronehits HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
@@ -846,4 +853,169 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Love Nature (1080p) alt
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:0,Hallmark Channel HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7746
+#EXTINF:0 tvg-id="ext" group-title="United States",Hallmark US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/515
+#EXTINF:0 tvg-id="ext" group-title="United States",Hallmark Movies & Mysteries HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/46888
+#EXTINF:0 tvg-id="ext" group-title="United States",History HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/546
+#EXTINF:0 tvg-id="ext" group-title="United States",History US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7781
+#EXTINF:0 tvg-id="ext" group-title="United States",IFC HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7710
+#EXTINF:0 tvg-id="ext" group-title="United States",Investigation Discovery HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7693
+#EXTINF:0 tvg-id="Lifetime.us" group-title="United States",Lifetime HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7745
+#EXTINF:0 tvg-id="ext" group-title="United States",MLB HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/573
+#EXTINF:0 tvg-id="ext" group-title="United States",MLB Network HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7701
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="United States",MLB Network US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/574
+#EXTINF:0 tvg-id="ext" group-title="United States",MSNBC HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/575
+#EXTINF:0 tvg-id="ext" group-title="United States",MTV Base HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7744
+#EXTINF:0 tvg-id="ext" group-title="United States",MTV Rocks US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/494
+#EXTINF:0 tvg-id="ext" group-title="United States",NBA HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/533
+#EXTINF:0 tvg-id="ext" group-title="United States",NBC Golf Channel FHD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6147
+#EXTINF:0 tvg-id="ext" group-title="United States",NBC Golf Channel HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6146
+#EXTINF:0 tvg-id="ext" group-title="United States",NBC Golf HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7743
+#EXTINF:0 tvg-id="ext" group-title="United States",NBC News HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7742
+#EXTINF:0 tvg-id="ext" group-title="United States",NBC SN HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7741
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="United States",NBC US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/490
+#EXTINF:0 tvg-id="ext" group-title="United States",NBCSN HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/555
+#EXTINF:0 tvg-id="ext" group-title="United States",NFL Network 1 US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/504
+#EXTINF:0 tvg-id="ext" group-title="United States",NFL Network FHD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/505
+#EXTINF:0 tvg-id="ext" group-title="United States",NFL Network HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/556
+#EXTINF:0 tvg-id="ext" group-title="United States",NFL Network US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7793
+#EXTINF:0 tvg-id="ext" group-title="United States",NFL Now HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7773
+#EXTINF:0 tvg-id="ext" group-title="United States",NFL Redzone HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7772
+#EXTINF:0 tvg-id="NHLNetwork.us" group-title="United States",NHL Network US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/576
+#EXTINF:0 tvg-id="ext" group-title="United States",Nat Geo Wild HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7692
+#EXTINF:0 tvg-id="ext" group-title="United States",Nat Geographic HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7691
+#EXTINF:0 tvg-id="NationalGeographic.us" group-title="United States",National Geographic US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/517
+#EXTINF:0 tvg-id="ext" group-title="United States",Oprah Winfrey Network HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7740
+#EXTINF:0 tvg-id="ext" group-title="United States",Outdoor Channel HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/493
+#EXTINF:0 tvg-id="ext" group-title="United States",PAC-12 Arizona US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/557
+#EXTINF:0 tvg-id="ext" group-title="United States",PAC-12 Bay Area US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/558
+#EXTINF:0 tvg-id="ext" group-title="United States",PAC-12 Los Angeles FHD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/559
+#EXTINF:0 tvg-id="ext" group-title="United States",PAC-12 Oregon FHD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/560
+#EXTINF:0 tvg-id="ext" group-title="United States",PAC-12 Washington FHD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/561
+#EXTINF:0 tvg-id="ext" group-title="United States",Reelz HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7739
+#EXTINF:0 tvg-id="ext" group-title="United States",SEC Network HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7707
+#EXTINF:0 tvg-id="ext" group-title="United States",Science HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7738
+#EXTINF:0 tvg-id="ext" group-title="United States",Showtime 2 HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7737
+#EXTINF:0 tvg-id="ext" group-title="United States",Showtime 2 US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/534
+#EXTINF:0 tvg-id="ext" group-title="United States",Showtime East HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7736
+#EXTINF:0 tvg-id="ext" group-title="United States",Showtime FHD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/535
+#EXTINF:0 tvg-id="ext" group-title="United States",Showtime Showcase HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7735
+#EXTINF:0 tvg-id="ShowtimeW.us" group-title="United States",Showtime West US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/485
+#EXTINF:0 tvg-id="ext" group-title="United States",Paramount Network HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/518
+#EXTINF:0 tvg-id="ext" group-title="United States",Paramount Network US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7727
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="United States",Starz Cinema US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/536
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="United States",Starz Comedy US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/537
+#EXTINF:0 tvg-id="ext" group-title="United States",Starz Edge HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/519
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="United States",Starz Edge US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7780
+#EXTINF:0 tvg-id="ext" group-title="United States",Starz Encore HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7731
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="United States",Starz Encore US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/538
+#EXTINF:0 tvg-id="SyfyHD.us" group-title="United States",SyFy HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/548
+#EXTINF:0 tvg-id="Syfy.us" group-title="United States",SyFy US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7779
+#EXTINF:0 tvg-id="ext" group-title="United States",TBS HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/578
+#EXTINF:0 tvg-id="TNT.us" group-title="United States",TNT HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/549
+#EXTINF:0 tvg-id="ext" group-title="United States",Travel Channel HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7694
+#EXTINF:0 tvg-id="ext" group-title="United States",truTV HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7705
+#EXTINF:0 tvg-id="ext" group-title="United States",UFC Fight Pass US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6421
+#EXTINF:0 tvg-id="ext" group-title="United States",US Network HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/520
+#EXTINF:0 tvg-id="ext" group-title="United States",USA HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7729
+#EXTINF:0 tvg-id="USANetwork.us" group-title="United States",USA Network HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/547
+#EXTINF:0 tvg-id="ext" group-title="United States",Univision HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7704
 
+#EXTINF:-0,NBA Live 1 HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/8538
+#EXTINF:0 tvg-id="ext" group-title="United States",Smithsonian Channel US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/41479
+
+#EXTINF:-0,Discovery Channel CA FHD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7580
+#EXTINF:0 tvg-id="ext" group-title="United States",Discovery Channel HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7767
+#EXTINF:0 tvg-id="ext" group-title="United States",Discovery HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/526
+#EXTINF:0 tvg-id="ext" group-title="United States",Discovery Science HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/510
+#EXTINF:0 tvg-id="ext" group-title="United States",Discovery Velocity US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/527
+#EXTINF:0 tvg-id="ext" group-title="United States",Disney Channel HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7766
+#EXTINF:0 tvg-id="ext" group-title="United States",Disney XD HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7765
+#EXTINF:0 tvg-id="ext" group-title="United States",E! Entertainment HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7764
+#EXTINF:0 tvg-id="ext" group-title="United States",ESPN 1 HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7763
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="United States",ESPN 1 US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/552
+#EXTINF:0 tvg-id="ext" group-title="United States",ESPN 2 FHD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/569
+#EXTINF:0 tvg-id="ESPN2.us" group-title="United States",ESPN 2 US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7787
+#EXTINF:0 tvg-id="ext" group-title="United States",ESPN HD US
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/544
