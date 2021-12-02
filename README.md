@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-0,beINSports HD US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/506.m3u8
-
 #EXTINF:-0,Kronehits HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
@@ -848,6 +845,3 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0,Love Nature (1080p) alt
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-0,NBA Live 1 HD US
-http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/8538.m3u8
