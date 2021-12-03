@@ -1046,25 +1046,25 @@ http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3228
 http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3229
 
 #EXTINF:-0,ELEVEN SPORTS 1 HD
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3279
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3279.m3u8
 
 #EXTINF:-0, ELEVEN SPORTS 2 HD
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3280
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3280.m3u8
 
 #EXTINF:-0,ELEVEN SPORTS 3 HD
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3281
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3281.m3u8
 
 #EXTINF:-0, ELEVEN SPORTS 4 HD
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3282
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3282.m3u8
 
 #EXTINF:-0, ELEVEN SPORTS 5 HD
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3283
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3283.m3u8
 
 #EXTINF:-0,TNT SPORT
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3072
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3072.m3u8
 
 #EXTINF:-0, FOX SPORTS PREMIUM
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3074
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3074.m3u8
 
 #EXTINF:-0,beIN SPORTS 1 Full-HD
 http://mantech-tv.xyz:8888/mantechnology/Telegram/4
