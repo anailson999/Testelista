@@ -2,12 +2,8 @@
 #EXTINF:-1,Kronehits HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-0,beIN Sports lá liga
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&profilesFromStream=true
-
-#EXTINF:-0,
-
-
+#EXTINF:-0,NBC NEWS
+https://content-asae1-up-1.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610/e.m3u8?pbs=5607c847a61d49b1976aa185a37e98b4
 
 #EXTINF:-1,Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
