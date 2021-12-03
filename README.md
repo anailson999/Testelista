@@ -867,7 +867,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3
 #EXTINF:-0,Xplorer HD
 https://xplore-plex.amagi.tv/playlist720-p.m3u8
 
-#EXTINF:-0,Kronehits FHD+
+#EXTINF:-0,Sports FHD+
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 AD SPORTS HD
@@ -875,18 +875,6 @@ http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b
 
 #EXTINF:-0,AD SPORTS 2	
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8 
-
-#EXTINF:-0,AL SHARJAH SPORTS HD		
-http://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8 
-
-#EXTINF:-0,BAYERN TV HD	
-http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8 
-
-#EXTINF:-0,CLARO SPORTS FHD	
-http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8 
-
-#EXTINF:-0,DUBAI RACING HD
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8 
 
 #EXTINF:-0,DUBAI RACING 2 HD
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
@@ -897,23 +885,14 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 #EXTINF:-0,DUBAI SPORTS 2 HD	
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8 
 
-#EXTINF:-0,FIGHT SPORTS	
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8 
-
 #EXTINF:-0,FITE HD
 http://cdn-cf.fite.tv/linear/fite247/playlist.m3u8 
 
 #EXTINF:-0,FOX SPORTS NEWS HD	
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-0,MLB NETWORK HD
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-
 #EXTINF:-0,OMAN SPORTS FHD			
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-
-#EXTINF:-0,RACING COM	
-http://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8 
 
 #EXTINF:-0,REDBULL TV	
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
@@ -927,26 +906,15 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 #EXTINF:-0,STADIUM HD
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-0,SURF NOW HD	
-http://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8 
-
-#EXTINF:-0,SURF NOW 2 HD
-http://1091-surfnowtv-1.plex.wurl.com/manifest/playlist.m3u8 
-
 #EXTINF:-0,TELETRAK TV
 http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8 
 
-#EXTINF:-0,TENNIS CHANNEL HD	
-http://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8 
-
-#EXTINF:-0,TENNIS CHANNEL PLUS HD
-http://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8 
 
 #EXTINF:-0,beIN SPORTS LOW1 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/62
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/62.m3u8
 
 #EXTINF:-0,beIN SPORTS LOW2 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/63
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/63.m3u8
 
 #EXTINF:-0,beIN SPORTS LOW3 PR
 http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/64
@@ -1030,13 +998,13 @@ http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/61
 http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/1459
 
 #EXTINF:-0,beIN SPORTS HD1
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/49
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/49.m3u8
 
 #EXTINF:-0,beIN SPORTS HD2
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/50
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/50.m3u8
 
 #EXTINF:-0,beIN SPORTS HD3
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/51
+http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/51.m3u8
 
 #EXTINF:-0,beIN SPORTS HD4
 http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/52
