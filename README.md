@@ -845,3 +845,279 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0,Love Nature (1080p) alt
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-0,Hallmark movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-0,Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-0,Tv Diário
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/chunklist_w348630895.m3u8
+
+#EXTINF:-0,Love Nature ESPAÑOL
+http://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-0,Love Nature English 
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+
+#EXTINF:-0,Love Nature 4k 2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+
+#EXTINF:-0,Xplorer HD
+https://xplore-plex.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-0,Kronehits FHD+
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+AD SPORTS HD
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8 
+
+#EXTINF:-0,AD SPORTS 2	
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8 
+
+#EXTINF:-0,AL SHARJAH SPORTS HD		
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8 
+
+#EXTINF:-0,BAYERN TV HD	
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8 
+
+#EXTINF:-0,CLARO SPORTS FHD	
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8 
+
+#EXTINF:-0,DUBAI RACING HD
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8 
+
+#EXTINF:-0,DUBAI RACING 2 HD
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-0,DUBAI SPORTS HD	
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
+
+#EXTINF:-0,DUBAI SPORTS 2 HD	
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8 
+
+#EXTINF:-0,FIGHT SPORTS	
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8 
+
+#EXTINF:-0,FITE HD
+http://cdn-cf.fite.tv/linear/fite247/playlist.m3u8 
+
+#EXTINF:-0,FOX SPORTS NEWS HD	
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-0,MLB NETWORK HD
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-0,OMAN SPORTS FHD			
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+
+#EXTINF:-0,RACING COM	
+http://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8 
+
+#EXTINF:-0,REDBULL TV	
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
+
+#EXTINF:-0,SKY RACING 1 HD
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8 
+
+#EXTINF:-0,SKY RACING 2 HD
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+#EXTINF:-0,STADIUM HD
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-0,SURF NOW HD	
+http://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8 
+
+#EXTINF:-0,SURF NOW 2 HD
+http://1091-surfnowtv-1.plex.wurl.com/manifest/playlist.m3u8 
+
+#EXTINF:-0,TELETRAK TV
+http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8 
+
+#EXTINF:-0,TENNIS CHANNEL HD	
+http://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8 
+
+#EXTINF:-0,TENNIS CHANNEL PLUS HD
+http://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8 
+
+#EXTINF:-0,beIN SPORTS LOW1 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/62
+
+#EXTINF:-0,beIN SPORTS LOW2 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/63
+
+#EXTINF:-0,beIN SPORTS LOW3 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/64
+
+#EXTINF:-0,beIN SPORTS SD1 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/56
+
+#EXTINF:-0,beIN SPORTS SD2 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/57
+
+#EXTINF:-0,beIN SPORTS SD3 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/58
+
+#EXTINF:-0,beIN Sports 1 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/459
+
+#EXTINF:-0,beIN Sports 2 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/450
+
+#EXTINF:-0,beIN Sports 3 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/451
+
+#EXTINF:-0,beIN SPORTS HD1 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/46
+
+#EXTINF:-0,beIN SPORTS HD2 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/47
+
+#EXTINF:-0,beIN SPORTS HD3 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/48
+
+#EXTINF:-0,beIN SPORTS FullHD1 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3221
+
+#EXTINF:-0,beIN SPORTS FullHD2 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3222
+
+#EXTINF:-0,beIN SPORTS FullHD3 PR
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3223
+
+#EXTINF:-0,beIN SPORTS LOW1
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/65
+
+#EXTINF:-0,beIN SPORTS LOW2
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/66
+
+#EXTINF:-0,bein sport low3
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/2108
+
+#EXTINF:-0,bein sport low4
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/2109
+
+#EXTINF:-0,bein sport low5
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/2110
+
+#EXTINF:-0,bein sport low6
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/2111
+
+#EXTINF:-0,bein sport low7
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/2112
+
+#EXTINF:-0,beIN SPORTS SD1
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/59
+
+#EXTINF:-0,beIN SPORTS SD2
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/60
+
+#EXTINF:-0,beIN SPORTS SD3
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/93
+
+#EXTINF:-0,beIN SPORTS SD4
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/92
+
+#EXTINF:-0,beIN SPORTS SD5
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/91
+
+#EXTINF:-0,beIN SPORTS SD6
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/61
+
+#EXTINF:-0,beIN SPORTS SD7
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/1459
+
+#EXTINF:-0,beIN SPORTS HD1
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/49
+
+#EXTINF:-0,beIN SPORTS HD2
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/50
+
+#EXTINF:-0,beIN SPORTS HD3
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/51
+
+#EXTINF:-0,beIN SPORTS HD4
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/52
+
+#EXTINF:-0,beIN SPORTS HD5
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/53
+
+#EXTINF:-0,beIN SPORTS HD6
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/54
+
+#EXTINF:-0,beIN SPORTS HD7
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/55
+
+#EXTINF:-0,beIN SPORTS HD11
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3001
+
+#EXTINF:-0,beIN SPORTS HD12
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3002
+
+#EXTINF:-0,beIN SPORTS FullHD1
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3224
+
+#EXTINF:-0,beIN SPORTS FullHD2
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3225
+
+#EXTINF:-0,beIN SPORTS FullHD3
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3226
+
+#EXTINF:-0,beIN SPORTS FullHD4
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3230
+
+#EXTINF:-0,beIN SPORTS FullHD5
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3227
+
+#EXTINF:-0,beIN SPORTS FullHD6
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3228
+
+#EXTINF:-0,beIN SPORTS FullHD7
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3229
+
+#EXTINF:-0,ELEVEN SPORTS 1 HD
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3279
+
+#EXTINF:-0, ELEVEN SPORTS 2 HD
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3280
+
+#EXTINF:-0,ELEVEN SPORTS 3 HD
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3281
+
+#EXTINF:-0, ELEVEN SPORTS 4 HD
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3282
+
+#EXTINF:-0, ELEVEN SPORTS 5 HD
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3283
+
+#EXTINF:-0,TNT SPORT
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3072
+
+#EXTINF:-0, FOX SPORTS PREMIUM
+http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3074
+
+#EXTINF:-0,beIN SPORTS 1 Full-HD
+http://mantech-tv.xyz:8888/mantechnology/Telegram/4
+
+#EXTINF:-0,beIN SPORTS 2 Full-HD
+http://mantech-tv.xyz:8888/mantechnology/Telegram/5
+
+#EXTINF:-0,beIN SPORTS 3 Full-HD
+http://mantech-tv.xyz:8888/mantechnology/Telegram/6
+
+#EXTINF:-0,beIN SPORTS 4 Full-HD
+http://mantech-tv.xyz:8888/mantechnology/Telegram/206
+
+#EXTINF:-0,beIN SPORTS 5 Full-HD
+http://mantech-tv.xyz:8888/mantechnology/Telegram/207
+
+#EXTINF:-0,beIN SPORTS 6 Full-HD
+http://mantech-tv.xyz:8888/mantechnology/Telegram/208
+
+#EXTINF:-0,beIN SPORTS 7 Full-HD
+http://mantech-tv.xyz:8888/mantechnology/Telegram/209
+
+#EXTINF:-0,beIN SPORTS NBA HD
+http://mantech-tv.xyz:8888/mantechnology/Telegram/7
