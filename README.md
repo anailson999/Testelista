@@ -910,183 +910,49 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8 
 
 
-#EXTINF:-0,beIN SPORTS LOW1 PR
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/62.m3u8
-
-#EXTINF:-0,beIN SPORTS LOW2 PR
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/63.m3u8
-
-#EXTINF:-0,beIN SPORTS LOW3 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/64
-
-#EXTINF:-0,beIN SPORTS SD1 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/56
-
-#EXTINF:-0,beIN SPORTS SD2 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/57
-
-#EXTINF:-0,beIN SPORTS SD3 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/58
-
-#EXTINF:-0,beIN Sports 1 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/459
-
-#EXTINF:-0,beIN Sports 2 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/450
-
-#EXTINF:-0,beIN Sports 3 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/451
-
-#EXTINF:-0,beIN SPORTS HD1 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/46
-
-#EXTINF:-0,beIN SPORTS HD2 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/47
-
-#EXTINF:-0,beIN SPORTS HD3 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/48
-
-#EXTINF:-0,beIN SPORTS FullHD1 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3221
-
-#EXTINF:-0,beIN SPORTS FullHD2 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3222
-
-#EXTINF:-0,beIN SPORTS FullHD3 PR
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3223
-
-#EXTINF:-0,beIN SPORTS LOW1
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/65
-
-#EXTINF:-0,beIN SPORTS LOW2
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/66
-
-#EXTINF:-0,bein sport low3
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/2108
-
-#EXTINF:-0,bein sport low4
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/2109
-
-#EXTINF:-0,bein sport low5
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/2110
-
-#EXTINF:-0,bein sport low6
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/2111
-
-#EXTINF:-0,bein sport low7
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/2112
-
-#EXTINF:-0,beIN SPORTS SD1
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/59
-
-#EXTINF:-0,beIN SPORTS SD2
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/60
-
-#EXTINF:-0,beIN SPORTS SD3
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/93
-
-#EXTINF:-0,beIN SPORTS SD4
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/92
-
-#EXTINF:-0,beIN SPORTS SD5
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/91
-
-#EXTINF:-0,beIN SPORTS SD6
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/61
-
-#EXTINF:-0,beIN SPORTS SD7
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/1459
-
 #EXTINF:-0,beIN SPORTS HD1
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/49.m3u8
-
-#EXTINF:-0,beIN SPORTS HD2
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/50.m3u8
-
-#EXTINF:-0,beIN SPORTS HD3
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/51.m3u8
-
-#EXTINF:-0,beIN SPORTS HD4
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/52
-
-#EXTINF:-0,beIN SPORTS HD5
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/53
-
-#EXTINF:-0,beIN SPORTS HD6
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/54
-
-#EXTINF:-0,beIN SPORTS HD7
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/55
-
-#EXTINF:-0,beIN SPORTS HD11
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3001
-
-#EXTINF:-0,beIN SPORTS HD12
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3002
-
-#EXTINF:-0,beIN SPORTS FullHD1
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3224
-
-#EXTINF:-0,beIN SPORTS FullHD2
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3225
-
-#EXTINF:-0,beIN SPORTS FullHD3
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3226
-
-#EXTINF:-0,beIN SPORTS FullHD4
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3230
-
-#EXTINF:-0,beIN SPORTS FullHD5
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3227
-
-#EXTINF:-0,beIN SPORTS FullHD6
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3228
-
-#EXTINF:-0,beIN SPORTS FullHD7
-http://chouflive.ddns.net:8080/DUhtUQhRaD/dTMSMIO6WS/3229
-
-#EXTINF:-0,ELEVEN SPORTS 1 HD
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3279.m3u8
-
-#EXTINF:-0, ELEVEN SPORTS 2 HD
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3280.m3u8
-
-#EXTINF:-0,ELEVEN SPORTS 3 HD
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3281.m3u8
-
-#EXTINF:-0, ELEVEN SPORTS 4 HD
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3282.m3u8
-
-#EXTINF:-0, ELEVEN SPORTS 5 HD
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3283.m3u8
-
-#EXTINF:-0,TNT SPORT
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3072.m3u8
-
-#EXTINF:-0, FOX SPORTS PREMIUM
-http://chouflive.ddns.net:8080/live/DUhtUQhRaD/dTMSMIO6WS/3074.m3u8
-
-#EXTINF:-0,beIN SPORTS 1 Full-HD
-http://mantech-tv.xyz:8888/mantechnology/Telegram/4
-
-#EXTINF:-0,beIN SPORTS 2 Full-HD
-http://mantech-tv.xyz:8888/mantechnology/Telegram/5
-
-#EXTINF:-0,beIN SPORTS 3 Full-HD
-http://mantech-tv.xyz:8888/mantechnology/Telegram/6
-
-#EXTINF:-0,beIN SPORTS 4 Full-HD
-http://mantech-tv.xyz:8888/mantechnology/Telegram/206
-
-#EXTINF:-0,beIN SPORTS 5 Full-HD
-http://mantech-tv.xyz:8888/mantechnology/Telegram/207
-
-#EXTINF:-0,beIN SPORTS 6 Full-HD
-http://mantech-tv.xyz:8888/mantechnology/Telegram/208
-
-#EXTINF:-0,beIN SPORTS 7 Full-HD
-http://mantech-tv.xyz:8888/mantechnology/Telegram/209
-
-#EXTINF:-0,beIN SPORTS NBA HD
-http://mantech-tv.xyz:8888/mantechnology/Telegram/7
-
+http://superiptv.in:8080/live/king12345/12345king/1825.ts
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",beIN SPORTS HD2
+http://superiptv.in:8080/live/king12345/12345king/1826.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD3
+http://superiptv.in:8080/live/king12345/12345king/1827.ts
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="Channels",beIN SPORTS HD4
+http://superiptv.in:8080/live/king12345/12345king/1828.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD5
+http://superiptv.in:8080/live/king12345/12345king/1829.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD6
+http://superiptv.in:8080/live/king12345/12345king/1831.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD7
+http://superiptv.in:8080/live/king12345/12345king/1830.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM FHD1
+http://superiptv.in:8080/live/king12345/12345king/1309.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM FHD2
+http://superiptv.in:8080/live/king12345/12345king/1308.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM FHD3
+http://superiptv.in:8080/live/king12345/12345king/1307.ts
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",beIN SPORTS FHD1
+http://superiptv.in:8080/live/king12345/12345king/1316.ts
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",beIN SPORTS FHD2
+http://superiptv.in:8080/live/king12345/12345king/1315.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FHD3
+http://superiptv.in:8080/live/king12345/12345king/1314.ts
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="Channels",beIN SPORTS FHD4
+http://superiptv.in:8080/live/king12345/12345king/1313.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FHD5
+http://superiptv.in:8080/live/king12345/12345king/1312.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FHD6
+http://superiptv.in:8080/live/king12345/12345king/1311.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FHD7
+http://superiptv.in:8080/live/king12345/12345king/1310.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Extra 1HD
+http://superiptv.in:8080/live/king12345/12345king/36701.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Extra 2HD
+http://superiptv.in:8080/live/king12345/12345king/36702.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TELEKOM SPORT 1 HD
+http://superiptv.in:8080/live/king12345/12345king/37991.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TELEKOM SPORT 2 HD
+http://superiptv.in:8080/live/king12345/12345king/37992.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TELEKOM SPORT 3 HD
+http://superiptv.in:8080/live/king12345/12345king/37993.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO: TELEKOM SPORT 4 HD
+http://superiptv.in:8080/live/king12345/12345king/37994.ts
