@@ -1089,3 +1089,205 @@ http://mantech-tv.xyz:8888/mantechnology/Telegram/209
 
 #EXTINF:-0,beIN SPORTS NBA HD
 http://mantech-tv.xyz:8888/mantechnology/Telegram/7
+
+
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",beIN Sports 2 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",beIN Sports 3 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORT CANADA
+http://smartmedia.watch:2086/liam/1234/62059?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Sport",BeIN Sports HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/69394?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Canada
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16216.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Canada
+http://linea.cc:8000/test123/test123/56359.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeInSports.ca" group-title="Sport",beIN Sports HD CA
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/8376?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeInSports.ca" group-title="Sport",beIN Sports HD CA
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/8376?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport HD (EN)
+http://xgtv.club:8080/k3restream/k3restream/3633.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Sport",Bein Sports FHD
+http://iptv.csserv.co:8000/live/clientr725/631739/2184.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports LaLiga
+http://xgtv.club:8080/k3restream/k3restream/3634.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Sport",beIN Sport FHD ES
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4404?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",bein Sport HD VIP ES
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/9520?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Thai BeIN Sports 1 HD TH [THAI]
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115807?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Thai BeIN Sports 2 HD TH [THAI]
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115809?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORT  1  FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191538?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORT 1 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/95904?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORT 1 HD-02
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/95902?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",BEIN SPORT 2 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/95903?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORT 2-HD-02
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/95905?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",BEIN SPORT 3 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/95906?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORT HABER FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191543?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1
+http://iptv.csserv.co:8000/live/clientr725/631739/7439.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195886?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 FHD *
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195803?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195830?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16004?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191528?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 MAX FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195814?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BEIN SPORTS 1 SD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191529?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",BEIN SPORTS 2 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195833?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",BEIN SPORTS 2 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191532?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 2 MAX FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195817?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",BEIN SPORTS 2 SD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191533?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",BEIN SPORTS 3 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195835?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",BEIN SPORTS 3 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191534?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",BEIN SPORTS 3 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16002?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",BEIN SPORTS 3 SD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191535?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",BEIN SPORTS 4 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195837?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",BEIN SPORTS 4 HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195812?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",BEIN SPORTS 4 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191536?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",BEIN SPORTS 4 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/863.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",BEIN SPORTS 4 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16001?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",BEIN SPORTS 4 SD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191537?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS FEED FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195942?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS HABER FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/195799?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS HABER FHD
+http://iptv.csserv.co:8000/live/clientr725/631739/4746.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Sport",BEIN SPORTS MAX 1 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16000?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Sport",BEIN SPORTS MAX 1 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191539?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Sport",BEIN SPORTS MAX 1 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/4318.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="Sport",BEIN SPORTS MAX 1 SD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191540?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 2 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15999?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 2 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/377764?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="Sport",BEIN SPORTS MAX 2 SD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/191542?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEiN SPORT HABER HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15998?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports Max 2 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/95910?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="Sport",beIN Sports 1 FHD TR
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/31592?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 FHD TR [Multi-Audio]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/36455?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="Sport",beIN Sports 1 HD TR
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/14260?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="Sport",beIN Sports 2 FHD TR
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/36454?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 FHD TR [Only On 4K Devices]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/31591?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="Sport",beIN Sports 2 HD TR
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/14259?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="Sport",beIN Sports 3 FHD TR
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/31590?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 FHD TR [Multi-Audio]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/36453?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="Sport",beIN Sports 3 HD TR
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/14258?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 4 FHD TR [Multi-Audio]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/31589?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="Sport",beIN Sports 4 HD TR
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/14257?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Haber FHD TR
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/36452?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Sport",Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport 4 ar
+http://93.152.174.144:4000/play/bein4ar/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Sport",Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports 3 AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Sport",Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports 7 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT | BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN SPORTS 1 EN FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267468?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN SPORTS 2 EN FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267469?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN SPORTS 3 EN FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267470?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",(EN) BEIN SPORTS
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/181503?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",(SP) BEIN SPORTS LALIGA
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/181504?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORT 1 HD USA
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/7118?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORT USA
+http://iptv.csserv.co:8000/live/clientr725/631739/8644.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Sport",BEIN SPORTS  HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/181397?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS EN ESPAÃOL HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/181505?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="Sport",BEIN SPORTS LA LIGA
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/181396?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS XTRA
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/254741?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",BeIN SPORTS 5 HD
+http://xgtv.club:8080/k3restream/k3restream/9528.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Sport",BeIN SPORTS 8 HD
+http://xgtv.club:8080/k3restream/k3restream/9531.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Sport",BeIN SPORTS HD
+http://xgtv.club:8080/k3restream/k3restream/9525.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sport",BeIN Sports 3 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/74642?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",BeIN Sports 4 HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/149373?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",BeIN Sports 5 HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/149374?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Sport",BeIN Sports 6 HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/149375?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Sport",BeIN Sports HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/149371?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports 1 USA English
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/3309?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports LaLiga TV HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/482.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports Xtra HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/151097?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports Xtra HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/13372.ts?checkedby:iptvcat.net
