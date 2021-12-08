@@ -26,8 +26,8 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?Play
 #EXTINF:-1,Rede TV
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
-#EXTINF:-1,
-
+#EXTINF:-1,Shoptime HD
+https://youtu.be/watch?v=U_FnWLRoJYY
 
 #EXTINF:-0,NBC NEWS
 https://content-asae1-up-1.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610/e.m3u8?pbs=5607c847a61d49b1976aa185a37e98b4
