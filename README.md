@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-0,Love Nature Live
+http://177.20.208.58:8000/play/a03r/index.m3u8
+
 #EXTINF:-0,Space Channel FHD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
