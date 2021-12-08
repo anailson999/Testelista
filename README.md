@@ -8,6 +8,27 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 #EXTINF:-1,Kronehits HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
+#EXTINF:-0,Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1,Rede Vida HD
+http://177.20.208.58:8000/play/a028/index.m3u8
+
+#EXTINF:-1,RedeTV! HD1
+http://177.20.208.58:8000/play/a03x/index.m3u8
+
+#EXTINF:-1,RedeTV! HD2
+http://177.20.208.58:8000/play/a03p/index.m3u8
+
+#EXTINF:-1,Rede TV
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Rede TV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
+
+#EXTINF:-1,
+
+
 #EXTINF:-0,NBC NEWS
 https://content-asae1-up-1.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610/e.m3u8?pbs=5607c847a61d49b1976aa185a37e98b4
 
