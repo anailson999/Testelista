@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-0,Space Channel FHD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+
 #EXTINF:-1,Kronehits HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
