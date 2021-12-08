@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-0,Natgeo Wild
-http://tv.ultraiptv.org:80/hmsohcfc/4z8m5dfR3P/9301
-
-#EXTINF:-1,Natgeo Wild Full HD
-http://tv.ultraiptv.org:80/hmsohcfc/4z8m5dfR3P/9183
-
-#EXTINF:-1,Natgeo Wild HD
-http://tv.ultraiptv.org:80/hmsohcfc/4z8m5dfR3P/9428
-
-
 #EXTINF:0 ,Nat Geo Wild HD 8
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net
 
