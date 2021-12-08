@@ -11,6 +11,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 #EXTINF:-1,SUMMER TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1436476729.m3u8
 
+#EXTINF:-0,SBT HD 1
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
 #EXTINF:-0,SBT HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
