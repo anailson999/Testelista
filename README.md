@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-0 Natgeo Wild
+#EXTINF:-0,Natgeo Wild
 http://tv.ultraiptv.org:80/hmsohcfc/4z8m5dfR3P/9301
 
-#EXTINF:-1  Natgeo Wild Full HD
+#EXTINF:-1,Natgeo Wild Full HD
 http://tv.ultraiptv.org:80/hmsohcfc/4z8m5dfR3P/9183
 
-#EXTINF:-1 Natgeo Wild HD
+#EXTINF:-1,Natgeo Wild HD
 http://tv.ultraiptv.org:80/hmsohcfc/4z8m5dfR3P/9428
 
 
