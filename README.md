@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-0,NATGEO_WILD
-http://103.194.169.171:8282/CZ_NATGEO_WILD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.net
-
-#EXTINF:0,NATGEO_WILD_HD
-http://103.194.169.171:8282/CZ_NATGEO_WILD_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.net
-
-#EXTINF:0,NATGEO WILD HD
-http://103.194.169.171:8282/NL_NATGEO_WILD_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.net
-
-#EXTINF:0,NATGEO WILD +1
-http://103.194.169.171:8282/ES_NATGEO_WILD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.net
-
-#EXTINF:0,NatGeo Wild +2
-http://linea.cc:8000/test123/test123/49843.ts?checkedby:iptvcat.net
-
-#EXTINF:0,NatGeo Wild HD++
-http://linea.cc:8000/test123/test123/49911.ts?checkedby:iptvcat.net
-
 
 #EXTINF:0,Nat Geo Wild HD 8
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net
