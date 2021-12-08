@@ -14,12 +14,6 @@ https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_
 #EXTINF:-0,Tv Diário do sertão 
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist.m3u8
 
-#EXTINF:-0,SBT HD 1
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-
-#EXTINF:-0,SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-
 #EXTINF:-1,BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 
@@ -37,9 +31,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-0,Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
-
-#EXTINF:-1,Rede Vida HD
-http://177.20.208.58:8000/play/a028/index.m3u8
 
 #EXTINF:-1,RedeTV! HD1
 http://177.20.208.58:8000/play/a03x/index.m3u8
