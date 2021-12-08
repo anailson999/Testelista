@@ -11,6 +11,12 @@ https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_
 #EXTINF:-1,BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 
+#EXTINF:-0,RETRO carton 
+http://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF :-0,Record TV HD
+
+
 #EXTINF:-1,Kronehits HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
