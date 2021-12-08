@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-0,NATGEO HD
-http://ilg.club/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&bitrate=800
-
-#EXTINF:-0,NATGEO WILD HD
-http://ilg.club/streamlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8&bitrate=800
-
-#EXTINF:-0,FX HD
-http://ilg.club/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7&bitrate=800
-
-#EXTINF:-0,STAR WORLD HD
-http://ilg.club/streamlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9&bitrate=800
-
-#EXTINF:-0,NAT GEO MUSIC HD
-http://ilg.club/streamlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22&bitrate=800
-
-
 #EXTINF:0 ,Nat Geo Wild HD 8
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net
 
