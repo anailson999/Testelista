@@ -20,6 +20,9 @@ http://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF :-0,Record TV HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
+#EXTINF:-0,KRONEHIT TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
 #EXTINF:-1,Kronehits HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
