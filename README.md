@@ -2,6 +2,12 @@
 #EXTINF:0 ,Nat Geo Wild HD 8
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net
 
+#EXTINF:-0,NatGeo Wild
+http://linea.cc:8000/test123/test123/49843.ts?checkedby:ahlakid.com
+
+#EXTINF:-0,NatGeo Wild HD+
+http://linea.cc:8000/test123/test123/49911.ts?checkedby:ahlakid.com
+
 #EXTINF:-0,Love Nature Live
 http://177.20.208.58:8000/play/a03r/index
 
