@@ -1,45 +1,45 @@
 #EXTM3U
 #EXTINF:-0,Nat Geo Wild HD 1
-http://ui.mrzutv.net:8080/live/davidpin1098/hYJqA59ya7/68229?checkedby:iptvcat.com.m3u8
+http://ui.mrzutv.net:8080/live/davidpin1098/hYJqA59ya7/68229?checkedby:iptvcat.com
 
 #EXTINF:-0,Nat Geo Wild HD 2
-http://line.thesmartiptv.com:900/live/4773C858/4C98AA45/165533?checkedby:iptvcat.com.m3u8
+http://line.thesmartiptv.com:900/live/4773C858/4C98AA45/165533?checkedby:iptvcat.com
 
 #EXTINF:-0,Nat Geo Wild HD 3
-http://103.194.169.171:8282/live/PL:NAT_GEO_WILD_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com.m3u8
+http://103.194.169.171:8282/live/PL:NAT_GEO_WILD_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
 
 #EXTINF:-0,Nat Geo Wild HD 4
-http://ui.mrzutv.net:8080/live/davidpin1098/hYJqA59ya7/68229?checkedby:iptvcat.com.m3u8
+http://ui.mrzutv.net:8080/live/davidpin1098/hYJqA59ya7/68229?checkedby:iptvcat.com
 
 #EXTINF:-0,Nat Geo Wild HD 5
-http://disfruta.net:80/live/drquantum1/3Hc1bDGyZ9/688?checkedby:iptvcat.net.m3u8
+http://disfruta.net:80/live/drquantum1/3Hc1bDGyZ9/688?checkedby:iptvcat.net
 
 #EXTINF:0 ,NAT GEO WILD HD 6
-http://smartmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/64468?checkedby:iptvcat.net.m3u8
+http://smartmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/64468?checkedby:iptvcat.net
 
 #EXTINF:0 ,NAT GEO WILD HD 7
-http://iptv.csserv.co:8000/live/clientr725/631739/8629.ts?checkedby:iptvcat.net.m3u8
+http://iptv.csserv.co:8000/live/clientr725/631739/8629.ts?checkedby:iptvcat.net
 
 #EXTINF:0 ,NAT GEO WILD HD US
-http://nocablify.xyz:8080/live/jonymm5rc/crsu0t4wya/7228?checkedby:iptvcat.net.m3u8
+http://nocablify.xyz:8080/live/jonymm5rc/crsu0t4wya/7228?checkedby:iptvcat.net
 
 #EXTINF:0 ,Nat Geo Wild HD 8
-http://emtv1.xyz:80/live/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net.m3u8
+http://emtv1.xyz:80/live/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net
 
 #EXTINF:0 ,Nat Geo Wild East HD
-http://king-tv.online:8080/live/tarek.soh/Dw7jM8cyFC/211143?checkedby:iptvcat.net.m3u8
+http://king-tv.online:8080/live/tarek.soh/Dw7jM8cyFC/211143?checkedby:iptvcat.net
 
 #EXTINF:0 ,Nat Geo Wild HD 9
-http://iptv.watchhd.cc:5050/live/kelevra321/UWqjWR89sRNT/15564.ts?checkedby:iptvcat.net.m3u8
+http://iptv.watchhd.cc:5050/live/kelevra321/UWqjWR89sRNT/15564.ts?checkedby:iptvcat.net
 
 #EXTINF:0 ,Nat Geo Wild HD 10
-http://king-tv.online:8080/live/tarek.soh/Dw7jM8cyFC/117456?checkedby:iptvcat.net.m3u8
+http://king-tv.online:8080/live/tarek.soh/Dw7jM8cyFC/117456?checkedby:iptvcat.net
 
 #EXTINF:-0,Love Nature Live
-http://177.20.208.58:8000/play/a03r/index.m3u8
+http://177.20.208.58:8000/play/a03r/index
 
 #EXTINF:-0,Love Nature HD 7
-http://bamus-spa-roku.amagi.tv/playlist.m3u8
+http://bamus-spa-roku.amagi.tv/playlist
 
 #EXTINF:-0,Space Channel FHD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
