@@ -6,14 +6,8 @@ http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net
 #EXTINF:-0,NASA
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:-0,Love Nature Geo block
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-
 #EXTINF:-0,NatGeo Wild 
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-
-#EXTINF:-0,Love
-https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8
 
 #EXTINF:-0,Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
