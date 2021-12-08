@@ -5,6 +5,12 @@ http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-0,Space Channel FHD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
+#EXTINF:-1,SUMMER TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1436476729.m3u8
+
+#EXTINF:-1,BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,Kronehits HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
