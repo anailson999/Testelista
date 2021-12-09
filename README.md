@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-0,NBA HD 
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/51991
+
+#EXTINF:-0,AT&T SPORTSNET SOUTHWEST | HD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39403
+
+#EXTINF:-0,DISCOVERY VELOCITY (MOTORTREND) | HD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39278
+
+#EXTINF:-0,HALLMARK CHANNEL | HD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39175
+
+#EXTINF:-0,HALLMARK DRAMA | HD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39174
+
+#EXTINF:0,HALLMARK MOVIES & MYSTERIES | HD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39172
+
+#EXTINF:-0,NBA TV | HD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39092
+
+#EXTINF:-0,NBC GOLF | HD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/50520
+
+#EXTINF:0,NBA TV | UHD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/50519
+
+#EXTINF:0,NBA TV | SD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/50518
+
+#EXTINF:0,NBA TV | HD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/50517
+
+#EXTINF:-0,SMITHSONIAN CHANNEL (East) | SD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/38942
+
+#EXTINF:0 SMITHSONIAN CHANNEL (WEST) | HD
+http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/38941
 
 #EXTINF:0,Nat Geo Wild HD 8
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net
