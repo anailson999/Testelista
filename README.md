@@ -1,42 +1,42 @@
 #EXTM3U
 #EXTINF:-0,NBA HD 
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/51991
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/51991.m3u8
 
 #EXTINF:-0,AT&T SPORTSNET SOUTHWEST | HD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39403
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39403.m3u8
 
 #EXTINF:-0,DISCOVERY VELOCITY (MOTORTREND) | HD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39278
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39278.m3u8
 
 #EXTINF:-0,HALLMARK CHANNEL | HD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39175
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39175.m3u8
 
 #EXTINF:-0,HALLMARK DRAMA | HD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39174
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39174.m3u8
 
 #EXTINF:0,HALLMARK MOVIES & MYSTERIES | HD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39172
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39172.m3u8
 
 #EXTINF:-0,NBA TV | HD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/39092
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39092.m3u8
 
 #EXTINF:-0,NBC GOLF | HD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/50520
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/50520.m3u8
 
 #EXTINF:0,NBA TV | UHD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/50519
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/50519.m3u8
 
 #EXTINF:0,NBA TV | SD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/50518
+http://albastream.fun:88/luve/Esjona/aUB7me8K1m5GAZp9/50518.m3u8
 
 #EXTINF:0,NBA TV | HD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/50517
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/50517.m3u8
 
 #EXTINF:-0,SMITHSONIAN CHANNEL (East) | SD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/38942
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38942.m3u8
 
 #EXTINF:0 SMITHSONIAN CHANNEL (WEST) | HD
-http://albastream.fun:88/Esjona/aUB7me8K1m5GAZp9/38941
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/38941.m3u8
 
 #EXTINF:0,Nat Geo Wild HD 8
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net
