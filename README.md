@@ -976,3 +976,125 @@ http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+
+#EXTINF:-0,love nature 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+
+#EXTINF:-0,love nature 2
+ https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png", http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600
+
+
+
+#EXTINF:-0,Love Nature 3
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png", http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
+
+
+#EXTINF :-0,Love Nature 4
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800
+
+
+ #EXTINF :-0,Love Nature 5
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png", "url":"http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
+
+
+ #EXTINF :-0,LOVENATURE 6 
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000
+
+ #EXTINF :-0,LOVENATURE (7)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
+
+
+#EXTINF :-0,LOVENATURE (7)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200
+
+
+#EXTINF:-0,LOVENATURE (8)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
+
+
+#EXTINF :-0,LOVENATURE (9)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400
+
+
+#EXTINF :-0,LOVENATURE (10)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
+
+#EXTINF :-0,LOVENATURE (11)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600
+
+
+#EXTINF :-0,LOVENATURE (12)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200
+
+
+#EXTINF :-0,LOVENATURE (13)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800
+
+#EXTINF :-0,LOVENATURE (14)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400
+
+
+#EXTINF :-0,LOVENATURE (15)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000
+
+
+
+#EXTINF :-0,LOVENATURE (16)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600
+
+
+#EXTINF :-0,LOVENATURE (17)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200
+
+
+#EXTINF :-0,LOVENATURE (18)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800
+
+
+#EXTINF :-0,LOVENATURE (19)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400
+
+
+#EXTINF :-0,LOVENATURE (20)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000
+
+
+#EXTINF :-0,LOVENATURE (21)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600
+
+
+#EXTINF :-0,LOVENATURE (22)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200
+
+
+#EXTINF :-0,LOVENATURE (23)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800
+
+
+#EXTINF :-0,LOVENATURE (24)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400
+
+#EXTINF :-0,LOVENATURE (25)
+https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-grande.png
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000
