@@ -1,4 +1,20 @@
 #EXTM3U
+
+#EXTINF:-0,Claro Sports
+http://45.179.140.242:8000/play/a0ht
+
+#EXTINF:-0,Sport TV 1 (720p)
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:0,,Sport TV 2 (576p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:0 ,Sport TV 3 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:0 ,Sport TV 4 (720p)
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+
 #EXTINF:0,Nat Geo Wild HD 8
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net
 
