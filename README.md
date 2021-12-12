@@ -1,4 +1,74 @@
 #EXTM3U
+#EXTINF:-0,Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:0 ,Players TV (1080p)
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
+
+#EXTINF:0 ,Plymouth Rock TV (1080p)
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8
+
+#EXTINF:0 ,Prime Asia TV (720p)
+http://primeasia.dyndns.tv:8080/Live_web_250/index.m3u8
+
+#EXTINF:0 ,Prime Canada TV (720p) [Not 24/7]
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+
+#EXTINF:-0,Stingray Ambience (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
+
+#EXTINF:-0,Stingray Classic Rock (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
+
+#EXTINF:0 ,Stingray Classic Rock (1080p)
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+
+#EXTINF:0 ,Stingray Classic Rock (1080p)
+https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
+
+#EXTINF:0 ,Stingray Classica (1080p)
+https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
+
+#EXTINF:0 ,Stingray Djazz (1080p)
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+
+#EXTINF:0 ,Stingray djazz (1080p)
+https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+
+#EXTINF:0 ,Stingray Everything 80s (1080p)
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+
+#EXTINF:0 ,Stingray Flashback 70s (1080p)
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+
+#EXTINF:0 ,Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+
+#EXTINF:0 ,Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
+
+#EXTINF:0 ,Stingray Hit List (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+
+#EXTINF:0 ,Stingray Hit List (1080p)
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+
+#EXTINF:0 ,Stingray Hitlist (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
+
+#EXTINF:0 ,Stingray Holiday Hits (1080p)
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+
+#EXTINF:0 ,Stingray Hot Country (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+
+#EXTINF:0 ,Stingray Hot Country (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8
+
+#EXTINF:0 ,Stingray Hot Country (1080p)
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+
+
 #EXTINF:-0,Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
@@ -20,7 +90,7 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-0,Sport TV 2 (576p) [Not 24/7]
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
 
-#EXTINF:-0,,Sport TV 3 (720p) [Not 24/7]
+#EXTINF:-0,Sport TV 3 (720p) [Not 24/7]
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 
 #EXTINF:-0,Sport TV 4 (720p)
