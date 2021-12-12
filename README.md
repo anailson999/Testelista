@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-0,LoveWorld USA (1080p)
-https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
-
 #EXTINF:-0,Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
@@ -13,11 +10,6 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-0,Love Nature Español (1080p)
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
-
-#EXTINF:-0,,Love Nature Español (1080p)
-https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Outdoor",Outdoor America (720p)
 
 #EXTINF:-0,Claro Sports sd 
 http://45.179.140.242:8000/play/a0ht
