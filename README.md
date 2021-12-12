@@ -1,18 +1,37 @@
 #EXTM3U
+#EXTINF:-0,LoveWorld USA (1080p)
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 
-#EXTINF:-0,Claro Sports
+#EXTINF:-0,Smithsonian Channel Asia (1080p)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-0,LoveSmithsonian Channel Asia (1080p)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF :-0,love Nature (1080p)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-0,Love Nature Español (1080p)
+https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
+
+#EXTINF:-0,,Love Nature Español (1080p)
+https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Outdoor",Outdoor America (720p)
+
+#EXTINF:-0,Claro Sports sd 
 http://45.179.140.242:8000/play/a0ht
 
 #EXTINF:-0,Sport TV 1 (720p)
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 
-#EXTINF:0,,Sport TV 2 (576p) [Not 24/7]
+#EXTINF:-0,Sport TV 2 (576p) [Not 24/7]
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
 
-#EXTINF:0 ,Sport TV 3 (720p) [Not 24/7]
+#EXTINF:-0,,Sport TV 3 (720p) [Not 24/7]
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 
-#EXTINF:0 ,Sport TV 4 (720p)
+#EXTINF:-0,Sport TV 4 (720p)
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:0,Nat Geo Wild HD 8
@@ -35,12 +54,6 @@ http://linea.cc:8000/test123/test123/49843.ts?checkedby:ahlakid.com
 
 #EXTINF:-0,NatGeo Wild HD+
 http://linea.cc:8000/test123/test123/49911.ts?checkedby:ahlakid.com
-
-#EXTINF:-0,Love Nature Live
-http://177.20.208.58:8000/play/a03r/index
-
-#EXTINF:-0,Love Nature HD 7
-http://bamus-spa-roku.amagi.tv/playlist
 
 #EXTINF:-0,Space Channel FHD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
