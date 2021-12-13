@@ -921,9 +921,6 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Love Nature (1080p) alt
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-0,Hallmark movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
-
 #EXTINF:-0,Record SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
@@ -986,12 +983,3 @@ http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-0,NBA TV HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/334.ts?checkedby:ahlakid.com
-
-#EXTINF:-0,NBC Golf HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/536.ts?checkedby:ahlakid.com
-
-#EXTINF:-0,FOX Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:ahlakid.com
