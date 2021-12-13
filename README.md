@@ -2,80 +2,13 @@
 #EXTINF:-0,Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:0 ,Players TV (1080p)
-https://playerstv-samsungca.amagi.tv/playlist.m3u8
-
-#EXTINF:0 ,Plymouth Rock TV (1080p)
-https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8
-
-#EXTINF:0 ,Prime Asia TV (720p)
-http://primeasia.dyndns.tv:8080/Live_web_250/index.m3u8
-
-#EXTINF:0 ,Prime Canada TV (720p) [Not 24/7]
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-
-#EXTINF:-0,Stingray Ambience (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
-
-#EXTINF:-0,Stingray Classic Rock (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
-
-#EXTINF:0 ,Stingray Classic Rock (1080p)
-https://stirr.ott-channels.stingray.com/101/master.m3u8
-
-#EXTINF:0 ,Stingray Classic Rock (1080p)
-https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
-
-#EXTINF:0 ,Stingray Classica (1080p)
-https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
-
-#EXTINF:0 ,Stingray Djazz (1080p)
-https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-
-#EXTINF:0 ,Stingray djazz (1080p)
-https://stirr.ott-channels.stingray.com/djazz/master.m3u8
-
-#EXTINF:0 ,Stingray Everything 80s (1080p)
-https://stirr.ott-channels.stingray.com/128/master.m3u8
-
-#EXTINF:0 ,Stingray Flashback 70s (1080p)
-https://stirr.ott-channels.stingray.com/115/master.m3u8
-
-#EXTINF:0 ,Stingray Greatest Hits (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
-
-#EXTINF:0 ,Stingray Greatest Hits (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
-
-#EXTINF:0 ,Stingray Hit List (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
-
-#EXTINF:0 ,Stingray Hit List (1080p)
-https://stirr.ott-channels.stingray.com/107/master.m3u8
-
-#EXTINF:0 ,Stingray Hitlist (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
-
-#EXTINF:0 ,Stingray Holiday Hits (1080p)
-https://stirr.ott-channels.stingray.com/155/master.m3u8
-
-#EXTINF:0 ,Stingray Hot Country (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
-
-#EXTINF:0 ,Stingray Hot Country (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8
-
-#EXTINF:0 ,Stingray Hot Country (1080p)
-https://stirr.ott-channels.stingray.com/108/master.m3u8
-
-
 #EXTINF:-0,Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-0,LoveSmithsonian Channel Asia (1080p)
+#EXTINF:-0,Love Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF :-0,love Nature (1080p)
+#EXTINF:-0,love Nature (1080p)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-0,Love Nature Español (1080p)
@@ -83,18 +16,6 @@ https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CD
 
 #EXTINF:-0,Claro Sports sd 
 http://45.179.140.242:8000/play/a0ht
-
-#EXTINF:-0,Sport TV 1 (720p)
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-0,Sport TV 2 (576p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-0,Sport TV 3 (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-0,Sport TV 4 (720p)
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:0,Nat Geo Wild HD 8
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16101.ts?checkedby:iptvcat.net
@@ -132,7 +53,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UC
 #EXTINF:-0,RETRO carton 
 http://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF :-0,Record TV HD
+#EXTINF:-0,Record TV HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF:-0,KRONEHIT TV
@@ -988,13 +909,13 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:1 ,NASA TV Public  (Education)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:1 ,Nat Geo WILD  (Documentary)
+#EXTINF:-0,Nat Geo WILD  (Documentary)
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 
-#EXTINF:1 ,Nature Live - Animal Live (Bumblebee)  (Relax)
+#EXTINF:-0,Nature Live - Animal Live (Bumblebee)  (Relax)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 
-#EXTINF :0,Euronews en Español (720p)
+#EXTINF:-0,Euronews en Español (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0,Love Nature (1080p) alt
@@ -1024,7 +945,7 @@ https://xplore-plex.amagi.tv/playlist720-p.m3u8
 #EXTINF:-0,Sports FHD+
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-AD SPORTS HD
+#EXTINF:-0,AD SPORTS HD
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8 
 
 #EXTINF:-0,AD SPORTS 2	
@@ -1066,11 +987,11 @@ http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:0 - NBA TV HD
+#EXTINF:-0,NBA TV HD
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/334.ts?checkedby:ahlakid.com
 
-#EXTINF:0 - NBC Golf HD
+#EXTINF:-0,NBC Golf HD
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/536.ts?checkedby:ahlakid.com
 
-#EXTINF:0 - FOX Sports
+#EXTINF:-0,FOX Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:ahlakid.com
