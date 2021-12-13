@@ -1066,39 +1066,6 @@ http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:0 Bein Sports 1
-http://iptv.csserv.co:8000/live/clientr725/631739/2470.ts
-
-#EXTINF:0 Bein Sports 1 HD
-http://iptv.csserv.co:8000/live/clientr725/631739/779.ts
-
-#EXTINF:0  Bein Sports 2 HD
-http://iptv.csserv.co:8000/live/clientr725/631739/775.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - AR: Bein Sports 3 HD
-http://iptv.csserv.co:8000/live/clientr725/631739/774.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - AR: Bein Sports 4 HD
-http://iptv.csserv.co:8000/live/clientr725/631739/773.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - AR: Bein Sports 7 HD
-http://iptv.csserv.co:8000/live/clientr725/631739/770.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - AR: Bein Sports 8 HD
-http://iptv.csserv.co:8000/live/clientr725/631739/769.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - AR: Bein Sports 9 HD
-http://iptv.csserv.co:8000/live/clientr725/631739/768.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - AR: Bein Sports 10 HD
-http://iptv.csserv.co:8000/live/clientr725/631739/778.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - AR: Bein Sports 11 HD
-http://iptv.csserv.co:8000/live/clientr725/631739/777.ts
-
-hg
-uu
-h
 #EXTINF:0 - NBA TV HD
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/334.ts?checkedby:ahlakid.com
 
@@ -1107,12 +1074,3 @@ http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/536.ts?checkedby:ahlakid.com
 
 #EXTINF:0 - FOX Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:ahlakid.com
-
-#EXTINF:-0 Sports 1 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/330.ts?checkedby:ahlakid.com
-
-#EXTINF:0 Fox Sports NEWS HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/442.ts?checkedby:ahlakid.com
-
-#EXTINF:0 Fox Sports Prime Ticket HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/329.ts?checkedby:ahlakid.com
