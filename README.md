@@ -90,6 +90,12 @@ https://content-asae1-up-1.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610/e
 #EXTINF:-1,Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
+#EXTINF:-1,Love Nature 4K2
+http://177.20.208.58:8000/play/a04o/index.m3u8
+
+#EXTINF:-1,Love Nature HD99
+http://177.20.208.58:8000/play/a03r/index.m3u8
+
 #EXTINF:-1,Love Nature 4k Español
 http://177.20.208.58:8000/play/a03r/index.m3u8
 
