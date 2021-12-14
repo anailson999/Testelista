@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0,LOVE NATURE 4K UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+
 #EXTINF:-0,NASA
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
