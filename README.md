@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-0,NASA
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
 #EXTINF:-0,Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
