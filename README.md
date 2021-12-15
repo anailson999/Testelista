@@ -1,19 +1,25 @@
 #EXTM3U
 
-#EXTINF:-0,Kronehits 720p 1
+#EXTINF:-0,Kronehits 1080p 1
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:-0,Kronehits 720p 2
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1, KroneHit 720p 3
-http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+#EXTINF:-0,Kronehits TV [HD]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1, KRONEHIT 720p 4
-http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
+#EXTINF:-1,Kronehit TV [FHD]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1,Kronehit 1080p 1
+#EXTINF:-1,KroneHit 1080p 2
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
+
+#EXTINF:-1,Kronehit 1080p 3
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-0,KRONEHIT TV HD [1080p]
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-0,LOVE NATURE 4K UHD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
