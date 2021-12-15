@@ -6,6 +6,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009b
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
 #EXTINF:-0,Euro90's
+https://eurodance.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-0,Eurodance 90 HD
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
 #EXTINF:-0,KRONEHIT ALT HD
