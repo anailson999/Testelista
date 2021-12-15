@@ -1,15 +1,26 @@
 #EXTM3U
+#EXTINF:-0,Pluto TV Animals 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
 
-#EXTINF:-0 , 4fun TV HD
-https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-0,Space Channel Nasa HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+
+#EXTINF:-0,Euro90's
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-0,KRONEHIT ALT HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-0,4fun TV HD
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-0,Music Top HD 
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-0, 1 HD Music 720p 
+#EXTINF:-0,1 HD Music 720p 
 https://sc.id-tv.kz/1hd_34_35.m3u8
 
-#EXTINF:-0, 1 HD Music 1080p 
+#EXTINF:-0,1 HD Music 1080p 
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-0,Kronehits Alt HD
@@ -87,7 +98,7 @@ http://linea.cc:8000/test123/test123/49843.ts?checkedby:ahlakid.com
 #EXTINF:-0,NatGeo Wild HD+
 http://linea.cc:8000/test123/test123/49911.ts?checkedby:ahlakid.com
 
-#EXTINF:-0,Space Channel FHD
+#EXTINF:-0,Space Channel Nasa FHD 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
 #EXTINF:-1,SUMMER TV
