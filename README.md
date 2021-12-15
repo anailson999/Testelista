@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-0, 1 HD Music 1
+https://sc.id-tv.kz/1hd_34_35.m3u8
+
+#EXTINF:-0, 1 HD Music 2
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
 #EXTINF:-0,Kronehits HD [1080p]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
