@@ -1,7 +1,12 @@
 #EXTM3U
+#EXTINF:-0,Kronehits HD [1080p]
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-0,Kronehits HD 1080p
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-0,Kronehits [HD+]
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-0,Kronehits HD 720p
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
