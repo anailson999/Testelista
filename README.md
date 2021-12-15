@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-0, 1 HD Music 1
+#EXTINF:-0, 1 HD Music 720p 
 https://sc.id-tv.kz/1hd_34_35.m3u8
 
-#EXTINF:-0, 1 HD Music 2
+#EXTINF:-0, 1 HD Music 1080p 
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-0,Kronehits HD [1080p]
@@ -17,10 +17,10 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-0,Kronehits HD 720p
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-0,Kronehits TV [HD]
+#EXTINF:-0,Kronehits TV [UFHD 1]
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1,Kronehit TV [UFHD]
+#EXTINF:-1,Kronehit TV [UFHD 2]
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1,KroneHit SD
