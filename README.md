@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-0,NBA 
-https://flv3948069e.live.126.net/live/d6513a8f73a7312ab388f7e3a5a72273.flv
+https://flv3948069e.live.126.net/live/d6513a8f73a7312ab388f7e3a5a72273.m3u8
 
 #EXTINF:-0,Love Nature 1920p 
 http://177.20.208.58:8000/play/a03r/67576615.m3u8
