@@ -1,5 +1,42 @@
 #EXTM3U
-#EXTINF:-0,
+#EXTINF :-0,NBC NEWS 1280p
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_1_4596000.m3u8
+
+#EXTINF:-0,NBC NEWS 1920p
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+
+#EXTIN:-0,Euro90's 
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-0,ESR 24x7
+https://eyeonesports.com/1080/ESR-001SCTE35.m3u8
+
+#EXTINF:-0,AMC Presents
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/4300.m3u8
+
+#EXTINF:-0,SPORT.TV 1 HD
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-0,SPORT.TV 2 HD
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-0,SPORT.TV 3 HD
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-0,SPORT TV 4 HD
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-0,Globo SP
+https://cdn.esporteone.com/GLOBOSPSD/video.m3u8?md5=tpfV0ulufetMIsnZlVgi7A&expires=1639612981
+
+#EXTINF:-0,Star Hits HD
+https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1639609875&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&nielsen=1&iph=bada19d52259fdf79dc2a8378a3b82477a908a8c95d3a8a7c7aaf30e6110610f&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=95ee403f9019a23ad4b9b99f6d316a65418e4acc98fa041f82ffdf4341e39c18&pbs=78ed7b2c8dd64575bbba4997d30016ec
+
+#EXTINF:-0,Sportv
+https://cdn.esporteone.com/SPORTVSD/video.m3u8?md5=Brh8MXDVSEiAgZHHCnxyWg&expires=1639613470
+
+#EXTINF:-0,Sportv 2
+https://cdn.esporteone.com/SPORTV2SD/video.m3u8?md5=lNkwFMZmtknzvEuAne7PhA&expires=1639613692
 
 
 #EXTINF:-0,Love Nature 1920p 
