@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-0,Kronehits 1080p 1
+#EXTINF:-0,Kronehits HD 1080p
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-0,Kronehits 720p 2
+#EXTINF:-0,Kronehits HD 720p
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-0,Kronehits TV [HD]
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1,Kronehit TV [FHD]
+#EXTINF:-1,Kronehit TV [UFHD]
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1,KroneHit 1080p 2
+#EXTINF:-1,KroneHit SD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
 
-#EXTINF:-1,Kronehit 1080p 3
+#EXTINF:-1,Kronehit 4K
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-0,KRONEHIT TV HD [1080p]
+#EXTINF:-0,KRONEHIT TV HD [720p]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-0,LOVE NATURE 4K UHD
