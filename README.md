@@ -1,9 +1,19 @@
 #EXTM3U
+
+#EXTINF:-0 , 4fun TV HD
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-0,Music Top HD 
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
 #EXTINF:-0, 1 HD Music 720p 
 https://sc.id-tv.kz/1hd_34_35.m3u8
 
 #EXTINF:-0, 1 HD Music 1080p 
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-0,Kronehits Alt HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-0,Kronehits HD [1080p]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
