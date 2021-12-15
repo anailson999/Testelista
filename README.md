@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-0,Love Nature 1920p 
+http://177.20.208.58:8000/play/a03r/67576615.m3u8
+
 #EXTINF:-0,KRONEHIT 1920p 
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
