@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF :-0,Tv Diário HD
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZe2XVmxANWyBDZ5lLphEmsM)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+
+#EXTINF:-0,Rede Vida HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-0,Tv Jangadeiro 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w556142533_b1000000.m3u8
+
+#EXTIN:-0,Tv século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b130900.m3u8
+
+#EXTINF:-0,Weather Channel 
+https://weather.newscdn.org/57Lq16lSIfPeaTw1B8_GXg==,1639630609/1253851229/tracks-v1a1/mono.m3u8
+
 #EXTINF :-0,NBC NEWS 1280p
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_1_4596000.m3u8
 
@@ -28,9 +43,6 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-0,Star Hits HD
 https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1639609875&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&nielsen=1&iph=bada19d52259fdf79dc2a8378a3b82477a908a8c95d3a8a7c7aaf30e6110610f&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=95ee403f9019a23ad4b9b99f6d316a65418e4acc98fa041f82ffdf4341e39c18&pbs=78ed7b2c8dd64575bbba4997d30016ec
-
-#EXTINF:-0,Band
-https://m3u9.ml/b/hls1/Band.m3u8?mu3zAQc9HC3GbwJq=yTIlOh6ILunYBS9BiURgHg&3U1G7qaTxrPbalZnEx=1639640524
 
 #EXTINF:-0,Love Nature 1920p 
 http://177.20.208.58:8000/play/a03r/67576615.m3u8
