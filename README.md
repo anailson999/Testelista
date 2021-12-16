@@ -1118,3 +1118,21 @@ http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-0,Sport.tv 1
+https://jobvyprjddqlpwxa.wzcdn264.net:8443/hls/walxjawfo5x.m3u8?s=cqAED2pODdweHmtA31Hpng&e=1639682341
+
+#EXTINF:-0,Sport.tv 2
+https://jobvyprjddqlpwxa.wzcdn264.net:8443/hls/u225jtufy2dkv.m3u8?s=b7B-Tzav0Udju1qKgM9uJg&e=1639682612
+
+#EXTINF:-0,Sport.tv 3
+https://jobvyprjddqlpwxa.wzcdn264.net:8443/hls/t69y1s69ffvz.m3u8?s=sWpePo_PYWZav0QrG7w8vw&e=1639682753
+
+#EXTINF:-0,Sport.tv 4
+https://jobvyprjddqlpwxa.wzcdn264.net:8443/hls/0zer896oz3mv6.m3u8?s=FzsFQZ06wowiSKU8w5C3ag&e=1639682891
+
+#EXTINF:-0,Sport.tv 5
+https://jobvyprjddqlpwxa.wzcdn264.net:8443/hls/war3u.m3u8?s=ZllQUboozBXnZtQclpNe8w&e=1639682403
+
+
