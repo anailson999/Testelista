@@ -23,8 +23,11 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 #EXTIN:-0,Euro90's 
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
-#EXTINF:-0,ESR 24x7
+#EXTINF:-0,ESR 24/7 1920p
 https://eyeonesports.com/1080/ESR-001SCTE35.m3u8
+
+#EXTINF:-0,ESR 24/7 1280p
+https://eyeonesports.com/720/ESR-002SCTE35.m3u8
 
 #EXTINF:-0,AMC Presents
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/4300.m3u8
