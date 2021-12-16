@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-0,1HD MUSIC TELEVISION 
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+
 #EXTINF :-0,Tv Diário HD
 https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZe2XVmxANWyBDZ5lLphEmsM)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
