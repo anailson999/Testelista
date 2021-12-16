@@ -48,6 +48,9 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-0,SPORT TV 4 HD
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
+#EXTINF:-0,SPORT.TV 5 HD 
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
+
 #EXTINF:-0,Star Hits HD
 https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1639609875&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&nielsen=1&iph=bada19d52259fdf79dc2a8378a3b82477a908a8c95d3a8a7c7aaf30e6110610f&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=95ee403f9019a23ad4b9b99f6d316a65418e4acc98fa041f82ffdf4341e39c18&pbs=78ed7b2c8dd64575bbba4997d30016ec
 
