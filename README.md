@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0,Love Nature Español 
+http://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #EXTINF :-0,Tv Diário HD
 https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZe2XVmxANWyBDZ5lLphEmsM)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
