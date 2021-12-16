@@ -9,10 +9,10 @@ https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZe2XVmxANWyBDZ5lLp
 #EXTINF:-0,Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
-#EXTINF:-0,Tv Jangadeiro 
+#EXTINF:-0,Tv século 21
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w556142533_b1000000.m3u8
 
-#EXTIN:-0,Tv século 21
+#EXTINF:-0,Tv Jangadeiro 
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b130900.m3u8
 
 #EXTINF:-0,Weather Channel 
