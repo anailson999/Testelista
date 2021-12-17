@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTINF:-0,Tv Jangadeiro 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w498896656_b1000000.m3u8
 
-#EXTINF:-0,Love Nature Español 
+#EXTINF:-0,Love Nature Usa 1080p
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF :-0,Tv Diário HD
