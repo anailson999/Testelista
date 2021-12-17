@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-0,SBT HD SP
+#EXTINF:-0,SBT HD SP
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
 
 #EXTINF:-0,Band
