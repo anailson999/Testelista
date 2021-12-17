@@ -18,6 +18,9 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b97
 #EXTINF:-0,Tv século 21 FHD 2
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b130900.m3u8
 
+#EXTINF:-0,Tv século 21 HD 2
+http://168.205.87.198:8555/live/solange/123456/106.m3u8
+
 #EXTINF:-0,Weather Channel 
 https://weather.newscdn.org/57Lq16lSIfPeaTw1B8_GXg==,1639630609/1253851229/tracks-v1a1/mono.m3u8
 
