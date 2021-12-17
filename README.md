@@ -1,4 +1,7 @@
 #EXTM3U
+EXTINF:-0,SBT HD SP
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+
 #EXTINF:-0,Tv Jangadeiro 
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w498896656_b1000000.m3u8
 
