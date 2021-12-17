@@ -11,14 +11,17 @@ https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZe2XVmxANWyBDZ5lLp
 #EXTINF:-0,Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
-#EXTINF:-0,Tv século 21 FHD
+#EXTINF:-0,Rede século 21 FHD
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b130900.m3u8
 
-#EXTINF:-0,Tv século 21 HD
+#EXTINF:-0,Rede século 21 HD
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b978000.m3u8
 
-#EXTINF:-0,Tv século 21 FHD 2
+#EXTINF:-0,Rede século 21 FHD 2
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b130900.m3u8
+
+#EXTINF:-0,REDE SECULO 21 HD 1
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?
 
 #EXTINF:-0,Weather Channel 
 https://weather.newscdn.org/57Lq16lSIfPeaTw1B8_GXg==,1639630609/1253851229/tracks-v1a1/mono.m3u8
