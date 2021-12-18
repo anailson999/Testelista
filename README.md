@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-0,Band 
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
+#EXTINF:-0,Record 
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-0,
+
 
 
 #EXTINF:-0,Sbt hd
