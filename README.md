@@ -1,9 +1,45 @@
 #EXTM3U
-#EXTINF:-0,Band HD
-http://168.205.87.198:8555/live/antony/1234/19.ts?checkedby:iptvcat.com
 
-#EXTINF:-0,Band HD alt
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ET5-0SXWxjNE1yTQfyuPtTH/ts?checkedby:iptvcat.com
+#EXTINF:-0,Verdes mares
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/448.ts'victorallm.ts
+
+
+#EXTINF:-0,Record
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/191.ts'victorallm.ts
+
+
+#EXTINF:-0,Record HD
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/290.ts'victorallm.ts
+
+
+#EXTINF:-0,Rede TV!
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/190.ts'victorallm.ts
+
+
+#EXTINF:-0,Rede TV! HD
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/289.ts'victorallm.ts
+
+
+#EXTINF:-0,SBT
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/189.ts'victorallm.ts
+
+
+#EXTINF:-0,SBT HD
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/288.ts'victorallm.ts
+
+
+#EXTINF:-0,SBT HEVC
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/405.ts'victorallm.ts
+
+
+#EXTINF:-0,Band
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/165.ts'victorallm.ts
+
+
+#EXTINF:-0,Band HD
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/334.ts'victorallm.ts
+
+
 
 #EXTINF:-0,Sbt hd
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
