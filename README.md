@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-0,Band HD
+http://168.205.87.198:8555/live/antony/1234/19.ts?checkedby:iptvcat.com
+
+#EXTINF:-0,Band HD alt
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ET5-0SXWxjNE1yTQfyuPtTH/ts?checkedby:iptvcat.com
+
 #EXTINF:-0,Sbt hd
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
 
