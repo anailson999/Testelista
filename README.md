@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-0,Combate FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8778
 
 
 #EXTINF:-0,Band 
