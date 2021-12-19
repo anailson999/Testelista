@@ -10,7 +10,7 @@ http://qqtv.nl:8080/live/masud/masud/334125.m3u8
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6148
 
 #EXTINF:-0, BBC EARTH HD
-http://qqtv.nl:8080/live/masud/masud/329874.m3u
+http://qqtv.nl:8080/masud/masud/329874
 
 #EXTINF:-0,Love Nature HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1723
