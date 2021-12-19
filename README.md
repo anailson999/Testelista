@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:-0,ACTION SPORTS 4U
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/100497
+
+#EXTINF:0 tvg-id="ext" group-title="USA",USA- ADVENTURE SPORTS NETWORK
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/100496
+
+#EXTINF:0 tvg-id="ext" group-title="USA",USA- AFN PRIME ATLANTIC
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/100495
+
+#EXTINF:0 tvg-id="ext" group-title="USA",USA- AKC TV
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/100494
+
+#EXTINF:0 tvg-id="ext" group-title="USA",USA- AMC
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/100493
+
+#EXTINF:0 tvg-id="ext" group-title="USA",USA- AMERICAN HEROES CHANNEL
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/100492
+
+#EXTINF:0 tvg-id="ext" group-title="USA",USA- ANIMAL PLANET
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/100491
+
+#EXTINF:0 tvg-id="ext" group-title="USA",USA- ANTENNA TV
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/100490
+
+
 #EXTINF:-0,Band 
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
