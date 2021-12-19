@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-0,Love Nature FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/78665
 
@@ -16,16 +15,16 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/724
 #EXTINF:-0,Premier Sports 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/284467
 
-#EXTINF:-0, Premier Sports 2 HD
+#EXTINF:-0,Premier Sports 2 HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4723
 
 #EXTINF:-0,Sky News FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1081
 
-#EXTINF:-0, Sky One FHD
+#EXTINF:-0,Sky One FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1080
 
-#EXTINF:-0, Sky Sports Arena FHD
+#EXTINF:-0,Sky Sports Arena FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/267
 
 #EXTINF:-0,Sky Sports F1 FHD
@@ -40,7 +39,7 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/264
 #EXTINF:-0,Sky Sports Main Event FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/283053
 
-#EXTINF:-0, Sky Sports Mix FHD
+#EXTINF:-0,Sky Sports Mix FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/261
 
 #EXTINF:-0,Sky Sports NFL FHD
@@ -49,7 +48,7 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2818
 #EXTINF:-0,Sky Sports Premier League FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/263
 
-#EXTINF:-0, Sky Sports Cricket HD
+#EXTINF:-0,Sky Sports Cricket HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/269
 
 #EXTINF:-0,Sky Sports News HD
@@ -64,7 +63,7 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1659
 #EXTINF:-0,Sky Store 2 HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165922
 
-#EXTINF:-0, Sky Store 3 HD
+#EXTINF:-0,Sky Store 3 HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165929
 
 #EXTINF:-0,sky store 4 HD
@@ -73,7 +72,7 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1659
 #EXTINF:-0,Sky TWO HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1074
 
-#EXTINF:-0, SKY Witness FHD
+#EXTINF:-0,SKY Witness FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/11738
 
 #EXTINF:-0,Smithsonian Channel FHD
@@ -81,9 +80,6 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2669
 
 #EXTINF:-0,Spotlight TV HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157288
-
-
-
 
 #EXTINF:-0,BBC Earth HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/174446
