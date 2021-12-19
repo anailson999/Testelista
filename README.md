@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-0,Globo Nordeste Full HD
-http://tv.ultraiptv.org:80/live/hmsohcfc/4z8m5dfR3P/9260.m3u8
 
 #EXTINF:-0,Band 
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
@@ -1414,3 +1412,180 @@ http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+
+
+#EXTINF:-1,Sports News FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/676904
+#EXTINF:-1,Sports 1 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682932
+#EXTINF:-1,Sports 1 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5482
+#EXTINF:-1,Sports 1 HD VIP AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678748
+#EXTINF:-1,Sports 2 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682933
+#EXTINF:-1,Sports 2 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5481
+#EXTINF:-1,Sports 3 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682934
+#EXTINF:-1,Sports 3 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5480
+#EXTINF:-1,Sports 4 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5479
+#EXTINF:-1,Sports 5 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682935
+#EXTINF:-1,Sports 5 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5478
+#EXTINF:-1,Sports 6 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54777
+#EXTINF:-1,Sports 7 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683135
+#EXTINF:-1,Sports 7 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5476
+#EXTINF:-1,Sports 8 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53432
+#EXTINF:-1,Sports 9 FHD VIP AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682936
+#EXTINF:-1,Sports 9 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5474
+#EXTINF:-1,Sports 10 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5473
+#EXTINF:-1,Sports 11 FHD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683410
+#EXTINF:-1,Sports 11 HD AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667466
+
+#EXTINF:-1,FR | SPORT 1 HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/438
+#EXTINF:-1,FR | SPORT 3 HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/439
+#EXTINF:-1,FR | SPORT 2 HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/440
+#EXTINF:-1,FR | SPORT MAX 4
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/441
+#EXTINF:-1,FR | SPORT MAX 5
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/442
+#EXTINF:-1,FR | SPORT MAX 6
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/443
+#EXTINF:-1,FR | SPORT MAX 7
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/444
+#EXTINF:-1,FR | SPORT MAX 8
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/445
+#EXTINF:-1,Sports 1 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682943
+#EXTINF:-1,Sports 2 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682944
+#EXTINF:-1,Sports 3 SD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682945
+#EXTINF:-1,Sports Max 4 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5470
+#EXTINF:-1,Sports Max 5 FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53604
+#EXTINF:-1,Sports Max 6 FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625242
+#EXTINF:-1,Sports Max 7 FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54678
+#EXTINF:-1,Sports Max 8 FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5466
+#EXTINF:-1,RMC Sport 1 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682956
+#EXTINF:-1,RMC Sport 1 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625226
+#EXTINF:-1,RMC Sport 2 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682957
+#EXTINF:-1,RMC Sport 2 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682955
+#EXTINF:-1,RMC Sport 3 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682958
+#EXTINF:-1,RMC Sport 3 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625233
+#EXTINF:-1,RMC Sport 4 FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682959
+#EXTINF:-1,RMC Sport 4 HD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682961
+#EXTINF:-1,RMC Sport 5 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682962
+#EXTINF:-1,RMC Sport 6 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682963
+#EXTINF:-1,RMC Sport 7 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682964
+#EXTINF:-1,RMC Sport 8 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682965
+#EXTINF:-1,RMC Sport 9 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682967
+#EXTINF:-1,RMC Sport 10 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682966
+#EXTINF:-1,RMC Sport 11 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682968
+#EXTINF:-1,RMC Sport 12 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682969
+#EXTINF:-1,RMC Sport 13 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682970
+#EXTINF:-1,RMC Sport 14 [Match Time] FHD FR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682971
+#EXTINF:-1,CH | MySports 1
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/837
+#EXTINF:-1,CH | MySports 2
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/346
+#EXTINF:-1,CH | MySports 3
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/345
+
+#EXTINF:-1,BG | Max Sport 4
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/350
+#EXTINF:-1,BG | Max Sport 3
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/351
+#EXTINF:-1,BG | Max Sport 2
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/352
+#EXTINF:-1,BG | Max Sport 1
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/353
+#EXTINF:-1,PL | POLSAT Sport Premium 1 HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/370
+#EXTINF:-1,PL | POLSAT Sport Premium 2 HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/371
+#EXTINF:-1,PL | POLSAT Sport EXTRA
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/372
+#EXTINF:-1,PL | POLSAT Sport
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/373
+#EXTINF:-1,PL | Eurosport 1
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/374
+#EXTINF:-1,PL | Eurosport 2
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/375
+
+#EXTINF:-1,NL | Ziggo Sport 1 Racing
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/376
+#EXTINF:-1,NL | Ziggo Sport Voetbal
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/377
+#EXTINF:-1,NL | Ziggo Sport Golf
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/378
+#EXTINF:-1,NL | Ziggo Sport Extra 1
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/379
+#EXTINF:-1,NL | Ziggo Sport Extra 2
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/380
+#EXTINF:-1,NL | Ziggo Sport 1 Select HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/381
+#EXTINF:-1,NL | FOX Sports 1
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/382
+#EXTINF:-1,NL | FOX Sports 2
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/383
+#EXTINF:-1,NL | FOX Sports 3
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/384
+#EXTINF:-1,NL | FOX Sports 4
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/385
+#EXTINF:-1,NL | FOX Sports 5
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/386
+#EXTINF:-1,NL | FOX Sports 6
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/387
+#EXTINF:-1,SE | Dplay Sport 1
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49270
+#EXTINF:-1,SE | Dplay Sport 2
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49271
+#EXTINF:-1,SE | Viasat Sport
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49272
+#EXTINF:-1,SE | Viasat Sport Premium
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49273
+#EXTINF:-1,SE | C More Live 1
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49274
+#EXTINF:-1,SE | C More Live 2
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49275
+#EXTINF:-1,SE | C More Live 3
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49276
