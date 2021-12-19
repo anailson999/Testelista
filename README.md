@@ -182,7 +182,7 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/5844
 #EXTINF:-0,HBO Comedy US FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2335
 
-#EXTINF:-0,US: HBO East HD
+#EXTINF:-0,HBO East HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6382
 
 #EXTINF:-0,HBO Family US HD
