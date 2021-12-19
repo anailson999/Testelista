@@ -1,4 +1,29 @@
 #EXTM3U
+#EXTINF:-0,FOX KIDS HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286839
+
+#EXTINF:-0, S+ FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/81973
+
+#EXTINF:-0,SIC Caras HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/5910
+
+#EXTINF:-0, SIC FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1408
+
+#EXTINF:-0,SIC K FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4021
+
+#EXTINF:-0,IC Mulher FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1427
+
+#EXTINF:-0, SIC Noticias FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1416
+
+#EXTINF:-0, SIC Radical FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1429
+
+
 #EXTINF:-0,SPORT.TV 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1483
 
@@ -26,6 +51,31 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1481
 #EXTINF:-0,Sporting TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1519
 
+#EXTINF:-0,ELEVEN SPORTS 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1499
+
+#EXTINF:-0, ELEVEN SPORTS 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1503
+
+#EXTINF:-0,ELEVEN SPORTS 3 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1506
+
+#EXTINF:-0, ELEVEN SPORTS 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1509
+
+#EXTINF:-0,ELEVEN SPORTS 5 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1512
+
+#EXTINF:-0, ELEVEN SPORTS 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1515
+
+#EXTINF:-0,EUROSPORT 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1517
+
+#EXTINF:-0, EUROSPORT 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1518
+
+#EXTINF:-0,
 
 #EXTINF:-0,SKY DOCUMENTARIES HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/187346
