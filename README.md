@@ -42,7 +42,7 @@ http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9
 #EXTINF:-0, Band Vale HD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8938.m3u8
 
-beIN Sports 1 FHD
+#EXTINF:-0,beIN Sports 1 FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2272.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 2 FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/151022.m3u8
