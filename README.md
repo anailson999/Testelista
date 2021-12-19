@@ -1,29 +1,19 @@
 #EXTM3U
 
-#EXTINF:-0,NBA TV Canada HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/13222
-
-#EXTINF:-0,Smithsonian Channel FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/34738
+#EXTINF:-0,SMITHSONIAN HD
+http://qqtv.nl:8080/live/masud/masud/21049.m3u8
 
 #EXTINF:-0,FXX 2 HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6148
 
-#EXTINF:-0,ANIMAL PLANET HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/9259
-
+#EXTINF:-0, BBC EARTH HD
+http://qqtv.nl:8080/live/masud/masud/329874.m3u8
 
 #EXTINF:-0,Love Nature HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1723
 
-#EXTINF:-0,FXX HD
-http://dp.iptvport.com:7000/nbnluvdy816639/nbnluvdy/9327
-
 #EXTINF:-0,SKY NATURE FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286909
-
-#EXTINF:-0,FOX KIDS HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286839
 
 #EXTINF:-0, S+ FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/81973
