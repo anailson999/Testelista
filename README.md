@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-0,BeIN Sports 
-https://rented2.mireasa.live/cdn/premium98.ts
-
 #EXTINF:-0,Band 
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
