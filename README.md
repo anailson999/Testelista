@@ -1,21 +1,5 @@
 #EXTM3U
 
-#EXTINF:-0,FXX HDTV
-http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/61937.m3u8
-
-#EXTINF:-0,NBA TV Canada
-http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/61797.m3u8
-
-#EXTINF:-0,WEATHER NETWORK
-http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/61801.m3u8
-
-#EXTINF#EXTINF:-0,LOVE NATURE
-http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/61817.m3u8
-
-#EXTINF:-0,CTV SCI-FI HD
-http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/61953.m3u8
-
-
 
 #EXTINF:-0,SMITHSONIAN HD
 http://qqtv.nl:80/live/masud/masud/21049.m3u8
