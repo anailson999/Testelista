@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-0,Globo Nordeste Full HD
+http://tv.ultraiptv.org:80/live/hmsohcfc/4z8m5dfR3P/9260.m3u8
 
 #EXTINF:-0,Band 
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
