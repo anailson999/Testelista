@@ -75,8 +75,6 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1517
 #EXTINF:-0, EUROSPORT 2 HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1518
 
-#EXTINF:-0,
-
 #EXTINF:-0,SKY DOCUMENTARIES HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/187346
 
