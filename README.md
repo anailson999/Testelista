@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-0,SMITHSONIAN HD
-http://qqtv.nl:8080/live/masud/masud/21049.m3u8
+http://qqtv.nl:8080/masud/masud/21049.m3u8
 
 #EXTINF:-0,LOVE NATURE
-http://qqtv.nl:8080/live/masud/masud/334125.m3u8
+http://qqtv.nl:8080/masud/masud/334125.m3u8
 
 #EXTINF:-0,FXX 2 HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6148
 
 #EXTINF:-0, BBC EARTH HD
-http://qqtv.nl:8080/masud/masud/329874
+http://qqtv.nl:8080/masud/masud/329874.m3u8
 
 #EXTINF:-0,Love Nature HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1723
