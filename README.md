@@ -1,51 +1,23 @@
 #EXTM3U
-#EXTINF:-0,DAZN SPORT 1 HD
-http://qqtv.nl:8080/masud/masud/391223
 
-#EXTINF:-0, DAZN SPORT 2 HD
-http://qqtv.nl:8080/masud/masud/391222
+#EXTINF:-0,NBA TV Canada HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/13222
 
-#EXTINF:-0,TELEKOM BUNDESLIGA 1 HD
-http://qqtv.nl:8080/masud/masud/15611
+#EXTINF:-0,Smithsonian Channel FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/34738
 
-#EXTINF:-0,TELEKOM BUNDESLIGA 2 HD
-http://qqtv.nl:8080/masud/masud/15619
+#EXTINF:-0,FXX 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6148
 
-#EXTINF:-0,TELEKOM BUNDESLIGA 3 HD
-http://qqtv.nl:8080/masud/masud/335066
+#EXTINF:-0,ANIMAL PLANET HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/9259
 
-#EXTINF:-0,TELEKOM BUNDESLIGA 4 HD
-http://qqtv.nl:8080/masud/masud/335067
 
-#EXTINF:-0, TELEKOM BUNDESLIGA 5 HD
-http://qqtv.nl:8080/masud/masud/335068
+#EXTINF:-0,Love Nature HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1723
 
-#EXTINF:-0,BBC EARTH HD
-http://qqtv.nl:8080/masud/masud/329874
-
-#EXTINF:-0,BBC CANADA
-http://qqtv.nl:8080/masud/masud/21140
-
-#EXTINF:-0,BBC WORLD NEWS HD
-http://qqtv.nl:8080/masud/masud/21139
-
-#EXTINF:-0,GOLF CANADA HD
-http://qqtv.nl:8080/masud/masud/51861
-
-#EXTINF-0,LOVE NATURE
-http://qqtv.nl:8080/masud/masud/334125
-
-#EXTINF:-0,ANIMAL PLANET CA HD
-http://qqtv.nl:8080/masud/masud/5036
-
-#EXTINF:-0,FXX CANADA HD
-http://qqtv.nl:8080/masud/masud/4976
-
-#EXTINF:-0,SMITHSONIAN HD
-http://qqtv.nl:8080/masud/masud/21049
-
-#EXTINF-0,THE WEATHER NETWORK HD
-http://qqtv.nl:8080/masud/masud/21037
+#EXTINF:-0,FXX HD
+http://dp.iptvport.com:7000/nbnluvdy816639/nbnluvdy/9327
 
 #EXTINF:-0,SKY NATURE FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286909
