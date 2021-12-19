@@ -16,16 +16,16 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3388
 #EXTINF:-0,Nasa TV HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/35586
 
-#EXTINF:-0, NAT GEO US HD
+#EXTINF:-0,NAT GEO US HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/749
 
-#EXTINF:0 NAT GEO Wild US HD
+#EXTINF:0,NAT GEO Wild US HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6503
 
-#EXTINF:-0, NBA TV FHD
+#EXTINF:-0,NBA TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/762
 
-#EXTINF:-0, NBC Golf FHD
+#EXTINF:-0,NBC Golf FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281664
 
 #EXTINF::-0,NBC HD
