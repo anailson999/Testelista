@@ -2,6 +2,81 @@
 #EXTINF:-0,Combate FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8778
 
+#EXTINF:-0,SYFY FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14485
+
+#EXTINF:-0,ESPN Brasil FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/10867
+
+#EXTINF:-0,ESPN Extra HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8789
+
+#EXTINF:-0, ESPN FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8793
+
+#EXTINF:-0,Globo Nordeste FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/24551
+
+#EXTINF:-0,Globo Sao Paulo FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14514
+
+#EXTINF:-0,Jovem Pan News FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286091
+
+#EXTINF:-0,NAT GEO FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14531
+
+#EXTINF:-0,NAT GEO Wild HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8905
+
+#EXTINF:-0,Premiere FC 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8785
+
+#EXTINF:-0,Record SP HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14639
+
+#EXTINF:-0,Rede Vida HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/147286
+
+#EXTINF:-0,SBT FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/7367
+
+#EXTINF:-0,SPORTV 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8783
+
+#EXTINF:-0,SPORTV 3 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8784
+
+#EXTINF:-0,SPORTV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4015
+
+#EXTINF:-0, Star Hits 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278661
+
+#EXTINF:-0, Star Hits FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278660
+
+#EXTINF:-0,Telecine Action FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/193685
+
+#EXTINF:-0, Telecine Cult HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/197080
+
+#EXTINF:-0, Telecine Fun HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8831
+
+#EXTINF:-0,Telecine Pipoca HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8830
+
+#EXTINF:-0, Telecine Premium HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8829
+
+#EXTINF:-0,Telecine Touch FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8828
+
+#EXTINF:-0,
+
+
 
 #EXTINF:-0,Band 
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
