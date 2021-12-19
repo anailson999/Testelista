@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-0,SPORT.TV 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1483
+
+#EXTINF:-0, SPORT.TV 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1486
+
+#EXTINF:-0, SPORT.TV 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1489
+
+#EXTINF:-0, SPORT.TV 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1492
+
+#EXTINF:-0, SPORT.TV 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1495
+
+#EXTINF:-0, SPORT.TV 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281487
+
+#EXTINF:-0, SPORT.TV NBA FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2051
+
+#EXTINF:-0, Sport.TV+ HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1481
+
+#EXTINF:-0,Sporting TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1519
+
+
 #EXTINF:-0,SKY DOCUMENTARIES HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/187346
 
