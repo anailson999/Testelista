@@ -1,24 +1,92 @@
 #EXTM3U
-#EXTINF:-0,Claro Sports 4K
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/75278
 
-#EXTINF:-0,Claro Sports Latinoamerica 4K
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/75279
 
-#EXTINF:-0,LOVE NATURE HD UK
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/82903
+#EXTINF:-0,Love Nature FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/78665
 
-#EXTINF:-0, Sky Sport NBA HD
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/82692
+#EXTINF::-0,Sky Cinema sci-fi Horror FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/725
 
-#EXTINF:-0,Fox Crime HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/16366
+#EXTINF:-0,NAT GEO HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1101
 
-#EXTINF:-0,FOX HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8817
+#EXTINF:-0, NAT GEO Wild HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/724
 
-#EXTINF:-0,Fox Life HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8818
+#EXTINF:-0,Premier Sports 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/284467
+
+#EXTINF:-0, Premier Sports 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4723
+
+#EXTINF:-0,Sky News FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1081
+
+#EXTINF:-0, Sky One FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1080
+
+#EXTINF:-0, Sky Sports Arena FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/267
+
+#EXTINF:-0,Sky Sports F1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/265
+
+#EXTINF:-0,Sky Sports Football FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/266
+
+#EXTINF:-0,Sky Sports Golf FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/264
+
+#EXTINF:-0,Sky Sports Main Event FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/283053
+
+#EXTINF:-0, Sky Sports Mix FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/261
+
+#EXTINF:-0,Sky Sports NFL FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281849##EXTINF:0 tvg-id="SkySpPL.uk" group-
+
+#EXTINF:-0,Sky Sports Premier League FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/263
+
+#EXTINF:-0, Sky Sports Cricket HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/269
+
+#EXTINF:-0,Sky Sports News HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/260
+
+#EXTINF:-0,Sky Sports Racing HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/163132
+
+#EXTINF:-0,Sky Store 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165921
+
+#EXTINF:-0,Sky Store 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165922
+
+#EXTINF:-0, Sky Store 3 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165929
+
+#EXTINF:-0,sky store 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165926
+
+#EXTINF:-0,Sky TWO HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1074
+
+#EXTINF:-0, SKY Witness FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/11738
+
+#EXTINF:-0,Smithsonian Channel FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/266984
+
+#EXTINF:-0,Spotlight TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157288
+
+
+
+
+#EXTINF:-0,BBC Earth HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/174446
 
 #EXTINF:-0, FOX SPORTS 2 HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8776
@@ -40,27 +108,6 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1451
 
 #EXTINF:-0,Globo SP HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/192626
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Gaz
-
-#EXTINF:-0,BBC Earth
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77456
-
-#EXTINF:-0, BeiN Sport 1
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77459
-
-#EXTINF:-0, BeiN Sport 2
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77460
-
-#EXTINF:-0, Fox Sports 1
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77461
-
-#EXTINF:-0,Fox Sports 2
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77462
-
-#EXTINF:-0, Fox Sports 3
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77463
-
-
 
 
 #EXTINF:-0,Combate FHD
