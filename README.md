@@ -1,6 +1,15 @@
 #EXTM3U
-#EXTINF:-0,Sky Nature HD
-http://185.246.210.53:2200/EX/Sky_Nature_HD-uk/index.m3u8?token=
+#EXTINF:-0,Sky Nature HD 1
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286909?checkedby:iptvcat.com
+
+#EXTINF:-0,Sky Nature HD 2
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1684?checkedby:iptvcat.com
+
+#EXTINF:-0,Sky Nature HD 3
+http://103.194.169.171:8282/DE_SKY_NATURE_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+
+#EXTINF:-0,SKY NATURE FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286909
 
 #EXTINF:-0,FOX KIDS HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286839
