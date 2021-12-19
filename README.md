@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-0,AMC HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8845
+
+
+#EXTINF:-0, ANIMAL PLANET HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8890
+
+
+#EXTINF:-0, Anime TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286067
+
+
+#EXTINF:-0, ARTE 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8833
+
+
+#EXTINF:-0,Automotor & Sport HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/16430
+
+
+#EXTINF:-0, AXN HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8852
+
+
+#EXTINF:-0,Baby TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8922
+
+
+#EXTINF:-0,Band Campinas HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/280153
+
+
+#EXTINF:-0,Band News HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14486
+
+
+#EXTINF:-0,Band Sports FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8777
+
+
+#EXTINF:-0, Band Vale HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8938
+
+
 #EXTINF:-0,Band 
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
