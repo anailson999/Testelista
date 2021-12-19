@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-0,Sky Nature HD
+http://185.246.210.53:2200/EX/Sky_Nature_HD-uk/index.m3u8?token=
+
 #EXTINF:-0,FOX KIDS HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286839
 
