@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-0,ACTION SPORTS 4U
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/100497
+http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/100497.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="USA",USA- ADVENTURE SPORTS NETWORK
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/100496
+http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/100496.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="USA",USA- AFN PRIME ATLANTIC
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/100495
+http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/100495.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="USA",USA- AKC TV
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/100494
+http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/100494.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="USA",USA- AMC
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/100493
+http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/100493.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="USA",USA- AMERICAN HEROES CHANNEL
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/100492
+http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/100492.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="USA",USA- ANIMAL PLANET
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/100491
+http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/100491.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="USA",USA- ANTENNA TV
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/100490
+http://dontuse.fluxz.cc:80/live/90144908506629/160417160718/100490.m3u8
 
 
 #EXTINF:-0,Band 
