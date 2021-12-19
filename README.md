@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-0,Claro Sports 4K
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/75278
+
+#EXTINF:-0,Claro Sports Latinoamerica 4K
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/75279
+
 #EXTINF:-0,Boomerang HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/24529
 
