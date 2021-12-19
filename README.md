@@ -1,5 +1,150 @@
 #EXTM3U
 
+#EXTINF:-0,Boomerang HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8915
+
+#EXTINF:-0,CNN Brasil HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/148404
+
+#EXTINF:-0,Food Network HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8863
+
+#EXTINF:-0,Fox Crime HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/16366
+
+#EXTINF:-0,FOX HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8817
+
+#EXTINF:-0,Fox Life HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8818
+
+#EXTINF:-0,FOX SPORTS 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8776
+
+#EXTINF:-0,FOX SPORTS HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8780
+
+#EXTINF:-0,GNT FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8856
+
+#EXTINF:-0, HBO 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8821
+
+#EXTINF:-0,HBO Family HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8839
+
+#EXTINF:-0,HBO FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8822
+
+#EXTINF:-0, HBO Mundi HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8837
+
+#EXTINF:-0, HBO Pop FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/173434
+
+#EXTINF:-0,HBO Signature HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8836
+
+#EXTINF:-0,HBO Xtreme HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8824
+
+#EXTINF:-0, HBO+ FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8823
+
+#EXTINF:-0,HGTV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/147274
+
+#EXTINF:-0,History 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14516
+
+#EXTINF:-0,History Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8901
+
+#EXTINF:-0,Hot FM SP HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286087
+
+#EXTINF:-0,nvestigation Discovery HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14529
+
+#EXTINF:-0,Megapix HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8842
+
+#EXTINF:-0,Multishow HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14528
+
+#EXTINF:-0,Music Box Brazil FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278696
+
+#EXTINF:-0,SYFY BR FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14485
+
+#EXTINF:-0,TLC HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/7370
+
+#EXTINF:-0, TNT HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8840
+
+#EXTINF:-0,TNT Series FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8827
+
+#EXTINF:-0, TNT Sports 2 Brasil HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286127
+
+#EXTINF:-0, TNT Sports 3 Brasil HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286128
+
+#EXTINF:-0,TNT Sports 4 Brasil HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286129
+
+#EXTINF:-0, TNT Sports 5 Brasil HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286130
+
+#EXTINF:-0,TV DIARIO HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/22361
+
+#EXTINF:-0,TV Diário do Sertão HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286145
+
+#EXTINF:-0, TV Envangelizar HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285518
+
+#EXTINF:-0, TV Escola HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/7372
+
+#EXTINF:-0,TV Evangelizar HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/245605
+
+#EXTINF:-0,TV Galega Blumenau HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286147
+
+#EXTINF:-0, TV Gazeta HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/7391
+
+#EXTINF:-0, TV Gideoes HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286149
+
+#EXTINF:-0,TV Globo Brasilia HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/24556
+
+#EXTINF:-0,V Globo HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/280637
+
+#EXTINF:-0,Universal TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/7422
+
+#EXTINF:-0,Warner TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8825
+
+#EXTINF:-0,WooHoo HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14555
+
+#EXTINF:-0,Yeeaah! HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286180
+
+#EXTINF:-0,ZooMoo Kids HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14661
+
+
 
 #EXTINF:-0,Hallmark Channel East HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/759
