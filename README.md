@@ -1,12 +1,30 @@
 #EXTM3U
-#EXTINF:-0,Sky Nature HD 1
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286909?checkedby:iptvcat.com
+#EXTINF:-0,DAZN SPORT 1 HD
+http://qqtv.nl:8080/masud/masud/391223
 
-#EXTINF:-0,Sky Nature HD 2
-http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1684?checkedby:iptvcat.com
+#EXTINF:-0, DAZN SPORT 2 HD
+http://qqtv.nl:8080/masud/masud/391222
 
-#EXTINF:-0,Sky Nature HD 3
-http://103.194.169.171:8282/DE_SKY_NATURE_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:-0,TELEKOM BUNDESLIGA 1 HD
+http://qqtv.nl:8080/masud/masud/15611
+
+#EXTINF:-0,TELEKOM BUNDESLIGA 2 HD
+http://qqtv.nl:8080/masud/masud/15619
+
+#EXTINF:-0,TELEKOM BUNDESLIGA 3 HD
+http://qqtv.nl:8080/masud/masud/335066
+
+#EXTINF:-0,TELEKOM BUNDESLIGA 4 HD
+http://qqtv.nl:8080/masud/masud/335067
+
+#EXTINF:-0, TELEKOM BUNDESLIGA 5 HD
+http://qqtv.nl:8080/masud/masud/335068
+
+#EXTINF:-0,
+
+
+
+
 
 #EXTINF:-0,SKY NATURE FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286909
