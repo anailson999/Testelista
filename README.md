@@ -1,4 +1,68 @@
 #EXTM3U
+#EXTINF:-0,Claro Sports 4K
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/75278
+
+#EXTINF:-0,Claro Sports Latinoamerica 4K
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/75279
+
+#EXTINF:-0,LOVE NATURE HD UK
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/82903
+
+#EXTINF:-0, Sky Sport NBA HD
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/82692
+
+#EXTINF:-0,Fox Crime HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/16366
+
+#EXTINF:-0,FOX HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8817
+
+#EXTINF:-0,Fox Life HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8818
+
+#EXTINF:-0, FOX SPORTS 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8776
+
+#EXTINF:-0, FOX SPORTS HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8780
+
+#EXTINF:-0,FUEL TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286083
+
+#EXTINF:-0,Futura HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/7342
+
+#EXTINF:-0, FX HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8835
+
+#EXTINF::-0,Globo Sao Paulo FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14514
+
+#EXTINF:-0,Globo SP HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/192626
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Gaz
+
+#EXTINF:-0,BBC Earth
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77456
+
+#EXTINF:-0, BeiN Sport 1
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77459
+
+#EXTINF:-0, BeiN Sport 2
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77460
+
+#EXTINF:-0, Fox Sports 1
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77461
+
+#EXTINF:-0,Fox Sports 2
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77462
+
+#EXTINF:-0, Fox Sports 3
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77463
+
+
+
+
 #EXTINF:-0,Combate FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8778
 
