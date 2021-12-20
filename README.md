@@ -8,13 +8,13 @@ http://nox101.com:8080/live/mehmetkis/mehmetkis/56397.ts
 #EXTINF:-0,Discovery CANADA
 http://nox101.com:8080/live/mehmetkis/mehmetkis/56482.ts
 
-#EXTINF:0 Discovery Channel FHD
+#EXTINF:-0, Discovery Channel FHD
 http://nox101.com:8080/live/mehmetkis/mehmetkis/56484.ts
 
-#EXTINF:0 Discovery Science HD
+#EXTINF:-0,Discovery Science HD
 http://nox101.com:8080/live/mehmetkis/mehmetkis/56486.ts
 
-#EXTINF:0 Discovery Velocity HD
+#EXTINF:-0,Discovery Velocity HD
 http://nox101.com:8080/live/mehmetkis/mehmetkis/56488.ts
 
 #EXTINF:-0,LOVE NATURE HD
@@ -23,13 +23,13 @@ http://nox101.com:8080/live/mehmetkis/mehmetkis/56575.ts
 #EXTINF:-0,NBA HD
 http://nox101.com:8080/live/mehmetkis/mehmetkis/56602.ts
 
-#EXTINF:-0, NBC Buffalo HD
+#EXTINF:-0,NBC Buffalo HD
 http://nox101.com:8080/live/mehmetkis/mehmetkis/56603.ts
 
-#EXTINF:0, NFL NETWORK HD
+#EXTINF:-0,NFL NETWORK HD
 http://nox101.com:8080/live/mehmetkis/mehmetkis/56604.ts
 
-#EXTINF:0, NHL Network HD
+#EXTINF:-0,NHL Network HD
 http://nox101.com:8080/live/mehmetkis/mehmetkis/56605.ts
 
 #EXTINF:-0,SMITHSONIAN Channel HD
