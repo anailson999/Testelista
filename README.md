@@ -32,14 +32,13 @@ http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4021.m3u8
 
 #EXTINF:-0,IC Mulher FHD
-http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1427m3u8
+http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1427.m3u8
 
 #EXTINF:-0, SIC Noticias FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1416.m3u8
 
 #EXTINF:-0, SIC Radical FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1429.m3u8
-
 
 #EXTINF:-0,SPORT.TV 1 FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1483.m3u8
@@ -108,7 +107,7 @@ http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/267.m3u8
 
 #EXTINF:-0, Sky Sports F1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/265m3u8
+http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/265.m3u8
 
 #EXTINF:-0,Sky Sports Football FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/266.m3u8
@@ -236,7 +235,6 @@ http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9
 #EXTINF:-0, HGTV US FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2273.m3u8
 
-
 #EXTINF:-0,History US FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/761.m3u8
 
@@ -245,7 +243,6 @@ http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9
 
 #EXTINF:-0, Holiness Channel HD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/166165.m3u8
-
 
 #EXTINF:-0, Travel Channel FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1066.m3u8
@@ -574,7 +571,6 @@ http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9
 #EXTINF:-0,Fox Soccer Plus HD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2314.m3u8
 
-
 #EXTINF:-0,Boomerang HD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/24529.m3u8
 
@@ -651,7 +647,7 @@ http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/284467.m3u8
 
 #EXTINF:-0,Premier Sports 2 HD
-http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4723m3u8
+http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4723.m3u8
 
 #EXTINF:-0,Sky News FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1081.m3u8
