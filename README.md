@@ -106,11 +106,10 @@ http://odenfull.co:2086/Mario0521/wBciOGSOgS/90938
 #EXTINF:-0,US HD Sundance HD
 http://odenfull.co:2086/Mario0521/wBciOGSOgS/90992
 
-
 #EXTINF:0,US HD SYFY HD
 http://odenfull.co:2086/Mario0521/wBciOGSOgS/90993
 
-#EXTINF:-0,US: NBA TV FHD
+#EXTINF:-0,US NBA TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/762
 
 #EXTINF:0, NBC Golf FHD
@@ -151,11 +150,6 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3370
 
 #EXTINF:0,NESN Plus HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/25025
-
-
-
-
-
 
 #EXTINF:-0,THE WEATHER NETWORK HD
 http://qqtv.nl:8080/masud/masud/21037
