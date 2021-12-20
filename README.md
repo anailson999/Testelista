@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-0,
+#EXTINF:-0,THE WEATHER NETWORK HD
+http://qqtv.nl:8080/masud/masud/21037
 
 #EXTINF:-0,SMITHSONIAN HD
 http://qqtv.nl:80/masud/masud/21049
