@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF
+#EXTINF:-0,NBA TV
+http://stalkertvlatino.com:8080/123/123/110052
 
 
 #EXTINF:-0,SMITHSONIAN HD
