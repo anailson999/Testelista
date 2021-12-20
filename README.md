@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-0,US Discovery Channel
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/90917
+
+#EXTINF:0,US Discovery Science
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/90918
+
+#EXTINF:-0,
+
+
+
+
+
+
 #EXTINF:-0,THE WEATHER NETWORK HD
 http://qqtv.nl:8080/masud/masud/21037
 
