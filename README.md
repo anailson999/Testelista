@@ -1,8 +1,10 @@
 #EXTM3U
 
+#EXTINF:-0,SKY NATURE UK FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286909
 
-
-
+#EXTINF:-0,Smithsonian Channel UK FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/266984
 
 #EXTINF:-0,Horror Channel HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/736
