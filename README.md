@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+
+
+
+#EXTINF:-0,Horror Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/736
+
 #EXTINF:-0,BBC 3 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285331
 
