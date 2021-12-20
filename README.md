@@ -5,7 +5,152 @@ http://odenfull.co:2086/Mario0521/wBciOGSOgS/90917
 #EXTINF:0,US Discovery Science
 http://odenfull.co:2086/Mario0521/wBciOGSOgS/90918
 
-#EXTINF:-0,
+#EXTINF:-0,Poker Night TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282277
+
+#EXTINF:-0,UFC FIGHT Pass FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2374
+
+#EXTINF:0,Universal Kids HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6399
+
+#EXTINF:0,UP TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/200160
+
+#EXTINF:0,Us Weekly TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282289
+
+#EXTINF:0,USA Network FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3390
+
+#EXTINF:0,USA Today FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282288
+
+#EXTINF:0,USA Today Sportswire HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282276
+
+#EXTINF:0,VH1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2370
+
+
+#EXTINF:-0,Start TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/151056
+
+#EXTINF:0,Starz Cinema East FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/25811
+
+#EXTINF:0, Starz Comedy East FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/12040
+
+#EXTINF:0,Starz East FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6302
+
+#EXTINF:0,Starz Edge West FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2357
+
+#EXTINF:0,Starz Encore Action East FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/30773
+
+#EXTINF:0,Starz Encore Black East HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/78155
+
+#EXTINF:0,Starz Encore Classic HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/25816
+
+#EXTINF:0,Starz Encore East FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/12043
+
+#EXTINF:0, Starz Encore Family East FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/13013
+
+#EXTINF:0,Starz Encore Suspense East FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/25817
+
+#EXTINF:0,Starz Encore West FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/30778
+
+#EXTINF:0,Starz In Black East FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/166710
+
+#EXTINF:0,Starz Kids & Family West FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/15052
+
+#EXTINF:0,Starz West HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/12044
+
+#EXTINF:0,Stirr News HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/284071
+
+#EXTINF:0,STIRR The First FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/284069
+
+#EXTINF:0,Sundance TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2358
+
+#EXTINF:0,Surath 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/166264
+
+#EXTINF:0,Surath Gospel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/166254
+
+#EXTINF:0,Surath Songs Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/166256
+
+#EXTINF:0,SYFY US HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2359
+
+
+#EXTINF:-0,US HD Investigation Discovery
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/90938
+
+#EXTINF:-0,US HD Sundance HD
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/90992
+
+
+#EXTINF:0,US HD SYFY HD
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/90993
+
+#EXTINF:-0,US: NBA TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/762
+
+#EXTINF:0, NBC Golf FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281664
+
+#EXTINF:0,NBC HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2743
+
+#EXTINF:0,NBC Sports Bay Area HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/45785
+
+#EXTINF:0,NBC Sports Boston HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/35132
+
+#EXTINF:0,NBC Sports California HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/16116
+
+#EXTINF:0, NBC Sports Chicago HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8490
+
+#EXTINF:0,NBC Sports Chicago Plus FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/12986
+
+#EXTINF:0, NBC Sports Northwest HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3373
+
+#EXTINF:0, NBC Sports Philadelphia HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/35472
+
+#EXTINF:0,NBC Sports Philadelphia Plus HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281668
+
+#EXTINF:0,NBC Sports Washington HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/82282
+
+#EXTINF:0,NBCSN FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3370
+
+#EXTINF:0,NESN Plus HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/25025
 
 
 
