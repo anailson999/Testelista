@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-0,US Discovery Channel
-http://odenfull.co:2086/Mario0521/wBciOGSOgS/90917
+http://odenfull.co:2086/live/Mario0521/wBciOGSOgS/90917.m3u8
 
 #EXTINF:0,US Discovery Science
-http://odenfull.co:2086/Mario0521/wBciOGSOgS/90918
+http://odenfull.co:2086/live/Mario0521/wBciOGSOgS/90918.m3u8
 
 #EXTINF:-0,Poker Night TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282277
