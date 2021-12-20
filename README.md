@@ -4,16 +4,16 @@ http://stalkertvlatino.com:8080/123/123/110052
 
 
 #EXTINF:-0,SMITHSONIAN HD
-http://qqtv.nl:80/live/masud/masud/21049.ts
+http://qqtv.nl:80/masud/masud/21049
 
 #EXTINF:-0,LOVE NATURE
-http://qqtv.nl:8080/live/masud/masud/334125.ts
+http://qqtv.nl:8080/masud/masud/334125
 
 #EXTINF:-0,FXX 2 HD
-http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6148.ts
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6148.ts
 
 #EXTINF:-0,BBC EARTH HD
-http://qqtv.nl:8080/live/masud/masud/329874.ts
+http://qqtv.nl:8080/masud/masud/329874
 
 #EXTINF:-0,Love Nature HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1723
