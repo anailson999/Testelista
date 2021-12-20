@@ -1,17 +1,53 @@
 #EXTM3U
+#EXTINF:-0,ANIMAL PLANET HD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56376.ts
+
+#EXTINF:-0,CARTOON NETWORK HD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56397.ts
+
+#EXTINF:-0,Discovery CANADA
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56482.ts
+
+#EXTINF:0 Discovery Channel FHD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56484.ts
+
+#EXTINF:0 Discovery Science HD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56486.ts
+
+#EXTINF:0 Discovery Velocity HD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56488.ts
+
+#EXTINF:-0,LOVE NATURE HD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56575.ts
+
+#EXTINF:-0,NBA HD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56602.ts
+
+#EXTINF:-0, NBC Buffalo HD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56603.ts
+
+#EXTINF:0, NFL NETWORK HD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56604.ts
+
+#EXTINF:0, NHL Network HD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56605.ts
+
+#EXTINF:-0,SMITHSONIAN Channel HD
+http://nox101.com:8080/live/mehmetkis/mehmetkis/56638.ts
+
 
 
 #EXTINF:-0,SMITHSONIAN HD
-http://qqtv.nl:80/masud/masud/21049
+http://qqtv.nl:80/live/masud/masud/21049.ts
 
 #EXTINF:-0,LOVE NATURE
-http://qqtv.nl:8080/masud/masud/334125
+http://qqtv.nl:8080/live/masud/masud/334125.ts
 
 #EXTINF:-0,FXX 2 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6148
+http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6148.ts
 
 #EXTINF:-0,BBC EARTH HD
-http://qqtv.nl:8080/masud/masud/329874
+http://qqtv.nl:8080/live/masud/masud/329874.ts
 
 #EXTINF:-0,Love Nature HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1723
