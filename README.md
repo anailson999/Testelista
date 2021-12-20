@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-0,NBA TV
-http://stalkertvlatino.com:8080/live/123/123/110052.m3u8
-
+#EXTINF:-0,
 
 #EXTINF:-0,SMITHSONIAN HD
 http://qqtv.nl:80/masud/masud/21049
@@ -10,7 +8,7 @@ http://qqtv.nl:80/masud/masud/21049
 http://qqtv.nl:8080/masud/masud/334125
 
 #EXTINF:-0,FXX 2 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6148.ts
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6148
 
 #EXTINF:-0,BBC EARTH HD
 http://qqtv.nl:8080/masud/masud/329874
