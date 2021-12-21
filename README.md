@@ -8,6 +8,8 @@ http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/75278
 #EXTINF:-0, Claro Sports Latinoamerica 4K
 http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/75279
 
+#EXTINF:-0,BBC Earth
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77456
 
 
 
