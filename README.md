@@ -15,10 +15,8 @@ http://tv5full.xyz:25461/ametv1/96O3H71Npc/42662
 #EXTINF:-0,ESPN HD
 http://tv5full.xyz:25461/ametv1/96O3H71Npc/42666
 
-#EXTINF:-0,Fox Deportes HD
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/42667
 
-NASA TV
+#EXTINF:-0,NASA TV
 http://tv5full.xyz:25461/ametv1/96O3H71Npc/54563
 
 
