@@ -6,28 +6,28 @@ https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 
 #EXTINF:-0,Sport. TV 1 FHD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9079
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/9079.m3u8
 
 #EXTINF:0,Sport. TV 1
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9080
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/9080.m3u8
 
 #EXTINF:0,Sport. TV 2 FHD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9077
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/9077.m3u8
 
 #EXTINF:0,Sport. TV 2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9078
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/9078.m3u8
 
 #EXTINF:0,Sport. TV 3 FHD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9075
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/9075.m3u8
 
 #EXTINF:-0,Sport. TV 3
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9076
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/9076.m3u8
 
 #EXTINF:-0,Sport. TV 4
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9074
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/9074.m3u8
 
 #EXTINF:-0,Sport. TV 5
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9072
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/9072.m3u8
 
 
 
