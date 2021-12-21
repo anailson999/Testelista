@@ -448,19 +448,19 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2260
 #EXTINF:-0,Record News HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/280301
 
-#EXTINF:-0, REDISEX HD
+#EXTINF:-0,REDISEX HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286842
 
-#EXTINF:-0, RIR ATE CAIR FHD
+#EXTINF:-0,RIR ATE CAIR FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286829
 
-#EXTINF:-0, RTP 1 FHD
+#EXTINF:-0,RTP 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1404
 
-#EXTINF:-0, RTP 2 FHD
+#EXTINF:-0,RTP 2 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1406
 
-#EXTINF:0- RTP 3 FHD
+#EXTINF:-0,RTP 3 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1418
 
 #EXTINF:-0, RTP ACores HD
