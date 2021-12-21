@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-0,Claro Sports (1080p)
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:0,CombatGo
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+
 #EXTINF:-0,Sport. TV 1 FHD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9079
 
