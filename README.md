@@ -1,5 +1,91 @@
 #EXTM3U
 
+#EXTINF:-0,AR Bein Sports 1
+http://iptv.csserv.co:8000/live/clientr725/631739/2470.ts
+
+#EXTINF:-0, AR Bein Sports 1 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/779.ts
+
+#EXTINF:-0,AR Bein Sports 2 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/775.ts
+
+#EXTINF:-0, AR Bein Sports 3 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/774.ts
+
+#EXTINF:-0, AR Bein Sports 4 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/773.ts
+
+#EXTINF:-0, AR Bein Sports 7 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/770.ts
+
+#EXTINF:-0,  AR Bein Sports 8 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/769.ts
+
+#EXTINF:-0, AR Bein Sports 9 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/768.ts
+
+#EXTINF:-0, AR Bein Sports 10 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/778.ts
+
+#EXTINF:-0, AR beIN Sports Xtra 2 HD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/689266
+
+#EXTINF:-0, beIN Sports Global FHD AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/688155
+
+#EXTINF:-0, beIN Sports News FHD AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/676904
+
+#EXTINF:-0, beIN Sports Premium 1 HQ AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/688156
+
+#EXTINF:-0, beIN Sports Premium 2 HQ AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/688157
+
+#EXTINF:-0, beIN Sports 1 [HEVC] FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/678748
+
+#EXTINF:-0, beIN Sports 1 FHD AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682932
+
+#EXTINF:-0, beIN Sports 2 [HEVC] FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/5481
+
+#EXTINF:-0, beIN Sports 2 FHD AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682933
+
+#EXTINF:-0, beIN Sports 3 [HEVC] FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/5480
+
+#EXTINF:-0, beIN Sports 3 FHD AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682934
+
+#EXTINF:-0, beIN Sports 4 [HEVC] FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/5479
+
+#EXTINF:-0, beIN Sports 5 [HEVC] FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682935
+
+#EXTINF:-0, beIN Sports 6 [HEVC] FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/54777
+
+#EXTINF:-0, beIN Sports 7 [HEVC] FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/683135
+
+#EXTINF:-0, beIN Sports 7 FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/5476
+
+#EXTINF:-0, beIN Sports 8 [HEVC] FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/53432
+
+#EXTINF:-0, beIN Sports 9 FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/5474
+
+#EXTINF:-0, beIN Sports 10 [HEVC] FHD VIP AR
+http://mytv.fun:8080/erbil22/fHXlwwRS/5473
+
+
+
 #EXTINF:-0,Fox Crime FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1463
 
