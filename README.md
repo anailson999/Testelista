@@ -1,5 +1,25 @@
 #EXTM3U
 
+MTV HITS HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2940
+#EXTINF:0 tvg-id="MTVRocks.uk" group-title="Channels",UK| MTV ROCKS HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2941
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="Channels",UK| MTV MUSIC HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2942
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Channels",UK| MTV LIVE HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2943
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",UK| MTV BASE HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2944
+#EXTINF:0 tvg-id="MTVDance.uk" group-title="Channels",UK| MTV DANCE HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2945
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| MTV CLUB HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2946
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",UK| VH1 HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2947
+
+
+
+
 SIC FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1408
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC K FHD
