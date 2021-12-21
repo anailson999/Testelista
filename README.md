@@ -1,5 +1,9 @@
 #EXTM3U
 
+SIC FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1408
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC K FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4021
 
 #EXTINF:-0,SKY NATURE UK FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286909
