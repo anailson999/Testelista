@@ -1,6 +1,13 @@
 #EXTM3U
 
+#EXTINF:-0,Claro Sports (1080p)
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
+#EXTINF:-0,Claro Sports HD
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.ts
+
+#EXTINF:-0,Claro Sports HD 2
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 
 #EXTINF:-0,A Bola TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1420
