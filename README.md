@@ -481,9 +481,6 @@ https://stmv1.srvif.com/nattv/nattv/chunklist_w2034641661.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
 
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/131
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 HD
