@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-0,NBA TV HD
-http://iptv.csserv.co:8000/live/clientr725/631739/8634.m3u8
+http://iptv.csserv.co:8000/live/clientr725/631739/8634.ts
 
 #EXTINF:NFL Network FHD VIP US
-http://mytv.fun:8080/live/erbil22/fHXlwwRS/685903.m3u8
+http://mytv.fun:8080/live/erbil22/fHXlwwRS/685903.ts
 
 #EXTINF:-0, NFL Network HD VIP US
-http://mytv.fun:8080/live/erbil22/fHXlwwRS/685902.m3u8
+http://mytv.fun:8080/live/erbil22/fHXlwwRS/685902.ts
 
 #EXTINF:-0, MLB Network FHD US
 http://mytv.fun:8080/erbil22/fHXlwwRS/4868
@@ -15,13 +15,13 @@ http://mytv.fun:8080/erbil22/fHXlwwRS/4868
 http://mytv.fun:8080/erbil22/fHXlwwRS/14402
 
 #EXTINF:-0, NBA TV HD VIP US
-http://mytv.fun:8080/live/erbil22/fHXlwwRS/684729.m3u8
+http://mytv.fun:8080/live/erbil22/fHXlwwRS/684729.ts
 
 #EXTINF:-0, NHL Network HD US
 http://mytv.fun:8080/erbil22/fHXlwwRS/4875
 
 #EXTINF:-0, NBC Sports Network FHD US
-http://mytv.fun:8080/live/erbil22/fHXlwwRS/14403.m3u8
+http://mytv.fun:8080/live/erbil22/fHXlwwRS/14403.ts
 
 #EXTINF:-0, NBC Sports Network HD VIP US
 http://mytv.fun:8080/erbil22/fHXlwwRS/677133
