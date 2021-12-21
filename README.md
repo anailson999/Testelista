@@ -141,45 +141,6 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1524
 #EXTINF:-0, CBS Reality HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1528
 
-#EXTINF:-0, Cine Mundo FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1477
-
-#EXTINF:-0, CINEMA ARTES MARCIAIS HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/226090
-
-#EXTINF:-0, Cinema as Escuras Erotico FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286843
-
-#EXTINF:-0, CINEMA BRASIL HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286844
-
-#EXTINF:-0, CINEMA BUD SPENCER HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/226089
-
-#EXTINF:-0, CINEMA CITY HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286833
-
-#EXTINF:-0, CINEMA EM CASA HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/226088
-
-#EXTINF:-0, CINEMA FANTASIA HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286838
-
-#EXTINF:-0, CINEMA GUERRA FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286835
-
-#EXTINF:-0, CINEMA JACKIE CHAN HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286832
-
-#EXTINF:-0, CINEMA PORTUGUES FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/226087
-
-#EXTINF:-0,CINEMA STEVEN SEAGAL HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/226086
-
-#EXTINF:-0, CINERDIA HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286840
-
 #EXTINF:-0, CM TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1412
 
