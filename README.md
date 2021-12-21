@@ -18,6 +18,20 @@ http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2946
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2947
 
 
+MTV 2 USA  HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42144
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| MTV Live
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42145
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| MUCH HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42146
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| Much Music HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42147
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| NBA TV
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42148
+
+
+
+
 
 
 SIC FHD
