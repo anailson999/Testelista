@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-0,Krone TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/192661
+
 #EXTINF:-0,TV GLOBO NOW
 http://qqtv.nl:8080/masud/masud/26579
 
