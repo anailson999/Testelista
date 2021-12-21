@@ -1,17 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-0,Claro Sports 4K
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/75278
-
-
-#EXTINF:-0, Claro Sports Latinoamerica 4K
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/75279
-
-#EXTINF:-0,BBC Earth
-http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/77456
-
-
 
 #EXTINF:-0,SHOPTIME
 http://168.205.87.198:8555/live/leila/123456/164.ts
