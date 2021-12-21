@@ -17,7 +17,7 @@ http://tv5full.xyz:25461/ametv1/96O3H71Npc/42666
 
 
 #EXTINF:-0,NASA TV
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/54563
+http://tv5full.xyz:25461/live/ametv1/96O3H71Npc/54563.m3u8
 
 
 #EXTINF:-0,NBA TV FHD
