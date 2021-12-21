@@ -1,4 +1,29 @@
 #EXTM3U
+#EXTINF:-0,Sport. TV 1 FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9079
+
+#EXTINF:0,Sport. TV 1
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9080
+
+#EXTINF:0,Sport. TV 2 FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9077
+
+#EXTINF:0,Sport. TV 2
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9078
+
+#EXTINF:0,Sport. TV 3 FHD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9075
+
+#EXTINF:-0,Sport. TV 3
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9076
+
+#EXTINF:-0,Sport. TV 4
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9074
+
+#EXTINF:-0,Sport. TV 5
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/9072
+
+
 
 #EXTINF:-0,24 Kitchen FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2025
