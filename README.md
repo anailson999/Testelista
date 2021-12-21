@@ -1,5 +1,27 @@
 #EXTM3U
 
+#EXTINF:-0,FXX HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42642
+
+#EXTINF:-0,Golf Channel
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42643
+
+#EXTINF:-0,ACCN ESPN HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42661
+
+#EXTINF:-0,MSNBC HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42662
+
+#EXTINF:-0,ESPN HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42666
+
+#EXTINF:-0,Fox Deportes HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42667
+
+NASA TV
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54563
+
+
 #EXTINF:-0,NBA TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/762
 
