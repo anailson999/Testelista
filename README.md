@@ -85,9 +85,6 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 #EXTINF:-1, RedeTV! Rondônia
 https://tna5.bozztv.com/sgc17/index.m3u8
 
-#EXTINF:-1, KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
 #EXTINF:-1, 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
@@ -157,36 +154,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 #EXTINF:-0,Space Channel Nasa HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
-#EXTINF:-0,Kronehits Alt HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
-#EXTINF:-0,Kronehits HD [1080p]
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-#EXTINF:-0,Kronehits HD 1080p
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-#EXTINF:-0,Kronehits [HD+]
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
-#EXTINF:-0,Kronehits HD 720p
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-#EXTINF:-0,Kronehits TV [UFHD 1]
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-#EXTINF:-1,Kronehit TV [UFHD 2]
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
-#EXTINF:-1,KroneHit SD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
-
-#EXTINF:-1,Kronehit 4K
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
-#EXTINF:-0,KRONEHIT TV HD [720p]
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
 #EXTINF:-0,Space Channel Nasa FHD 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
@@ -250,9 +217,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,REDE VIDA HD 1
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1,SANTUÁRIO DE FÁTIMA HD
-https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8
-
 #EXTINF:-1,TV NOVO TEMPO
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?
 
@@ -261,9 +225,6 @@ https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-p
 
 #EXTINF:0,CNN Int HD
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:0,Smithsonian Channel Asia (1080p)
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:0,Love Nature HDD
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
