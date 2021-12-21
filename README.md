@@ -27,54 +27,8 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1101
 #EXTINF:-0,Fuel TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1521
 
-#EXTINF:-0,Cine Mundo FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1477
-
-#EXTINF:-0,CINEMA ARTES MARCIAIS HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/226090
-
-#EXTINF:-0,Cinema as Escuras Erotico FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286843
-
-#EXTINF:-0, CINEMA BRASIL HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286844
-
-#EXTINF:-0,CINEMA BUD SPENCER HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/226089
-
-#EXTINF:-0,CINEMA CITY HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286833
-
-#EXTINF:-0,CINEMA EM CASA HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/226088
-
-#EXTINF:-0,CINEMA FANTASIA HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286838
-
-#EXTINF:-0,CINEMA GUERRA FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286835
-
-#EXTINF:-0, CINEMA JACKIE CHAN HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286832
-
-#EXTINF:-0, CINEMA PORTUGUES FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/226087
-
-#EXTINF:-0,VIASAT NATURE
-http://qqtv.nl:8080/masud/masud/54684
-
-#EXTINF:-0,Krone TV HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/192661
-
-#EXTINF:-0,TV GLOBO NOW
-http://qqtv.nl:8080/masud/masud/26579
-
-#EXTINF:-0,TV GLOBO PREMIUM
-http://qqtv.nl:8080/masud/masud/26541
-
-#EXTINF:-0,TV GLOBO INTERNATIONAL
-http://qqtv.nl:8080/masud/masud/165659
-
+#
+#
 
 #EXTINF:-0,Claro Sports (1080p)
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
