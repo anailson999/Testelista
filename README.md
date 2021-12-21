@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-0,TV GLOBO NOW
+http://qqtv.nl:8080/masud/masud/26579
+
+#EXTINF:-0,TV GLOBO PREMIUM
+http://qqtv.nl:8080/masud/masud/26541
+
+#EXTINF:-0,TV GLOBO INTERNATIONAL
+http://qqtv.nl:8080/masud/masud/165659
+
+
 #EXTINF:-0,Claro Sports (1080p)
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
