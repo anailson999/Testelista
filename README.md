@@ -1,4 +1,137 @@
 #EXTM3U
+#EXTINF:-0,NBA TV HD
+http://iptv.csserv.co:8000/live/clientr725/631739/8634.ts
+
+#EXTINF:NFL Network FHD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/685903
+
+#EXTINF:-0, NFL Network HD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/685902
+
+#EXTINF:-0, MLB Network FHD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/4868
+
+#EXTINF:-0, MLB Network HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/14402
+
+#EXTINF:-0, NBA TV HD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/684729
+
+#EXTINF:-0, NHL Network HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/4875
+
+#EXTINF:-0, NBC Sports Network FHD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/14403
+
+#EXTINF:-0, NBC Sports Network HD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677133
+
+#EXTINF:-0, NBC Sports Network HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/4952
+
+#EXTINF:-0, NBC Sports Bay Area HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677158
+
+#EXTINF:-0, NBC Sports Boston FHD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677159
+
+#EXTINF:-0, NBC Sports California FHD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677160
+
+#EXTINF:-0, NBC Sports Chicago HD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677161
+
+#EXTINF:-0, NBC Sports Plus Chicago VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677162
+
+#EXTINF:-0, NBC Sports Washington HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677165
+
+#EXTINF:-0, NBC Golf FHD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/13753
+
+#EXTINF:-0, NBC Golf HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/4953
+
+#EXTINF:-0, NBC Golf US
+http://mytv.fun:8080/erbil22/fHXlwwRS/14410
+
+#EXTINF:-0, Golf Channel HD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/6340
+
+#EXTINF:-0, Fox Sports 1 US
+http://mytv.fun:8080/erbil22/fHXlwwRS/63735
+
+#EXTINF:-0, Fox Sports 2 HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/494259
+
+#EXTINF:-0, Fox Sports 2 US
+http://mytv.fun:8080/erbil22/fHXlwwRS/63365
+
+#EXTINF:-0, Fox Deportes HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/494543
+
+#EXTINF:-0,ESPN News HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/4935
+
+#EXTINF:-0, ESPN FHD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/683881
+
+#EXTINF:-0, ESPN HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/14363
+
+#EXTINF:-0, ESPN 2 FHD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/683882
+
+#EXTINF:-0, ESPN 2 HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677173
+
+#EXTINF:-0, ESPN 3 VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/6708
+
+#EXTINF:-0, ESPN U HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677140
+
+#EXTINF:-0, ESPN U US
+http://mytv.fun:8080/erbil22/fHXlwwRS/33498
+
+#EXTINF:-0, ESPN Sec Network HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/32382
+
+#EXTINF:-0, ESPN Deportes HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677142
+
+#EXTINF:-0,UFC Fight Pass FHD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/16617
+
+#EXTINF:-0,WWE Network FHD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/683883
+
+#EXTINF:-0, WWE Network HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/14404
+
+#EXTINF:-0, WWE Network  HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/6347
+
+#EXTINF:-0, MAV TV HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/677152
+
+#EXTINF:-0, Tennis Channel FHD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/683506
+
+#EXTINF:-0, Tennis Channel HD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/684767
+
+#EXTINF:-0, Tennis Channel HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/7084
+
+#EXTINF:-0,MSNBC FHD VIP US
+http://mytv.fun:8080/erbil22/fHXlwwRS/13738
+
+#EXTINF:-0, MSNBC HD US
+http://mytv.fun:8080/erbil22/fHXlwwRS/14398
+
+
 
 #EXTINF:-0,AR Bein Sports 1
 http://iptv.csserv.co:8000/live/clientr725/631739/2470.ts
