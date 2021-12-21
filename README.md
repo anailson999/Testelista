@@ -1,5 +1,50 @@
 #EXTM3U
 
+#EXTINF:-0,NBA TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/762
+
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="Channels",US: NBC Golf FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281664
+
+#EXTINF:0 tvg-id="KNBCLosAngelesNBCHDWest.us" group-title="Channels",US: NBC HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2743
+
+#EXTINF:0 tvg-id="NBCSportsBayAreaHD.us" group-title="Channels",US: NBC Sports Bay Area HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/45785
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Boston HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/35132
+
+#EXTINF:0 tvg-id="NBCSportsCaliforniaHD.us" group-title="Channels",US: NBC Sports California HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/16116
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Chicago HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8490
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Chicago Plus FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/12986
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Northwest HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3373
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Philadelphia HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/35472
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Philadelphia Plus HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281668
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Washington HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/82282
+
+#EXTINF:0 tvg-id="NBCSportsNetworkHD.us" group-title="Channels",US: NBCSN FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3370
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NESN Plus HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/25025
+
+
+
+
 #EXTINF:-0,MTV HITS HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2940
 
