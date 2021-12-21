@@ -3,46 +3,44 @@
 #EXTINF:-0,NBA TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/762
 
-#EXTINF:0 tvg-id="GolfChannel.us" group-title="Channels",US: NBC Golf FHD
+#EXTINF:-0,BC Golf FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281664
 
-#EXTINF:0 tvg-id="KNBCLosAngelesNBCHDWest.us" group-title="Channels",US: NBC HD
+#EXTINF:-0,NBC HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2743
 
-#EXTINF:0 tvg-id="NBCSportsBayAreaHD.us" group-title="Channels",US: NBC Sports Bay Area HD
+#EXTINF:-0,NBC Sports Bay Area HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/45785
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Boston HD
+#EXTINF:-0,NBC Sports Boston HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/35132
 
-#EXTINF:0 tvg-id="NBCSportsCaliforniaHD.us" group-title="Channels",US: NBC Sports California HD
+#EXTINF:-0,NBC Sports California HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/16116
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Chicago HD
+#EXTINF:-0,NBC Sports Chicago HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8490
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Chicago Plus FHD
+#EXTINF:-0,NBC Sports Chicago Plus FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/12986
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Northwest HD
+#EXTINF:-0,NBC Sports Northwest HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3373
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Philadelphia HD
+#EXTINF:-0,NBC Sports Philadelphia HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/35472
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Philadelphia Plus HD
+#EXTINF:-0,NBC Sports Philadelphia Plus HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281668
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Washington HD
+#EXTINF:-0,NBC Sports Washington HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/82282
 
-#EXTINF:0 tvg-id="NBCSportsNetworkHD.us" group-title="Channels",US: NBCSN FHD
+#EXTINF:-0,NBCSN FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3370
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NESN Plus HD
+#EXTINF:-0,NESN Plus HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/25025
-
-
 
 
 #EXTINF:-0,MTV HITS HD
@@ -86,10 +84,10 @@ http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42147
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42148
 
 
-SIC FHD
+#EXTINF:-0,SIC FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1408
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC K FHD
+#EXTINF:0,SIC K FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4021
 
 #EXTINF:-0,SKY NATURE UK FHD
@@ -218,26 +216,32 @@ https://eyeonesports.com/480/ESR-003SCTE35.m3u8
 #EXTINF:-0,SPORT.TV 1 HD
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 
-SPORT TV 1 FHD
+#EXTINF:-0,SPORT.TV 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FHD
+
+#EXTINF:-0,SPORT.TV 2 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FHD
+
+#EXTINF:-0,SPORT.TV 3 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FHD
+
+#EXTINF:-0,SPORT.TV 4 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 FHD
+
+#EXTINF:-0,SPORT.TV 5 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6 FHD
+
+#EXTINF:-0,SPORT.TV 6 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA FHD
+
+#EXTINF:-0,SPORT.TV NBA FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2051
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: Sport TV+ HD
+
+#EXTINF:-0,SPORT.TV+ HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1481
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting TV FHD
+
+#EXTINF:-0,Sporting TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1519
-
-
 
 #EXTINF:-0,SPORT.TV 2 HD
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
@@ -245,7 +249,7 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-0,SPORT.TV 3 HD
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 
-#EXTINF:-0,SPORT TV 4 HD
+#EXTINF:-0,SPORT.TV 4 HD
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-0,SPORT.TV 5 HD 
