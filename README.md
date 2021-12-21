@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+
+#EXTINF:-0,
+
+#EXTINF:-0,VIASAT NATURE
+http://qqtv.nl:8080/masud/masud/54684
+
 #EXTINF:-0,Krone TV HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/192661
 
