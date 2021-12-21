@@ -3,7 +3,7 @@
 #EXTINF:-0,NBA TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/762
 
-#EXTINF:-0,BC Golf FHD
+#EXTINF:-0,NBC Golf FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281664
 
 #EXTINF:-0,NBC HD
@@ -46,41 +46,41 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2502
 #EXTINF:-0,MTV HITS HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2940
 
-#EXTINF:-0,UK| MTV ROCKS HD
+#EXTINF:-0,MTV ROCKS HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2941
 
-#EXTINF:-0,UK| MTV MUSIC HD
+#EXTINF:-0,MTV MUSIC HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2942
 
-#EXTINF:-0,UK| MTV LIVE HD
+#EXTINF:-0,MTV LIVE HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2943
 
-#EXTINF:-0,UK| MTV BASE HD
+#EXTINF:-0,MTV BASE HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2944
 
-#EXTINF:-0,UK| MTV DANCE HD
+#EXTINF:-0,MTV DANCE HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2945
 
-#EXTINF:-0,UK| MTV CLUB HD
+#EXTINF:-0,MTV CLUB HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2946
 
-#EXTINF:-0,UK| VH1 HD
+#EXTINF:-0,VH1 HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2947
 
 
 #EXTINF:-0,MTV 2 USA  HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42144
 
-#EXTINF:-0,CA| MTV Live
+#EXTINF:-0,MTV Live 2
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42145
 
-#EXTINF:-0,CA| MUCH HD
+#EXTINF:-0,MUCH HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42146
 
-#EXTINF:-0,CA| Much Music HD
+#EXTINF:-0,Much Music HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42147
 
-#EXTINF:-0,CA| NBA TV
+#EXTINF:-0,NBA TV ALT
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42148
 
 
@@ -481,70 +481,6 @@ https://stmv1.srvif.com/nattv/nattv/chunklist_w2034641661.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/131
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/132
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/137
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 4 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/138
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 5 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/139
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 6 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/140
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 7 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/141
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 8 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/142
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 9 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/143
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 10 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/144
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 11 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/145
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 12 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/146
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/1871
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/1872
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/1874
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 4 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/1875
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 5 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/1876
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 6 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/1877
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 7 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/1878
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 8 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/1879
-#EXTINF:0 tvg-id="SkySport9.de" group-title="Channels",SPORT 9 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/1880
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 10 FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/1881
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 ENGLISH HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47294
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 PREMIUM FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47295
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 PREMIUM FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47296
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 PREMIUM FHD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47297
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 PREMIUM SD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47298
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 PREMIUM SD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47299
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 PREMIUM SD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47300
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 PREMIUM FHD+
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61143
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 PREMIUM FHD+
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61144
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 PREMIUM FHD+
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61145
 
 
 
