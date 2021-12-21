@@ -127,6 +127,21 @@ https://eyeonesports.com/480/ESR-003SCTE35.m3u8
 #EXTINF:-0,SPORT.TV 1 HD
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 
+: SPORT TV 1 HD
+http://qqtv.nl:8080/masud/masud/26627
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 HD
+http://qqtv.nl:8080/masud/masud/26628
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 HD
+http://qqtv.nl:8080/masud/masud/26629
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 HD
+http://qqtv.nl:8080/masud/masud/26630
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 HD
+http://qqtv.nl:8080/masud/masud/26631
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA HD
+http://qqtv.nl:8080/masud/masud/152464
+
+
+
 #EXTINF:-0,SPORT.TV 2 HD
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
 
