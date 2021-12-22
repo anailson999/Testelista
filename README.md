@@ -19,6 +19,13 @@ http://tv5full.xyz:25461/ametv1/96O3H71Npc/42666
 #EXTINF:-0,NASA TV
 http://tv5full.xyz:25461/live/ametv1/96O3H71Npc/54563.m3u8
 
+#EXTINF:-0,NBA TV CA
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42148
+
+#EXTINF:-0,NHL Network CA HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42149
+
+
 
 #EXTINF:-0,NBA TV FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/762
