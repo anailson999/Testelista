@@ -23,16 +23,16 @@ http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156957.m3u8
 
 
 #EXTINF:-0,SPORT.TV + HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119480
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/119480.m3u8
 
 #EXTINF:-0,HEVC SPORT.TV 1 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119482
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/119482.m3u8
 
 #EXTINF:-0,HEVC SPORT.TV 1 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119481
+http://grets.co21.net:2082/ive/Taoufik_145943/3yeD3C46/119481.ts
 
 #EXTINF:-0,HEVC SPORT.TV 2 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119483
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/119483.ts
 
 #EXTINF:-0,HEVC SPORT.TV 2 HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119484
