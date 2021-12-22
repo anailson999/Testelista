@@ -1,6 +1,72 @@
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42687
+#EXTINF:0 tvg-id="CinemaxMoreMaxHDEast.us" group-title="Channels",MoreMax HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42688
+#EXTINF:0 tvg-id="ShowtimeNextHD.us" group-title="Channels",Showtime Next HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42689
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="Channels",HBO Plus HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42693
+#EXTINF:0 tvg-id="HallmarkMovies-Mysteries.us" group-title="Channels",Hallmark Movies & Mysteries HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42695
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hallmark Drama HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42696
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",HBO Signature HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42697
+#EXTINF:0 tvg-id="ext" group-title="Channels",FXM HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42699
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 1 (FS1)
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42700
+#EXTINF:0 tvg-id="food-network-rus" group-title="Channels",Food Network HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42701
+#EXTINF:0 tvg-id="ext" group-title="Channels",INFANTIL | NICKTOONS *
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/1463
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA| CW58 NASHVILLE HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54555
+#EXTINF:0 tvg-id="ext" group-title="Channels",12 | PBS HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54556
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | WGN AMERICA HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54557
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA| UP TV HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54558
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | TBS WEST  HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54559
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO | Smithsonian Channel HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54560
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | REELZ HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54561
+#EXTINF:0 tvg-id="OutdoorChannel.us" group-title="Channels",US | Outdoor Channel
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54562
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | NASA TV
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54563
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA |LMN HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54564
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: HLN | HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54565
+#EXTINF:0 tvg-id="ext" group-title="Channels",25 | GSN - GAME SHOW NETWORK
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54566
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA |  GRIT TV
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54567
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA | Fusion HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54568
+#EXTINF:0 tvg-id="Velocity.us" group-title="Channels",US | Discovery Velocity
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54569
+#EXTINF:0 tvg-id="ext" group-title="Channels",US | CBS MIAMI
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54570
+#EXTINF:0 tvg-id="ext" group-title="Channels",US | CBS Houston
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54571
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",US | CBS Sports
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54572
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS News
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54573
+#EXTINF:0 tvg-id="ext" group-title="Channels",02 | CBS NY
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54574
+
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/131
@@ -99,6 +165,8 @@ http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61144
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61145
 
 
+#EXTINF:-0,Animal Planet HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42686
 
 
 #EXTINF:-0,FXX HD
