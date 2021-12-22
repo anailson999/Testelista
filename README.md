@@ -51,6 +51,16 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3370
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/25025
 
 
+#EXTINF:0,Hallmark Channel East HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/759
+
+#EXTINF:-0, Hallmark Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/280473
+
+#EXTINF:-0, Hallmark Drama HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3387
+
+
 #EXTINF:-0,MTV HITS HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2940
 
