@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-0,Sport.TV+ 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156951
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156951.m3u8
 
 #EXTINF:-0,Sport.TV 1 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156952
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156952.m3u8
 
 #EXTINF:-0, Sport.TV 2 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156953
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156953.m3u8
 
 #EXTINF:-0,Sport.TV 2 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156954
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156954.m3u8
 
 #EXTINF:-0, Sport.TV 3 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156955
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156955.m3u8
 
 #EXTINF:-0, Sport.TV 4 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156956
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156956.m3u8
 
 #EXTINF:-0, Sport.TV 5 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/156957
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156957.m3u8
 
 
 #EXTINF:-0,SPORT.TV + HD
