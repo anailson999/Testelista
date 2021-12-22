@@ -120,6 +120,9 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4021
 #EXTINF:-0,SKY NATURE UK FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286909
 
+#EXTINF:-0,Smithsonian Channel USA FHD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54560
+
 #EXTINF:-0,Smithsonian Channel UK FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/266984
 
