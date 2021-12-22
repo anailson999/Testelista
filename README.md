@@ -1,73 +1,5 @@
 #EXTM3U
 
-#EXTINF:-0,Sport.TV+ 4K
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156951.m3u8
-
-#EXTINF:-0,Sport.TV 1 4K
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156952.m3u8
-
-#EXTINF:-0, Sport.TV 2 4K
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156953.m3u8
-
-#EXTINF:-0,Sport.TV 2 HD
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156954.m3u8
-
-#EXTINF:-0, Sport.TV 3 4K
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156955.m3u8
-
-#EXTINF:-0, Sport.TV 4 4K
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156956.m3u8
-
-#EXTINF:-0, Sport.TV 5 4K
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/156957.m3u8
-
-
-#EXTINF:-0,SPORT.TV + HD
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/119480.m3u8
-
-#EXTINF:-0,HEVC SPORT.TV 1 HD
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/119482.m3u8
-
-#EXTINF:-0,HEVC SPORT.TV 1 HD
-http://grets.co21.net:2082/ive/Taoufik_145943/3yeD3C46/119481.ts
-
-#EXTINF:-0,HEVC SPORT.TV 2 HD
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/119483.ts
-
-#EXTINF:-0,HEVC SPORT.TV 2 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119484
-
-#EXTINF:-0,HEVC SPORT.TV 3 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119485
-
-#EXTINF:-0,HEVC SPORT.TV 4 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119535
-
-#EXTINF:-0,HEVC SPORT.TV 5 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119536
-
-#EXTINF:-0,HEVC SPORT.TV NBA HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119494
-
-#EXTINF:-0,ELEVEN SPORTS 1 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119486
-
-#EXTINF:-0,ELEVEN SPORTS 2 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119487
-
-#EXTINF:-0, ELEVEN SPORTS  3 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119488
-
-#EXTINF:-0, ELEVEN SPORTS 4 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119489
-
-#EXTINF:-0, ELEVEN SPORTS 5 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119490
-
-#EXTINF:-0, ELEVEN SPORTS 6 HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/119491
-
-
 
 #EXTINF:-0,FXX HD
 http://tv5full.xyz:25461/ametv1/96O3H71Npc/42642
@@ -93,7 +25,6 @@ http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42148
 
 #EXTINF:-0,NHL Network CA HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42149
-
 
 
 #EXTINF:-0,NBA TV FHD
