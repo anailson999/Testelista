@@ -1,6 +1,38 @@
 #EXTM3U
 
 
+
+#EXTINF-0,PREMIAM SPORT HD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47294
+
+#EXTINF:-0,SPORTS 1 PREMIUM FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47295
+
+#EXTINF:-0,SPORTS 2 PREMIUM FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47296
+
+#EXTINF:-0,SPORTS 3 PREMIUM FHD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47297
+
+#EXTINF:-0,SPORTS 1 PREMIUM SD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47298
+
+#EXTINF:-0,SPORTS 2 PREMIUM SD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47299
+
+#EXTINF:-0,SPORTS 3 PREMIUM SD
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/47300
+
+#EXTINF:-0,SPORTS 1 PREMIUM FHD+
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61143
+
+#EXTINF:-0,SPORTS 2 PREMIUM FHD+
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61144
+
+#EXTINF:-0,SPORTS 3 PREMIUM FHD+
+http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/61145
+
+
 #EXTINF:-0,FXX HD
 http://tv5full.xyz:25461/ametv1/96O3H71Npc/42642
 
