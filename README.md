@@ -4,7 +4,20 @@
 
 
 
-#EXTINF:-0,
+
+
+
+
+
+#EXTINF:-0,CLARO SPORTS FHD
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:-0,beIN 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+
+#EXTINF:-0,KRONEHIT TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:-0,GLOBO RJ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
 
