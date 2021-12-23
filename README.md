@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-0,NASA TV 
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/54563
+
+#EXTINF:-0,Sundance TV HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42617
+
+#EXTINF:-0,Golf Channel
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42643
+
+#EXTINF:-0,MSNBC HD
+http://tv5full.xyz:25461/ametv1/96O3H71Npc/42662
+
 
 
 #EXTINF:-0,NBA TV CA
