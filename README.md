@@ -2,7 +2,7 @@
 #EXTINF:-0,BBC EARTH HD 1
 http://qqtv.nl:25461/masud/masud/329874
 
-#EXTINF:-0'BBC EARTH HD 2
+#EXTINF:-0,BBC EARTH HD 2
 http://qqtv.nl:8080/masud/masud/329874
 
 #EXTINF:-0,BBC EARTH HD 3
