@@ -12,13 +12,13 @@ http://tv5full.xyz:25461/live/ametv1/96O3H71Npc/42643.ts
 http://tv5full.xyz:25461/live/ametv1/96O3H71Npc/42662.ts
 
 #EXTINF:-0,MMA 24H
-http://inteinfo.xyz:8080/amigorestream/skypeexchange/24851
+http://inteinfo.xyz:25461/amigorestream/skypeexchange/24851
 
 #EXTINF:-0,Tomorroland
-http://inteinfo.xyz:8080/amigorestream/skypeexchange/24852
+http://inteinfo.xyz:25461/amigorestream/skypeexchange/24852
 
 #EXTINF:-0,SPORT.TV NBA HD
-http://inteinfo.xyz:8080/amigorestream/skypeexchange/63
+http://inteinfo.xyz:25461/amigorestream/skypeexchange/63
 
 
 #EXTINF:-0,NBA TV CA
