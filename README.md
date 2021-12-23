@@ -17,7 +17,8 @@ http://inteinfo.xyz:8080/amigorestream/skypeexchange/24851
 #EXTINF:-0,Tomorroland
 http://inteinfo.xyz:8080/amigorestream/skypeexchange/24852
 
-
+#EXTINF-0,SPORT.TV NBA HD
+http://inteinfo.xyz:8080/amigorestream/skypeexchange/63
 
 
 #EXTINF:-0,NBA TV CA
