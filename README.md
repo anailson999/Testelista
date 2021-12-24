@@ -1,8 +1,72 @@
 #EXTM3U
 
+#EXTINF:-0,FOX CRIME FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/830.ts
+
+#EXTINF:-0,BEIN SPORT USA
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2974.ts
+
+
+#EXTINF:-0,NBA HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/3037
 
 
 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA- NBC UNIVERSO
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2684.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA- NBC Sports Philadelphia HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2685.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA- NBC Sports Northwest HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2686.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA- NBC SPORTS NETWORK
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2687.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA- NBC Sports Chicago HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2688.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA- NBC Sports California HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2689.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA- NBC Sports Boston HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2690.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA- NBC Sports Bay Area HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2691.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA- NBC GOLF
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2692.ts
+
+
+
+
+#EXTINF:-0,SPORT TV + SD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64189.ts
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="MUSICA",PT: SPORT TV +  HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64190.ts
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="MUSICA",PT: SPORT TV + FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64191.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="MUSICA",PT: SPORT TV 1 SD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64192.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="MUSICA",PT: SPORT TV 1 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64193.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="MUSICA",PT: SPORT TV 1 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64194.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="MUSICA",PT: SPORT TV 2 SD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64195.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="MUSICA",PT: SPORT TV 2 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64196.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="MUSICA",PT: SPORT TV 2 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64197.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="MUSICA",PT: SPORT TV 3 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64198.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="MUSICA",PT: SPORT TV 3 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64199.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="MUSICA",PT: SPORT TV 4 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64200.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="MUSICA",PT: SPORT TV 4 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64201.ts
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="MUSICA",PT: SPORT TV 5 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64202.ts
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="MUSICA",PT: SPORT TV 5 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64203.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: SPORT TV NBA FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64204.ts
 
 
 
