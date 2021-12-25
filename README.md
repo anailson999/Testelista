@@ -38,67 +38,6 @@ http://tv5full.xyz:25461/live/ametv1/96O3H71Npc/42643.ts
 http://tv5full.xyz:25461/live/ametv1/96O3H71Npc/42662.ts
 
 
-
-#EXTINF:-0,NBA TV CA
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42148
-
-#EXTINF:-0,NHL Network CA HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42149
-
-
-#EXTINF:-0,NBA TV FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/762
-
-#EXTINF:-0,NBC Golf FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281664
-
-#EXTINF:-0,NBC HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2743
-
-#EXTINF:-0,NBC Sports Bay Area HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/45785
-
-#EXTINF:-0,NBC Sports Boston HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/35132
-
-#EXTINF:-0,NBC Sports California HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/16116
-
-#EXTINF:-0,NBC Sports Chicago HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8490
-
-#EXTINF:-0,NBC Sports Chicago Plus FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/12986
-
-#EXTINF:-0,NBC Sports Northwest HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3373
-
-#EXTINF:-0,NBC Sports Philadelphia HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/35472
-
-#EXTINF:-0,NBC Sports Philadelphia Plus HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281668
-
-#EXTINF:-0,NBC Sports Washington HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/82282
-
-#EXTINF:-0,NBCSN FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3370
-
-#EXTINF:-0,NESN Plus HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/25025
-
-
-#EXTINF:0,Hallmark Channel East HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/759
-
-#EXTINF:-0, Hallmark Channel HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/280473
-
-#EXTINF:-0, Hallmark Drama HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3387
-
-
 #EXTINF:-0,MTV HITS HD
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2940
 
@@ -139,57 +78,6 @@ http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42147
 #EXTINF:-0,NBA TV ALT
 http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42148
 
-
-#EXTINF:-0,SIC FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1408
-
-#EXTINF:0,SIC K FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4021
-
-#EXTINF:-0,SKY NATURE UK FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286909
-
-#EXTINF:-0,Smithsonian Channel USA FHD
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/54560
-
-#EXTINF:-0,Smithsonian Channel UK FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/266984
-
-#EXTINF:0,Sundance TV FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2358
-
-#EXTINF:-0,MTV Live FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/21860
-
-#EXTINF:-0,MTV 00s FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/199063
-
-#EXTINF:-0, MTV 80s HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/280278
-
-#EXTINF:-0, MTV 90s HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285332
-
-#EXTINF:-0, MTV Base HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4733
-
-#EXTINF:-0, MTV Classic HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4735
-
-#EXTINF:-0,MTV CLUB HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286910
-
-#EXTINF:-0, MTV HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4728
-
-#EXTINF:-0, MTV Hits HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4736
-
-#EXTINF:-0,MTV Live FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/21860
-
-#EXTINF:-0,MTV Music UK HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282262
 
 #EXTINF:-0,Band 
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
