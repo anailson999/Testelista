@@ -160,47 +160,6 @@ https://eyeonesports.com/720/ESR-002SCTE35.m3u8
 #EXTINF:-0,ESR 24/7 720p
 https://eyeonesports.com/480/ESR-003SCTE35.m3u8
 
-#EXTINF:-0,SPORT.TV 1 HD
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-0,SPORT.TV 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1483
-
-#EXTINF:-0,SPORT.TV 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1486
-
-#EXTINF:-0,SPORT.TV 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1489
-
-#EXTINF:-0,SPORT.TV 4 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1492
-
-#EXTINF:-0,SPORT.TV 5 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1495
-
-#EXTINF:-0,SPORT.TV 6 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281487
-
-#EXTINF:-0,SPORT.TV NBA FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2051
-
-#EXTINF:-0,SPORT.TV+ HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1481
-
-#EXTINF:-0,Sporting TV FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1519
-
-#EXTINF:-0,SPORT.TV 2 HD
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-0,SPORT.TV 3 HD
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-0,SPORT.TV 4 HD
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-0,SPORT.TV 5 HD 
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-0,Love Nature 1920p 
 http://177.20.208.58:8000/play/a03r/67576615.m3u8
