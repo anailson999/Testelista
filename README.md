@@ -2,19 +2,26 @@
 
 #EXTINF:-0,SPORT TV 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FHD
+
+#EXTINF:-0,SPORT TV 2 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FHD
+
+#EXTINF:-0,SPORT TV 3 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FHD
+
+#EXTINF:-0,SPORT TV 4 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 FHD
+
+#EXTINF:-0,SPORT TV 5 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6 FHD
+
+#EXTINF:-0,SPORT TV 6 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA FHD
+
+#EXTINF:-0,SPORT TV NBA FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2051
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: Sport TV+ HD
+
+#EXTINF:-0,Sport TV+ HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1481
 
 
