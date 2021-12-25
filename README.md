@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-0,CA:Love Nature
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/30171
+http://mvu03.wanicelife.com:8080/SWFAF1221739/JJG5RNC9/30171
 
 #EXTINF:-0,CLARO SPORTS FHD
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
