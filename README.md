@@ -6,15 +6,15 @@ http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/3037
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",USA- ABC EAST HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2986.ts
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2986.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",USA- A & E FHD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2987.ts
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2987.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",USA- A & E
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2988.ts
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2988.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",USA -YES
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2989.ts
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2989.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",USA -VELOCITY
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2990.ts
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2990.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",USA -US- USA
 http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2991.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",USA -US- DESTINATION-AMERICA
