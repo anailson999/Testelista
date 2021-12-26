@@ -1,6 +1,79 @@
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="MUSICA",PT: SPORT TV + SD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64189.ts
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="MUSICA",PT: SPORT TV +  HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64190.ts
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="MUSICA",PT: SPORT TV + FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64191.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="MUSICA",PT: SPORT TV 1 SD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64192.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="MUSICA",PT: SPORT TV 1 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64193.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="MUSICA",PT: SPORT TV 1 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64194.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="MUSICA",PT: SPORT TV 2 SD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64195.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="MUSICA",PT: SPORT TV 2 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64196.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="MUSICA",PT: SPORT TV 2 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64197.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="MUSICA",PT: SPORT TV 3 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64198.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="MUSICA",PT: SPORT TV 3 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64199.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="MUSICA",PT: SPORT TV 4 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64200.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="MUSICA",PT: SPORT TV 4 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64201.ts
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="MUSICA",PT: SPORT TV 5 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64202.ts
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="MUSICA",PT: SPORT TV 5 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64203.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: SPORT TV NBA FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64204.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 1 SD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64205.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 1 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64206.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 1 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64207.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 1 BACKUP
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64208.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 1 BACKUP*
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64209.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 2 SD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64210.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 2 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64211.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 2 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64212.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 3 SD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64213.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 3 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64214.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 4
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64215.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 4 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64216.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 5 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64217.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 5
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64218.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 6 FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64219.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 6
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64220.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 3 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64221.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 4 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64222.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 5 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64223.ts
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",PT: ELEVEN SPORTS 6 HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/64224.ts
+
 
 
 
