@@ -1,28 +1,5 @@
 #EXTM3U
 
-#EXTINF:-0,SPORT TV 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1483
-
-#EXTINF:-0,SPORT TV 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1486
-
-#EXTINF:-0,SPORT TV 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1489
-
-#EXTINF:-0,SPORT TV 4 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1492
-
-#EXTINF:-0,SPORT TV 5 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1495
-
-#EXTINF:-0,SPORT TV 6 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281487
-
-#EXTINF:-0,SPORT TV NBA FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2051
-
-#EXTINF:-0,Sport TV+ HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1481
 
 
 
@@ -50,17 +27,7 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3
 #EXTINF:-0,BBC EARTH HD 1
 http://qqtv.nl:8080/masud/masud/329874
 
-#EXTINF:-0,NASA TV 
-http://tv5full.xyz:25461/live/ametv1/96O3H71Npc/54563.m3u8
 
-#EXTINF:-0,Sundance TV HD
-http://tv5full.xyz:25461/live/ametv1/96O3H71Npc/42617.m3u8
-
-#EXTINF:-0,Golf Channel
-http://tv5full.xyz:25461/live/ametv1/96O3H71Npc/42643.ts
-
-#EXTINF:-0,MSNBC HD
-http://tv5full.xyz:25461/live/ametv1/96O3H71Npc/42662.ts
 
 
 #EXTINF:-0,MTV HITS HD
