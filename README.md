@@ -1,19 +1,9 @@
 #EXTM3U
 
-#EXTINF:-0,NBA HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/3037
-
-#EXTINF:-0,CLARO SPORTS FHD
-http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-
-#EXTINF:-0,beIN 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
 
 #EXTINF:-0,KRONEHIT TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-0,GLOBO RJ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
 
 #REXTINF:-0,RECORD SP HD http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
@@ -25,50 +15,6 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3
 
 #EXTINF:-0,BBC EARTH HD 1
 http://qqtv.nl:8080/masud/masud/329874
-
-
-
-
-#EXTINF:-0,MTV HITS HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2940
-
-#EXTINF:-0,MTV ROCKS HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2941
-
-#EXTINF:-0,MTV MUSIC HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2942
-
-#EXTINF:-0,MTV LIVE HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2943
-
-#EXTINF:-0,MTV BASE HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2944
-
-#EXTINF:-0,MTV DANCE HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2945
-
-#EXTINF:-0,MTV CLUB HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2946
-
-#EXTINF:-0,VH1 HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/2947
-
-
-#EXTINF:-0,MTV 2 USA  HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42144
-
-#EXTINF:-0,MTV Live 2
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42145
-
-#EXTINF:-0,MUCH HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42146
-
-#EXTINF:-0,Much Music HD
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42147
-
-#EXTINF:-0,NBA TV ALT
-http://obsfullhd.tv:25461/Freeiptv/oJKu4YFSWT/42148
-
 
 #EXTINF:-0,Band 
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
