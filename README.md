@@ -9,8 +9,18 @@ http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/10298.ts
 #EXTINF:-0,DISCOVERY HD
 http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/10303.ts
 
+#EXTINF:-0,MTV LIVE
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2867.ts
 
+#EXTINF:#EXTINF:-0,MTV HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2868.ts
 
+#EXTINF:-0,MSNBC
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2869.ts
+
+#EXTINF:-0,
+NBA TV HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2697.ts
 
 
 
