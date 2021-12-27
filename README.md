@@ -1,34 +1,11 @@
 #EXTM3U
-#EXTINF:-0,National Geographic FHD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/10297.ts
-
-#EXTINF:-0,NAT GEO WILD FHD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/10298.ts
-
-
-#EXTINF:-0,DISCOVERY HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/10303.ts
-
-#EXTINF:-0,MTV LIVE
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2867.ts
-
-#EXTINF:#EXTINF:-0,MTV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2868.ts
-
-#EXTINF:-0,MSNBC
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2869.ts
-
-#EXTINF:-0,
-NBA TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2697.ts
-
 
 
 #EXTINF:-0,KRONEHIT TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 
-#REXTINF:-0,RECORD SP HD http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-0,RECORD SP HD http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF:-0,LOVE NATURE - ESPANHOL
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
