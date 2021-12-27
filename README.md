@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-0,National Geographic FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/10297.ts
+
+#EXTINF:-0,NAT GEO WILD FHD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/10298.ts
+
+
+#EXTINF:-0,DISCOVERY HD
+http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/10303.ts
+
+
+
+
 
 
 #EXTINF:-0,KRONEHIT TV
