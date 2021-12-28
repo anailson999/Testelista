@@ -1,5 +1,198 @@
 #EXTM3U
 
+EXTINF:0 tvg-id="ext" group-title="US | Sports",***** US | Sports *****
+http://nomorecable.xyz:80/hahaiptv-/079652/0
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA | UFC Network HD
+http://nomorecable.xyz:80/hahaiptv-/079652/96297
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | NBA TV
+http://nomorecable.xyz:80/hahaiptv-/079652/68963
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA | TV
+http://nomorecable.xyz:80/hahaiptv-/079652/47028
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",SPORTS NBA | TV   (F)
+http://nomorecable.xyz:80/hahaiptv-/079652/96054
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",SPORTS NHL | Network (A)
+http://nomorecable.xyz:80/hahaiptv-/079652/96106
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS MLB | MLB NETWORK
+http://nomorecable.xyz:80/hahaiptv-/079652/73675
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | Fox Sports 1 FHD**
+http://nomorecable.xyz:80/hahaiptv-/079652/68980
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | Fox Sports 2 FHD
+http://nomorecable.xyz:80/hahaiptv-/079652/82881
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | Fox Deportes HD
+http://nomorecable.xyz:80/hahaiptv-/079652/68958
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | MSG HD
+http://nomorecable.xyz:80/hahaiptv-/079652/69013
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | MAV TV
+http://nomorecable.xyz:80/hahaiptv-/079652/68965
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | Fox Sports Sun HD
+http://nomorecable.xyz:80/hahaiptv-/079652/68951
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | FOX SPORTS PRIME TICKET HD
+http://nomorecable.xyz:80/hahaiptv-/079652/68985
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | Fox Sports Ohio HD
+http://nomorecable.xyz:80/hahaiptv-/079652/68956
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | YES Network HD
+http://nomorecable.xyz:80/hahaiptv-/079652/68946
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA | WORLD FISHING NETWORK
+http://nomorecable.xyz:80/hahaiptv-/079652/95370
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  01
+http://nomorecable.xyz:80/hahaiptv-/079652/102596
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  02
+http://nomorecable.xyz:80/hahaiptv-/079652/102597
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  03
+http://nomorecable.xyz:80/hahaiptv-/079652/102598
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  04
+http://nomorecable.xyz:80/hahaiptv-/079652/102599
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  05
+http://nomorecable.xyz:80/hahaiptv-/079652/102600
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  06
+http://nomorecable.xyz:80/hahaiptv-/079652/102601
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  07
+http://nomorecable.xyz:80/hahaiptv-/079652/102602
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  08
+http://nomorecable.xyz:80/hahaiptv-/079652/102603
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  09
+http://nomorecable.xyz:80/hahaiptv-/079652/102604
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  10
+http://nomorecable.xyz:80/hahaiptv-/079652/102605
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  11
+http://nomorecable.xyz:80/hahaiptv-/079652/102606
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  12
+http://nomorecable.xyz:80/hahaiptv-/079652/102607
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  13
+http://nomorecable.xyz:80/hahaiptv-/079652/102608
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  14
+http://nomorecable.xyz:80/hahaiptv-/079652/102609
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  15
+http://nomorecable.xyz:80/hahaiptv-/079652/102610
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  16
+http://nomorecable.xyz:80/hahaiptv-/079652/102611
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS ESPN | ESPN 2
+http://nomorecable.xyz:80/hahaiptv-/079652/102729
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS ESPN | ESPN 3 FHD
+http://nomorecable.xyz:80/hahaiptv-/079652/102731
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS ESPN | ESPN DEPORTES FHD
+http://nomorecable.xyz:80/hahaiptv-/079652/102732
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS ESPN | ESPN HD
+http://nomorecable.xyz:80/hahaiptv-/079652/102734
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS ESPN | ESPN Network HD
+http://nomorecable.xyz:80/hahaiptv-/079652/102733
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS ESPN | ESPN News
+http://nomorecable.xyz:80/hahaiptv-/079652/102730
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS ESPN | ESPN Plus
+http://nomorecable.xyz:80/hahaiptv-/079652/102735
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS ESPN | ESPN U HD
+http://nomorecable.xyz:80/hahaiptv-/079652/102728
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA | NHL Network
+http://nomorecable.xyz:80/hahaiptv-/079652/107593
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",US SPORTS | NBC GOLD 6 UHD
+http://nomorecable.xyz:80/hahaiptv-/079652/102547
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | AT&T SPORTSNET
+http://nomorecable.xyz:80/hahaiptv-/079652/88800
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS 1
+http://nomorecable.xyz:80/hahaiptv-/079652/102703
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS 2
+http://nomorecable.xyz:80/hahaiptv-/079652/102704
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS ARIZONA
+http://nomorecable.xyz:80/hahaiptv-/079652/102707
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS CAROLINAS
+http://nomorecable.xyz:80/hahaiptv-/079652/102708
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS DETROIT
+http://nomorecable.xyz:80/hahaiptv-/079652/102709
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS MIDWEST
+http://nomorecable.xyz:80/hahaiptv-/079652/102710
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS NORTH
+http://nomorecable.xyz:80/hahaiptv-/079652/102711
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS NORTH CAROLINA
+http://nomorecable.xyz:80/hahaiptv-/079652/102712
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS OHIO
+http://nomorecable.xyz:80/hahaiptv-/079652/102713
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS OKLAHOMA
+http://nomorecable.xyz:80/hahaiptv-/079652/102714
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS PRIME TICKET
+http://nomorecable.xyz:80/hahaiptv-/079652/102715
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS SAN ANTONIO
+http://nomorecable.xyz:80/hahaiptv-/079652/102716
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS SAN DIEGO
+http://nomorecable.xyz:80/hahaiptv-/079652/102717
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS SOUTH
+http://nomorecable.xyz:80/hahaiptv-/079652/102718
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS SOUTH CAROLINA
+http://nomorecable.xyz:80/hahaiptv-/079652/102719
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS SOUTHEAST
+http://nomorecable.xyz:80/hahaiptv-/079652/102720
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS SOUTHWEST
+http://nomorecable.xyz:80/hahaiptv-/079652/102721
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS SOUTHWEST
+http://nomorecable.xyz:80/hahaiptv-/079652/102722
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS OHIO
+http://nomorecable.xyz:80/hahaiptv-/079652/102723
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS SUN
+http://nomorecable.xyz:80/hahaiptv-/079652/102724
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS TENNESSEE
+http://nomorecable.xyz:80/hahaiptv-/079652/102725
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS WEST
+http://nomorecable.xyz:80/hahaiptv-/079652/102726
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | FOX SPORTS WISCONSIN
+http://nomorecable.xyz:80/hahaiptv-/079652/102727
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | MMA Bellator Main Event
+http://nomorecable.xyz:80/hahaiptv-/079652/79334
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | MMA Bellator Prelims
+http://nomorecable.xyz:80/hahaiptv-/079652/79333
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | UFC FIGHTPASS FHD
+http://nomorecable.xyz:80/hahaiptv-/079652/56870
+#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS | WORLD FISHING NETWORK
+http://nomorecable.xyz:80/hahaiptv-/079652/47967
+#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="US | Sports",USA | NBCSN
+http://nomorecable.xyz:80/hahaiptv-/079652/107592
+
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",SPORTS NBA | TV   (F)
+http://nomorecable.xyz:80/hahaiptv-/079652/96054
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  01
+http://nomorecable.xyz:80/hahaiptv-/079652/102596
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  02
+http://nomorecable.xyz:80/hahaiptv-/079652/102597
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  03
+http://nomorecable.xyz:80/hahaiptv-/079652/102598
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  04
+http://nomorecable.xyz:80/hahaiptv-/079652/102599
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  05
+http://nomorecable.xyz:80/hahaiptv-/079652/102600
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  06
+http://nomorecable.xyz:80/hahaiptv-/079652/102601
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  07
+http://nomorecable.xyz:80/hahaiptv-/079652/102602
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  08
+http://nomorecable.xyz:80/hahaiptv-/079652/102603
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  09
+http://nomorecable.xyz:80/hahaiptv-/079652/102604
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  10
+http://nomorecable.xyz:80/hahaiptv-/079652/102605
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  11
+http://nomorecable.xyz:80/hahaiptv-/079652/102606
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  12
+http://nomorecable.xyz:80/hahaiptv-/079652/102607
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  13
+http://nomorecable.xyz:80/hahaiptv-/079652/102608
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  14
+http://nomorecable.xyz:80/hahaiptv-/079652/102609
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  15
+http://nomorecable.xyz:80/hahaiptv-/079652/102610
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  16
+http://nomorecable.xyz:80/hahaiptv-/079652/102611
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA | TV
+http://nomorecable.xyz:80/hahaiptv-/079652/47028
+
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NHL",SPORTS NHL | Network (A)
+http://nomorecable.xyz:80/hahaiptv-/079652/96106
+
+#EXTINF:0 tvg-id="ext" group-title="US SPORTS | MLB",USA SPORTS MLB | MLB NETWORK
+http://nomorecable.xyz:80/hahaiptv-/079652/73675
+
+
+
+
+
+
 #EXTINF:0,Band (1080p) [Geo-blocked]
 https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
 
