@@ -2,81 +2,10 @@
 
 
 
-#EXTINF:-0SUPERNATURAL
+#EXTINF:-0,SUPERNATURAL
 http://nomorecable.xyz:80/hahaiptv-/079652/124060
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 1 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287276
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 2 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287275
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 3 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287274
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 4 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287273
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 5 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287272
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 6 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287271
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV + HD
-http://line.crystal-ott.com:80/live/mKbVPcRgZqrBYgz/IKQY2rEPaN/287270m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 1 HD
-http://line.crystal-ott.com:80/live/mKbVPcRgZqrBYgz/IKQY2rEPaN/287269.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 2 HD
-http://line.crystal-ott.com:80/live/mKbVPcRgZqrBYgz/IKQY2rEPaN/287268.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 3 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287267
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 4 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287266
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| CANAL 11 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287265
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| A BOLA TV
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287264
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| BENFICA HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287263
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| MOTORVISION
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287262
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| PFC
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287261
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORTING TV HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287260
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORTING TV
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287259
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| FUEL TV HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287258
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| FUEL TV
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287257
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV NBA
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287256
-#EXTINF:0 tvg-id="ext" group-title="Channels",##|PT-NOS| CULTURA ##
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287255
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ID INVESTIGATION DISCOVERY HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287254
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| CRIME+INVESTIGATION ASTRA
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287253
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| DISCOVERY HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287252
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| DISCOVERY CHANNEL
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287251
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| NATIONAL GEOGRAPHIC HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287250
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| NATIONAL GEOGRAPHIC
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287249
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| NATIONAL GEOGRAPHIC WILD HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287248
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| NATIONAL GEOGRAPHIC WILD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287247
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",|CA-HD| NBA TV
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/145094
-#EXTINF:0 tvg-id="ext" group-title="Channels",|CA-HD| NFL NETWORK
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/145093
-
-EXTINF:0 tvg-id="ext" group-title="US | Sports",***** US | Sports *****
-http://nomorecable.xyz:80/hahaiptv-/079652/0
 #EXTINF:0 tvg-id="ext" group-title="US | Sports",USA | UFC Network HD
 http://nomorecable.xyz:80/hahaiptv-/079652/96297
 #EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORT | NBA TV
@@ -219,7 +148,6 @@ http://nomorecable.xyz:80/hahaiptv-/079652/56870
 http://nomorecable.xyz:80/hahaiptv-/079652/47967
 #EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="US | Sports",USA | NBCSN
 http://nomorecable.xyz:80/hahaiptv-/079652/107592
-
 #EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",SPORTS NBA | TV   (F)
 http://nomorecable.xyz:80/hahaiptv-/079652/96054
 #EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  01
@@ -256,14 +184,6 @@ http://nomorecable.xyz:80/hahaiptv-/079652/102610
 http://nomorecable.xyz:80/hahaiptv-/079652/102611
 #EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA | TV
 http://nomorecable.xyz:80/hahaiptv-/079652/47028
-
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NHL",SPORTS NHL | Network (A)
-http://nomorecable.xyz:80/hahaiptv-/079652/96106
-
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | MLB",USA SPORTS MLB | MLB NETWORK
-http://nomorecable.xyz:80/hahaiptv-/079652/73675
-
-
 
 
 
