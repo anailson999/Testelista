@@ -6,7 +6,66 @@
 http://nomorecable.xyz:80/hahaiptv-/079652/124060
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 1 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287276
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 2 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287275
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 3 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287274
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 4 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287273
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 5 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287272
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 6 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287271
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV + HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287270
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 1 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287269
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 2 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287268
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 3 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287267
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 4 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287266
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| CANAL 11 HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287265
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| A BOLA TV
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287264
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| BENFICA HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287263
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| MOTORVISION
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287262
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| PFC
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287261
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORTING TV HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287260
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORTING TV
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287259
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| FUEL TV HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287258
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| FUEL TV
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287257
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV NBA
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287256
+#EXTINF:0 tvg-id="ext" group-title="Channels",##|PT-NOS| CULTURA ##
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287255
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ID INVESTIGATION DISCOVERY HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287254
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| CRIME+INVESTIGATION ASTRA
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287253
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| DISCOVERY HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287252
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| DISCOVERY CHANNEL
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287251
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| NATIONAL GEOGRAPHIC HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287250
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| NATIONAL GEOGRAPHIC
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287249
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| NATIONAL GEOGRAPHIC WILD HD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287248
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| NATIONAL GEOGRAPHIC WILD
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287247
 
 
 
