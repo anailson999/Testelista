@@ -6,6 +6,16 @@
 http://nomorecable.xyz:80/hahaiptv-/079652/124060
 
 
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CA-HD| NBA TV
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/145094
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CA-HD| NFL NETWORK
+http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/145093
+
 EXTINF:0 tvg-id="ext" group-title="US | Sports",***** US | Sports *****
 http://nomorecable.xyz:80/hahaiptv-/079652/0
 #EXTINF:0 tvg-id="ext" group-title="US | Sports",USA | UFC Network HD
