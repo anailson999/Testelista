@@ -19,11 +19,11 @@ http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287272
 #EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| ELEVEN SPORTS 6 HD
 http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287271
 #EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV + HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287270
+http://line.crystal-ott.com:80/live/mKbVPcRgZqrBYgz/IKQY2rEPaN/287270m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 1 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287269
+http://line.crystal-ott.com:80/live/mKbVPcRgZqrBYgz/IKQY2rEPaN/287269.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 2 HD
-http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287268
+http://line.crystal-ott.com:80/live/mKbVPcRgZqrBYgz/IKQY2rEPaN/287268.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 3 HD
 http://line.crystal-ott.com:80/mKbVPcRgZqrBYgz/IKQY2rEPaN/287267
 #EXTINF:0 tvg-id="ext" group-title="Channels",|PT-NOS| SPORT TV 4 HD
