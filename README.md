@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+
+#EXTINF:-0SUPERNATURAL
+http://nomorecable.xyz:80/hahaiptv-/079652/124060
+
+
 EXTINF:0 tvg-id="ext" group-title="US | Sports",***** US | Sports *****
 http://nomorecable.xyz:80/hahaiptv-/079652/0
 #EXTINF:0 tvg-id="ext" group-title="US | Sports",USA | UFC Network HD
