@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:0,Band (1080p) [Geo-blocked]
+https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+
+#EXTINF:0,Record TV SP (720p) [Geo-blocked]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+
 #EXTINF:0,Claro Sports
 http://45.179.140.242:8000/play/a0ht
 
