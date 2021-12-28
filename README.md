@@ -3,6 +3,9 @@
 #EXTINF:0,Claro Sports
 http://45.179.140.242:8000/play/a0ht
 
+#EXTINF:0,Jovem Pan News (1080p)
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
 
 #EXTINF:-0,KRONEHIT TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
