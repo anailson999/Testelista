@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0,Claro Sports
+http://45.179.140.242:8000/play/a0ht
+
 
 #EXTINF:-0,KRONEHIT TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
