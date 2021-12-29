@@ -1,49 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:CANAL BRASIL
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/66008
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Band Sports HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2524
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Combate HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2517
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:ESPN HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2499
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:ESPN BRASIL HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2501
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Espn Extra FHD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/65711
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:ESPN Extra HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2502
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:FISH TV HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2520
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Fish TV SD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/65714
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Off HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2459
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Fox Sports 2 HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2490
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Fox Sports FHD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/65726
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Fox Sports 1 HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2489
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Sport TV 3 HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2444
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Sport TV 2 HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2445
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Sport TV 1 HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2443
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:DAZN 1 HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2498
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:WOOHOO HD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2500
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Woohoo FHD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/65823
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Tooncast
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2523
-
-
-
-#EXTINF:-0,SUPERNATURAL
-http://nomorecable.xyz:80/hahaiptv-/079652/124060
 
 
 #EXTINF:0 tvg-id="ext" group-title="US | Sports",USA | UFC Network HD
@@ -78,38 +33,7 @@ http://nomorecable.xyz:80/hahaiptv-/079652/68956
 http://nomorecable.xyz:80/hahaiptv-/079652/68946
 #EXTINF:0 tvg-id="ext" group-title="US | Sports",USA | WORLD FISHING NETWORK
 http://nomorecable.xyz:80/hahaiptv-/079652/95370
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  01
-http://nomorecable.xyz:80/hahaiptv-/079652/102596
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  02
-http://nomorecable.xyz:80/hahaiptv-/079652/102597
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  03
-http://nomorecable.xyz:80/hahaiptv-/079652/102598
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  04
-http://nomorecable.xyz:80/hahaiptv-/079652/102599
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  05
-http://nomorecable.xyz:80/hahaiptv-/079652/102600
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  06
-http://nomorecable.xyz:80/hahaiptv-/079652/102601
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  07
-http://nomorecable.xyz:80/hahaiptv-/079652/102602
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  08
-http://nomorecable.xyz:80/hahaiptv-/079652/102603
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  09
-http://nomorecable.xyz:80/hahaiptv-/079652/102604
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  10
-http://nomorecable.xyz:80/hahaiptv-/079652/102605
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  11
-http://nomorecable.xyz:80/hahaiptv-/079652/102606
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  12
-http://nomorecable.xyz:80/hahaiptv-/079652/102607
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  13
-http://nomorecable.xyz:80/hahaiptv-/079652/102608
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  14
-http://nomorecable.xyz:80/hahaiptv-/079652/102609
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  15
-http://nomorecable.xyz:80/hahaiptv-/079652/102610
-#EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS NBA |  16
-http://nomorecable.xyz:80/hahaiptv-/079652/102611
+
 #EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS ESPN | ESPN 2
 http://nomorecable.xyz:80/hahaiptv-/079652/102729
 #EXTINF:0 tvg-id="ext" group-title="US | Sports",USA SPORTS ESPN | ESPN 3 FHD
@@ -188,40 +112,7 @@ http://nomorecable.xyz:80/hahaiptv-/079652/56870
 http://nomorecable.xyz:80/hahaiptv-/079652/47967
 #EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="US | Sports",USA | NBCSN
 http://nomorecable.xyz:80/hahaiptv-/079652/107592
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",SPORTS NBA | TV   (F)
-http://nomorecable.xyz:80/hahaiptv-/079652/96054
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  01
-http://nomorecable.xyz:80/hahaiptv-/079652/102596
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  02
-http://nomorecable.xyz:80/hahaiptv-/079652/102597
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  03
-http://nomorecable.xyz:80/hahaiptv-/079652/102598
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  04
-http://nomorecable.xyz:80/hahaiptv-/079652/102599
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  05
-http://nomorecable.xyz:80/hahaiptv-/079652/102600
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  06
-http://nomorecable.xyz:80/hahaiptv-/079652/102601
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  07
-http://nomorecable.xyz:80/hahaiptv-/079652/102602
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  08
-http://nomorecable.xyz:80/hahaiptv-/079652/102603
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  09
-http://nomorecable.xyz:80/hahaiptv-/079652/102604
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  10
-http://nomorecable.xyz:80/hahaiptv-/079652/102605
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  11
-http://nomorecable.xyz:80/hahaiptv-/079652/102606
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  12
-http://nomorecable.xyz:80/hahaiptv-/079652/102607
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  13
-http://nomorecable.xyz:80/hahaiptv-/079652/102608
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  14
-http://nomorecable.xyz:80/hahaiptv-/079652/102609
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  15
-http://nomorecable.xyz:80/hahaiptv-/079652/102610
-#EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA |  16
-http://nomorecable.xyz:80/hahaiptv-/079652/102611
+
 #EXTINF:0 tvg-id="ext" group-title="US SPORTS | NBA",USA SPORTS NBA | TV
 http://nomorecable.xyz:80/hahaiptv-/079652/47028
 
