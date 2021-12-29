@@ -1,4 +1,44 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:CANAL BRASIL
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/66008
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Band Sports HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2524
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Combate HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2517
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:ESPN HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2499
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:ESPN BRASIL HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2501
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Espn Extra FHD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/65711
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:ESPN Extra HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2502
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:FISH TV HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2520
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Fish TV SD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/65714
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Off HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2459
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Fox Sports 2 HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2490
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Fox Sports FHD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/65726
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Fox Sports 1 HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2489
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Sport TV 3 HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2444
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Sport TV 2 HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2445
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Sport TV 1 HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2443
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:DAZN 1 HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2498
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:WOOHOO HD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2500
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Woohoo FHD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/65823
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR:Tooncast
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2523
 
 
 
