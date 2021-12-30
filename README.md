@@ -1,45 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Porto Canal
-http://nomorecable.xyz:80/hahaiptv-/079652/35909
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Sporting TV
-http://nomorecable.xyz:80/hahaiptv-/079652/35908
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV + HD
-http://nomorecable.xyz:80/hahaiptv-/079652/18183
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 1
-http://nomorecable.xyz:80/hahaiptv-/079652/18147
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT | SPORT TV 1 HD
-http://nomorecable.xyz:80/hahaiptv-/079652/18148
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 2
-http://nomorecable.xyz:80/hahaiptv-/079652/18146
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT | SPORT TV 2 HD
-http://nomorecable.xyz:80/hahaiptv-/079652/18145
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 3
-http://nomorecable.xyz:80/hahaiptv-/079652/18144
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT | SPORT TV 3 HD
-http://nomorecable.xyz:80/hahaiptv-/079652/18143
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 4
-http://nomorecable.xyz:80/hahaiptv-/079652/18142
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT | SPORT TV 4 HD
-http://nomorecable.xyz:80/hahaiptv-/079652/18141
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 5
-http://nomorecable.xyz:80/hahaiptv-/079652/18140
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT | SPORT TV 5 HD
-http://nomorecable.xyz:80/hahaiptv-/079652/18139
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV NBA  HD
-http://nomorecable.xyz:80/hahaiptv-/079652/18131
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Eleven Sports 3
-http://nomorecable.xyz:80/hahaiptv-/079652/35891
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Eleven Sports 6
-http://nomorecable.xyz:80/hahaiptv-/079652/35894
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Eleven Sports 5
-http://nomorecable.xyz:80/hahaiptv-/079652/35893
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Eleven Sports 4
-http://nomorecable.xyz:80/hahaiptv-/079652/35892
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Eleven Sports 2
-http://nomorecable.xyz:80/hahaiptv-/079652/35890
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Eleven Sports 1
-http://nomorecable.xyz:80/hahaiptv-/079652/35889
 
 
 
