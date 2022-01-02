@@ -8,6 +8,23 @@ http://51.154.28.81:2052/play/a0a9
 #EXTINF:-0,NBA TV
 http://tv1.live:25461/star7arab/WtnJQObFQO/6924
 
+#EXTINF:-0,ANIMAL PLANET
+http://168.205.87.198:8555/live/michele/123456/18.ts
+
+
+#EXTINF:-0,BOOMERANG
+http://168.205.87.198:8555/live/michele/123456/22.ts
+
+#EXTINF:-0,CARTOON NETWORK
+http://168.205.87.198:8555/live/michele/123456/26.ts
+
+#EXTINF:-0,DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/michele/123456/33.ts
+
+#EXTINF:-0,SMITHSONIAN BR
+http://168.205.87.198:8555/live/michele/123456/173.ts
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="US | Sports",USA | UFC Network HD
 http://nomorecable.xyz:80/hahaiptv-/079652/96297
