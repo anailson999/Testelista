@@ -5,7 +5,8 @@
 #EXTINF:-0,Smithsonian
 http://51.154.28.81:2052/play/a0a9
 
-
+#EXTINF:-0,NBA TV
+http://tv1.live:25461/star7arab/WtnJQObFQO/6924
 
 
 #EXTINF:0 tvg-id="ext" group-title="US | Sports",USA | UFC Network HD
