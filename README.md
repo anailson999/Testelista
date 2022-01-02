@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-0,Love Nature HD CA
+http://showplustv.pro:80/Haytham11/Haytham22/64404
+
 #EXTINF:-0,LOVE NATURE 4K
 http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
 
@@ -23,6 +27,576 @@ http://need.sleep.codaytv.eu/c.m3u8?
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 
+
+
+#EXTINF:0 tvg-id="TSN1.ca" group-title="Channels",US: TSN 1
+http://tv1.live:25461/star7arab/WtnJQObFQO/6912
+#EXTINF:0 tvg-id="TSN2.ca" group-title="Channels",US: TSN 2
+http://tv1.live:25461/star7arab/WtnJQObFQO/6913
+#EXTINF:0 tvg-id="TSN3.ca" group-title="Channels",US: TSN 3
+http://tv1.live:25461/star7arab/WtnJQObFQO/6914
+#EXTINF:0 tvg-id="TSN4.ca" group-title="Channels",US:  TSN 4
+http://tv1.live:25461/star7arab/WtnJQObFQO/6915
+#EXTINF:0 tvg-id="ext" group-title="Channels",US:  TSN 5
+http://tv1.live:25461/star7arab/WtnJQObFQO/6916
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Channels",US: Bein Sports USA HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6917
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="Channels",US: ESPN
+http://tv1.live:25461/star7arab/WtnJQObFQO/6918
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",US: ESPN2
+http://tv1.live:25461/star7arab/WtnJQObFQO/6919
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",US: FOX Sport 1
+http://tv1.live:25461/star7arab/WtnJQObFQO/6920
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",US: FOX Sport 2
+http://tv1.live:25461/star7arab/WtnJQObFQO/6921
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Sports Ohio HD -US
+http://tv1.live:25461/star7arab/WtnJQObFQO/6922
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX Soccer Plus-US HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6923
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA TV
+http://tv1.live:25461/star7arab/WtnJQObFQO/6924
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NFL Network HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6925
+#EXTINF:0 tvg-id="SportsNetNewYork.us" group-title="Channels",US: SportsNet 360
+http://tv1.live:25461/star7arab/WtnJQObFQO/6926
+#EXTINF:0 tvg-id="SportsNetOne.ca" group-title="Channels",US: SportsNet One HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6927
+#EXTINF:0 tvg-id="TennisChannelHD.us" group-title="Channels",US: Tennis Channel HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6928
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: W*E Network HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6929
+#EXTINF:0 tvg-id="BloombergTV.us" group-title="Channels",US: Bloomberg
+http://tv1.live:25461/star7arab/WtnJQObFQO/6930
+#EXTINF:0 tvg-id="HBOFamilyEast.us" group-title="Channels",US:  HBO Family HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6931
+#EXTINF:0 tvg-id="HBOHDEast.us" group-title="Channels",US: HBO HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6932
+#EXTINF:0 tvg-id="HBOZoneHD.us" group-title="Channels",US:  HBO Zone HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6933
+#EXTINF:0 tvg-id="A-E.us" group-title="Channels",US: A&E
+http://tv1.live:25461/star7arab/WtnJQObFQO/6934
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",US: ABC
+http://tv1.live:25461/star7arab/WtnJQObFQO/6935
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",US: ABC News
+http://tv1.live:25461/star7arab/WtnJQObFQO/6936
+#EXTINF:0 tvg-id="AMC.us" group-title="Channels",US: AMC HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6937
+#EXTINF:0 tvg-id="AnimalPlanetHD.us" group-title="Channels",US: Animal Planet HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6938
+#EXTINF:0 tvg-id="BravoHD.us" group-title="Channels",US: Bravo HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6939
+#EXTINF:0 tvg-id="Boomerang.us" group-title="Channels",US: Boomerang
+http://tv1.live:25461/star7arab/WtnJQObFQO/6940
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",US: CBS HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6942
+#EXTINF:0 tvg-id="5StarMAXHD.us" group-title="Channels",US: Cinemax 5 StarMax
+http://tv1.live:25461/star7arab/WtnJQObFQO/6943
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cinemax ActionMax East
+http://tv1.live:25461/star7arab/WtnJQObFQO/6944
+#EXTINF:0 tvg-id="CinemaxActionMaxHDEast.us" group-title="Channels",US: Cinemax East
+http://tv1.live:25461/star7arab/WtnJQObFQO/6945
+#EXTINF:0 tvg-id="MoreMAX.us" group-title="Channels",US: Cinemax Moremax
+http://tv1.live:25461/star7arab/WtnJQObFQO/6946
+#EXTINF:0 tvg-id="CNBC.us" group-title="Channels",US: CNBC
+http://tv1.live:25461/star7arab/WtnJQObFQO/6947
+#EXTINF:0 tvg-id="CNN.us" group-title="Channels",US: CNN
+http://tv1.live:25461/star7arab/WtnJQObFQO/6948
+#EXTINF:0 tvg-id="ComedyCentral.us" group-title="Channels",US: Comedy Central
+http://tv1.live:25461/star7arab/WtnJQObFQO/6949
+#EXTINF:0 tvg-id="WDCWWashingtonDCCW.us" group-title="Channels",US: CW
+http://tv1.live:25461/star7arab/WtnJQObFQO/6950
+#EXTINF:0 tvg-id="Discovery.us" group-title="Channels",US: Discovery Channel HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6951
+#EXTINF:0 tvg-id="ScienceHD.us" group-title="Channels",US: Discovery Science HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6952
+#EXTINF:0 tvg-id="DIYNetworkHD.us" group-title="Channels",US: DIY Network
+http://tv1.live:25461/star7arab/WtnJQObFQO/6953
+#EXTINF:0 tvg-id="FoodNetworkHD.us" group-title="Channels",US: Food Network HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6954
+#EXTINF:0 tvg-id="WNYWNewYorkFOXHDEast.us" group-title="Channels",US: Fox HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6955
+#EXTINF:0 tvg-id="HallmarkMovies-Mysteries.us" group-title="Channels",US: Hallmark Movies & Mysteries HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6956
+#EXTINF:0 tvg-id="FX.us" group-title="Channels",US: FX
+http://tv1.live:25461/star7arab/WtnJQObFQO/6957
+#EXTINF:0 tvg-id="FXX.us" group-title="Channels",US: FXX
+http://tv1.live:25461/star7arab/WtnJQObFQO/6958
+#EXTINF:0 tvg-id="HallmarkChannelHD.us" group-title="Channels",US: Hallmark Channel HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6959
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",US: HBO Signature HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6960
+#EXTINF:0 tvg-id="History.us" group-title="Channels",US: HISTORY
+http://tv1.live:25461/star7arab/WtnJQObFQO/6961
+#EXTINF:0 tvg-id="InvestigationDiscovery.us" group-title="Channels",US: Investigation Discovery
+http://tv1.live:25461/star7arab/WtnJQObFQO/6962
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: KTLA /CW
+http://tv1.live:25461/star7arab/WtnJQObFQO/6963
+#EXTINF:0 tvg-id="NationalGeographic.us" group-title="Channels",US: National Geographic
+http://tv1.live:25461/star7arab/WtnJQObFQO/6964
+#EXTINF:0 tvg-id="NHLNetwork.us" group-title="Channels",US: NHL Network
+http://tv1.live:25461/star7arab/WtnJQObFQO/6965
+#EXTINF:0 tvg-id="NickelodeonEast.us" group-title="Channels",US: Nickelodeon
+http://tv1.live:25461/star7arab/WtnJQObFQO/6966
+#EXTINF:0 tvg-id="SHOWTIME2HD.us" group-title="Channels",US: ShowTime 2 HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6967
+#EXTINF:0 tvg-id="ShowtimeHDEast.us" group-title="Channels",US: Showtime HD East
+http://tv1.live:25461/star7arab/WtnJQObFQO/6968
+#EXTINF:0 tvg-id="ShowtimeShowcase.us" group-title="Channels",US: Showtime Showcase
+http://tv1.live:25461/star7arab/WtnJQObFQO/6969
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Showtime West HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6970
+#EXTINF:0 tvg-id="Spike.us" group-title="Channels",US: Spike
+http://tv1.live:25461/star7arab/WtnJQObFQO/6971
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Channels",US: STARZ CINEMA HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6972
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Channels",US: Starz Comedy
+http://tv1.live:25461/star7arab/WtnJQObFQO/6973
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="Channels",US: STARZ EDGE HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6974
+#EXTINF:0 tvg-id="TBSHD.us" group-title="Channels",US: TBS HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6975
+#EXTINF:0 tvg-id="TNT.us" group-title="Channels",US: TNT
+http://tv1.live:25461/star7arab/WtnJQObFQO/6976
+#EXTINF:0 tvg-id="truTVHD.us" group-title="Channels",US: TRU TV HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6977
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Subrang
+http://tv1.live:25461/star7arab/WtnJQObFQO/6978
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Action (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6598
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Action HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6599
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",Sky Sports Arena
+http://tv1.live:25461/star7arab/WtnJQObFQO/6600
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Cricket (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6601
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Cricket HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6602
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",Sky Sports F1 (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6603
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports F1 HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6604
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports GOLF (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6605
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports GOLF HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6606
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Main Event (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6607
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Main Event HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6608
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Mix (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6609
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",Sky Sports News (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6610
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",Sky Sports News HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6611
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Premier League (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6612
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Premier League HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6613
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",Sky Sport Football HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6614
+#EXTINF:0 tvg-id="ext" group-title="Channels",Box Nation HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6615
+#EXTINF:0 tvg-id="ext" group-title="Channels",EIR Sport 1 HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6616
+#EXTINF:0 tvg-id="ext" group-title="Channels",EIR Sport 2 HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6617
+#EXTINF:0 tvg-id="ext" group-title="Channels",LFC HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6620
+#EXTINF:0 tvg-id="ext" group-title="Channels",Motors TV HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6621
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUTV HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6622
+#EXTINF:0 tvg-id="ext" group-title="Channels",RACING UK HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6623
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHT PASS HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6624
+#EXTINF:0 tvg-id="AtTheRaces.uk" group-title="Channels",At The Races (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6625
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",BoxNation (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6626
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",BT Sport 1 (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6629
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 1 HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6630
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",BT Sport 2 (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6631
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 2 HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6632
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORT 3 (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6633
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport Europe (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6634
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport europe HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6635
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport eXtra 1 (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6636
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport eXtra2 (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6637
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport eXtra3 (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6638
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport eXtra4 (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6639
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eir Sport 1 (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6640
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6641
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: FIGHTBOX HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/6644
+#EXTINF:0 tvg-id="ext" group-title="Channels",Liverpool (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6645
+#EXTINF:0 tvg-id="ext" group-title="Channels",Motor Sports TV (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6646
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",MUTV (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6647
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premier Sports (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6648
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premier Sports HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6649
+#EXTINF:0 tvg-id="ext" group-title="Channels",Racing UK (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6650
+#EXTINF:0 tvg-id="ext" group-title="Channels",RealMadrid (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6651
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Action | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6652
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Comedy | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6653
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Drama | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6654
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Family | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6655
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Premier | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6656
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Scifi and horror | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6657
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Select | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6658
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky ShowCase | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6659
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Thriller | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6660
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6661
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film 4 | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6662
+#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="Channels",UK: Horror Channel
+http://tv1.live:25461/star7arab/WtnJQObFQO/6663
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nollywood | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6664
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Movie Channel | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6665
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Movies Classic | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6666
+#EXTINF:0 tvg-id="ext" group-title="Channels",TCM HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6667
+#EXTINF:0 tvg-id="ext" group-title="Channels",TCM HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6668
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC One HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6669
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC2 HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6670
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC 3 HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6671
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC 4 HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6672
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC HD 4 / CBEEBIES HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6673
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC RED BUTTON HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6674
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV BE HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6675
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV ENCORE HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6676
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV HD 2 | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6677
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 1 HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6678
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 2 | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6679
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 2 HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6680
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 3 | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6681
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 4 | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6682
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV BE | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6683
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV Encore | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6684
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV One SD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6685
+#EXTINF:0 tvg-id="ext" group-title="Channels",3e HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6686
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATLANTIC HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6687
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHANNEL 4 HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6688
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHANNEL 5 HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6689
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAVE HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6690
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6691
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIFETIME HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6692
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6693
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV LIVE HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6694
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTE ONE HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6695
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTE TWO  HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6696
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY LIVING HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6697
+#EXTINF:0 tvg-id="ext" group-title="Channels",SYFY HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6698
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 3 HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6699
+#EXTINF:0 tvg-id="ext" group-title="Channels",3E | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6700
+#EXTINF:0 tvg-id="ext" group-title="Channels",4seven | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6701
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alibi | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6702
+#EXTINF:0 tvg-id="ext" group-title="Channels",Blaze | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6703
+#EXTINF:0 tvg-id="ext" group-title="Channels",Clubland TV | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6704
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Action | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6705
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Drama | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6706
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Reality | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6707
+#EXTINF:0 tvg-id="ext" group-title="Channels",Challenge | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6708
+#EXTINF:0 tvg-id="ext" group-title="Channels",Channel 5 USA | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6709
+#EXTINF:0 tvg-id="ext" group-title="Channels",Channel 5Star | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6710
+#EXTINF:0 tvg-id="ext" group-title="Channels",Channel4 HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6711
+#EXTINF:0 tvg-id="ext" group-title="Channels",Channel5 | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6712
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Central Extra | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6713
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dave | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6714
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dmax | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6715
+#EXTINF:0 tvg-id="ext" group-title="Channels",Drama | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6716
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6717
+#EXTINF:0 tvg-id="ext" group-title="Channels",E4 | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6718
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eden | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6719
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gold | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6720
+#EXTINF:0 tvg-id="ext" group-title="Channels",UTV Ireland | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6721
+#EXTINF:0 tvg-id="ext" group-title="Channels",iConcerts HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6722
+#EXTINF:0 tvg-id="ext" group-title="Channels",KissTV | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6723
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lifetime HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6724
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magic | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6725
+#EXTINF:0 tvg-id="ext" group-title="Channels",More4 HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6726
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6727
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Base | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6728
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Classic | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6729
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Dance | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6730
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Music | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6731
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Rocks | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6732
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pick TV | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6733
+#EXTINF:0 tvg-id="ext" group-title="Channels",Quest | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6734
+#EXTINF:0 tvg-id="ext" group-title="Channels",ROK | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6735
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTE 1 | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6736
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTE 2 | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6737
+#EXTINF:0 tvg-id="ext" group-title="Channels",4 Music | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6738
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Arts HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6739
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Atlantic | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6740
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky One | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6741
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky One HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6742
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Two HD | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6743
+#EXTINF:0 tvg-id="ext" group-title="Channels",Spike | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6744
+#EXTINF:0 tvg-id="ext" group-title="Channels",SyFy | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6745
+#EXTINF:0 tvg-id="ext" group-title="Channels",Box Hits | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6746
+#EXTINF:0 tvg-id="ext" group-title="Channels",S4C | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6747
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV3 | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6748
+#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Channel | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6749
+#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Channel +1 | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6750
+#EXTINF:0 tvg-id="ext" group-title="Channels",UTV Ireland | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6751
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vh1 | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6752
+#EXTINF:0 tvg-id="ext" group-title="Channels",VH1 Classic | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6753
+#EXTINF:0 tvg-id="ext" group-title="Channels",Watch | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6754
+#EXTINF:0 tvg-id="ext" group-title="Channels",Yesterday | UK*
+http://tv1.live:25461/star7arab/WtnJQObFQO/6755
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6756
+#EXTINF:0 tvg-id="ext" group-title="Channels",UTV HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6757
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Hits | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6758
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bloomberg HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6759
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY 2 HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6760
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6761
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6762
+#EXTINF:0 tvg-id="ext" group-title="Channels",Animal Planet HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6763
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC News | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6764
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNBC Europe | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6765
+#EXTINF:0 tvg-id="CNN.nws" group-title="Channels",Cnn Int | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6766
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime Investigation | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6767
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Channel | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6768
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery History | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6769
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Home & Health | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6770
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Sci HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6771
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Science | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6772
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Shed | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6773
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Turbo | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6774
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euronews | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6775
+#EXTINF:0 tvg-id="ext" group-title="Channels",Food Network | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6776
+#EXTINF:0 tvg-id="ext" group-title="Channels",FRANCE 24 | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6777
+#EXTINF:0 tvg-id="ext" group-title="Channels",Good Food | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6778
+#EXTINF:0 tvg-id="ext" group-title="Channels",H2 | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6779
+#EXTINF:0 tvg-id="ext" group-title="Channels",History Channel | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6780
+#EXTINF:0 tvg-id="ext" group-title="Channels",Horse and Country | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6781
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Investigation | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6782
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nat Geo Channel | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6783
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geography Wild | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6784
+#EXTINF:0 tvg-id="ext" group-title="Channels",REAL Lives | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6785
+#EXTINF:0 tvg-id="ext" group-title="Channels",REALLY | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6786
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTE News | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6787
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Living | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6788
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky News HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6789
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6790
+#EXTINF:0 tvg-id="ext" group-title="Channels",Travel Channel | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6791
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fine Living Network | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6792
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox News | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6793
+#EXTINF:0 tvg-id="ext" group-title="Channels",Baby TV (KiD)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6794
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boomerang (KiD)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6795
+#EXTINF:0 tvg-id="ext" group-title="Channels",Baby Tv | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6796
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boomerang | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6797
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Network | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6798
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoonito | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6799
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cbeebies | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6800
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Channel | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6801
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY JUNIOR | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6802
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nickelodeon | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6803
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nickelodeon Jr | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6804
+#EXTINF:0 tvg-id="ext" group-title="Channels",NickJr Too | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6805
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nicktoons | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6806
+#EXTINF:0 tvg-id="ext" group-title="Channels",POP | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6807
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pop Max HD | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6808
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTEjr | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6809
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Disney | UK
+http://tv1.live:25461/star7arab/WtnJQObFQO/6810
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tom And Jerry (KiD)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6811
+#EXTINF:0 tvg-id="ext" group-title="Channels",Box Office 1 HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6812
+#EXTINF:0 tvg-id="ext" group-title="Channels",Box Office 2 HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6813
+#EXTINF:0 tvg-id="ext" group-title="Channels",Box Office 3 HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6814
+#EXTINF:0 tvg-id="ext" group-title="Channels",Box Office 4 HD (UK)
+http://tv1.live:25461/star7arab/WtnJQObFQO/6815
+
+
+
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3196
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA FHD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3194
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA HEVC
+http://tv1.live:25461/star7arab/WtnJQObFQO/3195
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 1 HD
