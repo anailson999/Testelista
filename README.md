@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-0,Love Nature HD CA
-http://showplustv.pro:80/live/Haytham11/Haytham22/64404
 
 #EXTINF:-0,LOVE NATURE 4K
 http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
