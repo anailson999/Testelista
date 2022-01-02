@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-0,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 
 #EXTINF:-0,Smithsonian
