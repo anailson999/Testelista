@@ -382,53 +382,6 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31478
 #EXTINF:-0,Love nature 4K
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36612
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV DIARIO  FHD
-http://7online.xyz:8080/EritaFatima/21781781/25670
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV DIARIO HD
-http://7online.xyz:8080/EritaFatima/21781781/25671
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV DIARIO SD
-http://7online.xyz:8080/EritaFatima/21781781/25672
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBT SP FHD
-http://7online.xyz:8080/EritaFatima/21781781/44816
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBT SP HD
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD SP FHD
-http://7online.xyz:8080/EritaFatima/21781781/64733
-#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD  FHD
-http://7online.xyz:8080/EritaFatima/21781781/28786
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD SP HD
-http://7online.xyz:8080/EritaFatima/21781781/18598
-#EXTINF:0 tvg-id="Recordsp.br" group-title="Channels",RECORD SP SD
-http://7online.xyz:8080/EritaFatima/21781781/7667
-#EXTINF:0 tvg-id="RecordTV.uk" group-title="Channels",RECORD TV
-http://7online.xyz:8080/EritaFatima/21781781/18629
-#EXTINF:0 tvg-id="Recordsp.br" group-title="Channels",RECORD SP SD*
-http://7online.xyz:8080/EritaFatima/21781781/22380
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD SP FHD H.265
-http://7online.xyz:8080/EritaFatima/21781781/70911
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD 4K¹
-http://7online.xyz:8080/EritaFatima/21781781/69813
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD 4K³
-http://7online.xyz:8080/EritaFatima/21781781/28815
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND 4K
-http://7online.xyz:8080/EritaFatima/21781781/28788
-#EXTINF:0 tvg-id="Bandhd.br" group-title="Channels",BAND FHD
-http://7online.xyz:8080/EritaFatima/21781781/18618
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND  FHD²
-http://7online.xyz:8080/EritaFatima/21781781/22642
-#EXTINF:0 tvg-id="Bandhd.br" group-title="Channels",BAND HD
-http://7online.xyz:8080/EritaFatima/21781781/18619
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND HD²
-http://7online.xyz:8080/EritaFatima/21781781/18622
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND HD²
-http://7online.xyz:8080/EritaFatima/21781781/22464
-#EXTINF:0 tvg-id="Bandeirantes.br" group-title="Channels",BAND  SD
-http://7online.xyz:8080/EritaFatima/21781781/22299
-
-
-
 
 #EXTINF:0 tvg-id="TennisChannelHD.us" group-title="Channels",US: Tennis Channel HD
 http://195.230.23.8:25461/goldsfree3/goldstv.com/6928
