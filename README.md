@@ -387,13 +387,13 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36612
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SP FHD¹
-http://7online.xyz:8080/live/EritaFatima/21781781/18533.m3u8
+http://7online.xyz:8080/live/EritaFatima/21781781/18533.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SP FHD²
-http://7online.xyz:8080/live/EritaFatima/21781781/22175.m3u8
+http://7online.xyz:8080/live/EritaFatima/21781781/22175.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SP FHD³
-http://7online.xyz:8080/live/EritaFatima/21781781/18532.m3u8
+http://7online.xyz:8080/live/EritaFatima/21781781/18532.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SP HD¹
-http://7online.xyz:8080/live/EritaFatima/21781781/18558.m3u8
+http://7online.xyz:8080/live/EritaFatima/21781781/18558.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SP HD²
 http://7online.xyz:8080/EritaFatima/21781781/29602
 #EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SP HD³
