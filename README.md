@@ -1,12 +1,11 @@
 #EXTM3U
 
+#EXTINF:-0,Love Nature UHD
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-0,Love Nature UHD 2
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 
-#EXTINF:-0,LOVE NATURE 4K
-http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
-
-#EXTINF:-0,Love Nature 4K
-https://d27r4t30huw0iy.cloudfront.net/playlist.m3u8
 
 #EXTINF:-0,Love Nature (1080p)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
