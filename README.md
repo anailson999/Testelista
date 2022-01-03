@@ -62,9 +62,6 @@ http://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-0,SBT HD SP
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
 
-#EXTINF:-0,BBC EARTH HD 1
-http://qqtv.nl:8080/masud/masud/329874
-
 #EXTINF:-0,Band 
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
@@ -372,12 +369,3 @@ https://stmv1.srvif.com/nattv/nattv/chunklist_w2034641661.m3u8
 #EXTINF:-1,SIC Full HD
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-
-#EXTINF:-0,TNT SERIES FULLHD
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31301
-
-#EXTINF:-0,BOOMERANG FULLHD
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31478
-
-#EXTINF:-0,Love nature 4K
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36612
