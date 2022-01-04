@@ -5,7 +5,7 @@ http://168.205.87.198:8555/live/solange/123456/103.m3u8
 
 
 #EXTINF:-0,Sport TV 1 HD
-https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/walxjawfo5x.m3u8?s=LzgQea_UdNN3ai4uiOhxXw&e=1641308815
+https://zdxetcjzkybpxicr.wzcdn804.net:8443/live/hls/walxjawfo5x.m3u8?s=LzgQea_UdNN3ai4uiOhxXw&e=1641308815.m3u8
 
 
 #EXTINF:-0,Rede Vida HD
