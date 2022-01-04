@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-0,Rede Vida HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
 #EXTINF:-0,Kronehit UHD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
