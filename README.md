@@ -549,3 +549,19 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/3194
 #EXTINF:0 tvg-id="ext" group-title="Channels",NBA HEVC
 http://tv1.live:25461/star7arab/WtnJQObFQO/3195
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 1 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/7089
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 2 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/7090
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 3 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/7091
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 4 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/7092
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 5 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/7093
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 6 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
+
+
+
+
