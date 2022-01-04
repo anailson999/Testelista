@@ -556,12 +556,3 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/7093
 http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
 
 
-#EXTINF:0 tvg-id="ext" group-title="Undefined",BAND SP FHD
-http://blazehd.online:80/Herminio/Herminio/37272
-
-#EXTINF:0 tvg-id="ext" group-title="Undefined",BAND HD²
-http://7online.xyz:8080/EritaFatima/21781781/22464
-#EXTINF:0 tvg-id="Bandhd.br" group-title="Undefined",BAND HD
-http://blazehd.online:80/Herminio/Herminio/37271
-
-
