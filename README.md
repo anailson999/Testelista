@@ -510,3 +510,32 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/3218
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 FR HEVC
 http://195.230.23.8:25461/goldsfree3/goldstv.com/3219
 
+
+
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Channels",US: Bein Sports USA HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6917
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="Channels",US: ESPN
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6918
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",US: ESPN2
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6919
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",US: FOX Sport 1
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6920
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",US: FOX Sport 2
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6921
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Sports Ohio HD -US
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6922
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX Soccer Plus-US HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6923
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA TV
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6924
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NFL Network HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6925
+#EXTINF:0 tvg-id="SportsNetNewYork.us" group-title="Channels",US: SportsNet 360
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6926
+#EXTINF:0 tvg-id="SportsNetOne.ca" group-title="Channels",US: SportsNet One HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6927
+#EXTINF:0 tvg-id="TennisChannelHD.us" group-title="Channels",US: Tennis Channel HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6928
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: W*E Network HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6929
+
