@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0,Record HD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
 #EXTINF:-0,Band FHD
 https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm45vuWI6H-_TpNcaFSrEQeEA)/dm/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 
