@@ -380,3 +380,157 @@ https://stmv1.srvif.com/nattv/nattv/chunklist_w2034641661.m3u8
 #EXTINF:-1,SIC Full HD
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORT NEWS (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3140
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3141
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORTS FOOTBALL (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3142
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORT ACTION (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3143
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORTS ARENA (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3144
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORT MIX (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3145
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORTS MAIN EVENT (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3146
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORTS F1 (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3147
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORT GOLF (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3148
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORT CRICKET (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3149
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: BT SPORT 1 (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3150
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: BT SPORT 2 (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3151
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: BT SPORT 3 (UK)
+http://tigersbro.com:8080/vedat/vedat1905/3152
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT TV 1 (PT)
+http://tigersbro.com:8080/vedat/vedat1905/3155
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT TV 2 (PT)
+http://tigersbro.com:8080/vedat/vedat1905/3156
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT TV 3 (PT)
+http://tigersbro.com:8080/vedat/vedat1905/3157
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT TV 4 (PT)
+http://tigersbro.com:8080/vedat/vedat1905/3158
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT TV 5 (PT)
+http://tigersbro.com:8080/vedat/vedat1905/3159
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: ELEVEN SPORT 1 (PT)
+http://tigersbro.com:8080/vedat/vedat1905/3160
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: ELEVEN SPORT 2 (PT)
+http://tigersbro.com:8080/vedat/vedat1905/3161
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORTS 1 HD+(TR)
+http://tigersbro.com:8080/vedat/vedat1905/100000
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORTS 2 HD+(TR)
+http://tigersbro.com:8080/vedat/vedat1905/100001
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORT NEWS (DE)
+http://tigersbro.com:8080/vedat/vedat1905/3167
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORT 1 (DE)
+http://tigersbro.com:8080/vedat/vedat1905/3168
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SKY SPORT 2 (DE)
+http://tigersbro.com:8080/vedat/vedat1905/3169
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: BUNDESLIGA 1 (DE)
+http://tigersbro.com:8080/vedat/vedat1905/3170
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: DAZN Sport 1 HD (DE)
+http://tigersbro.com:8080/vedat/vedat1905/3171
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: DAZN Sport 2 HD (DE)
+http://tigersbro.com:8080/vedat/vedat1905/3172
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: ESPN 1 HD (NL)
+http://tigersbro.com:8080/vedat/vedat1905/3173
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: ESPN 2 HD (NL)
+http://tigersbro.com:8080/vedat/vedat1905/3174
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: ZIGGO SPORT SELECT HD (NL)
+http://tigersbro.com:8080/vedat/vedat1905/3175
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT PREMIUM 1 AR)
+http://tigersbro.com:8080/vedat/vedat1905/3223
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT PREMIUM 2 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3222
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT PREMIUM 3 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3221
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORTS 1 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3183
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT 2 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3220
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT 3 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3219
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT 4 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3224
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT 5 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3225
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT 6 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3189
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT 7 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3218
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORTS 1 EN (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3181
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORTS 2 EN (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3182
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT MAX 1 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3212
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT MAX 2 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3213
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT MAX 3 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3214
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT MAX 4 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3215
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT MAX 5 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3216
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT MAX 6 (AR)
+http://tigersbro.com:8080/vedat/vedat1905/3217
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: LALIGA TV BAR (ES)
+http://tigersbro.com:8080/vedat/vedat1905/3190
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: Arena Sport 1 HD (EX-YU)
+http://tigersbro.com:8080/vedat/vedat1905/3194
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: Arena Sport 2 HD (EX-YU)
+http://tigersbro.com:8080/vedat/vedat1905/3195
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: Arena Sport 3 HD (EX-YU)
+http://tigersbro.com:8080/vedat/vedat1905/3196
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: Arena Sport 4 HD (EX-YU)
+http://tigersbro.com:8080/vedat/vedat1905/3197
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: Arena Sport 5 HD (EX-YU)
+http://tigersbro.com:8080/vedat/vedat1905/3198
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT KLUB 1 (EX-YU)
+http://tigersbro.com:8080/vedat/vedat1905/3199
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT KLUB 2 (EX-YU)
+http://tigersbro.com:8080/vedat/vedat1905/3200
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT KLUB 3 (EX-YU)
+http://tigersbro.com:8080/vedat/vedat1905/3201
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: SPORT KLUB 4 (EX-YU)
+http://tigersbro.com:8080/vedat/vedat1905/3202
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: Super Sport 1 (AL)
+http://tigersbro.com:8080/vedat/vedat1905/3203
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: Super Sport 2 (AL)
+http://tigersbro.com:8080/vedat/vedat1905/3204
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: Super Sport 3 (AL)
+http://tigersbro.com:8080/vedat/vedat1905/3205
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: Tring Sport 1 (AL)
+http://tigersbro.com:8080/vedat/vedat1905/3206
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: Tring Sport 2 (AL)
+http://tigersbro.com:8080/vedat/vedat1905/3207
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: DIGI SPORT 1 (RO)
+http://tigersbro.com:8080/vedat/vedat1905/3208
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: DIGI SPORT 2 (RO)
+http://tigersbro.com:8080/vedat/vedat1905/3209
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: DIGI SPORT 3 (RO)
+http://tigersbro.com:8080/vedat/vedat1905/3210
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: DIGI SPORT 4 (RO)
+http://tigersbro.com:8080/vedat/vedat1905/3211
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: UFC Network
+http://tigersbro.com:8080/vedat/vedat1905/3228
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: NBA Network (US)
+http://tigersbro.com:8080/vedat/vedat1905/3229
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: NHL Network (US)
+http://tigersbro.com:8080/vedat/vedat1905/3230
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: MLB Network (US)
+http://tigersbro.com:8080/vedat/vedat1905/3231
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: NFL Network (US)
+http://tigersbro.com:8080/vedat/vedat1905/3232
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIP SPORT: WWE Network (US)
+http://tigersbro.com:8080/vedat/vedat1905/3233
