@@ -16,6 +16,10 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
 #EXTINF:-0,Sbt HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbtsd/video.m3u8?md5=Xhwcrxa2Co-emhS2n4s-aw&expires=1641364612
 
+#EXTINF:-0,Star 1 HD
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxpremiumsd/video.m3u8?md5=f9YVa9VRAsRXHwS8K2NDfw&expires=1641365359
+
+
 
 
 #EXTINF:-0,Rede Vida
