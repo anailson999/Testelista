@@ -539,3 +539,13 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/6928
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: W*E Network HD
 http://195.230.23.8:25461/goldsfree3/goldstv.com/6929
 
+
+
+
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA HD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3196
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA FHD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3194
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA HEVC
+http://tv1.live:25461/star7arab/WtnJQObFQO/3195
+
