@@ -562,6 +562,33 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/7093
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 6 HD
 http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
 
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO VERDES MARES FORTALEZA FHD
+http://7online.xyz:8080/EritaFatima/21781781/29891
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO VERDES MARES FORTALEZA FHD*
+http://7online.xyz:8080/EritaFatima/21781781/29892
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO VERDES MARES FORTALEZA HD
+http://7online.xyz:8080/EritaFatima/21781781/29578
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO VERDES MARES FORTALEZA HD*
+http://7online.xyz:8080/EritaFatima/21781781/29577
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV VERDE MARES FORTALEZA HD2
+http://7online.xyz:8080/EritaFatima/21781781/18540
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO VERDES MARES FORTALEZA SD¹
+http://7online.xyz:8080/EritaFatima/21781781/18584
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO VERDES MARES FORTALEZA SD²
+http://7online.xyz:8080/EritaFatima/21781781/22241
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDETV 4K
+http://7online.xyz:8080/EritaFatima/21781781/28804
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDETV FHD
+http://7online.xyz:8080/EritaFatima/21781781/31591
+#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",REDE TV FHD*
+http://7online.xyz:8080/EritaFatima/21781781/64620
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDETV HD
+http://7online.xyz:8080/EritaFatima/21781781/31375
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDETV HD*
+http://7online.xyz:8080/EritaFatima/21781781/22606
+#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",REDETV SD
+http://7online.xyz:8080/EritaFatima/21781781/31376
+#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",REDETV SD*
+http://7online.xyz:8080/EritaFatima/21781781/64619
 
 
