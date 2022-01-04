@@ -380,5 +380,133 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 
 
-
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS PREMIUM SD1
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3126
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS PREMIUM SD2
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3127
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 PREMIUM SD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3128
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS XTRA 1 SD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3156
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS XTRA 2 SD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3157
+#EXTINF:0 tvg-id="sport1_rus" group-title="Channels",SPORTS SD1
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3129
+#EXTINF:0 tvg-id="sport2_rus" group-title="Channels",SPORTS SD2
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3130
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS SD3
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3131
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 4SD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3132
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS SD 5
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3133
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS SD6
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3134
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS SD7
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3135
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS PREMIUM 1 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3136
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS PREMIUM 2 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3137
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 PREMIUM HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3138
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS XTRA 2 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3165
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3139
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3140
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3141
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 4HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3142
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 5HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3143
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 6HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3144
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 7HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3145
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS  1 PREMIUM FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3146
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 PREMIUM FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3147
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 PREMIUM FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3148
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS XTRA 1 FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3171
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS XTRA 2 FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3172
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3149
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3150
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3151
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 4FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3152
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 5FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3153
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 6FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3154
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 7FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3155
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 PREMIUM HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3173
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 PREMIUM HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3174
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 PREMIUM HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3175
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS XTRA 1 HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3188
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3176
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3177
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3178
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 4 HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3179
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 5 HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3180
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 6 HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3181
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 7 HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3182
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS EN 1 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3158
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT EN 2 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3159
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 EN HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3160
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 EN FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3166
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT EN 2 FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3167
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 EN FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3168
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS EN 1 HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3183
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT EN 2 HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3184
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 EN HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3185
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 FR HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3161
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 FR HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3162
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 FR HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3163
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 FR FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3169
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 FR FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3170
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 FR HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3186
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 2 FR HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3187
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 FR FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3218
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 FR HEVC
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3219
 
