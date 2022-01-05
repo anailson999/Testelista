@@ -569,34 +569,3 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/7093
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 6 HD
 http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
 
-
-
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN LA LIGA
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/42
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Channels",US: BEIN SPORTS
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/43
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS 4
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/44
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS 5
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/45
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS 6
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/46
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS 7
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/47
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS 8
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/48
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS CANADA
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/49
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS EN ESPANHOL
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/50
-
-#EXTINF:0 tvg-id="MSNBCHD.us" group-title="Channels",US: MSNBC
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/375
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA TV
-http://the827solutions.com:25461/NE99101/p3szcPmhSN/390
-
