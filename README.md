@@ -13,11 +13,6 @@ https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm45vuWI6H-_TpNcaFSr
 #EXTINF:-0,Globo SP
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
 
-
-#EXTINF:-0,Rede Vida
-http://168.205.87.198:8555/live/solange/123456/103.m3u8
-
-
 #EXTINF:-0,Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
