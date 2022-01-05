@@ -853,3 +853,52 @@ http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537
 
 
 
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 1 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/359.ts
+#EXTINF:0 tvg-id="SkySportArena.it" group-title="Channels",SPORT 2 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/360.ts
+#EXTINF:0 tvg-id="SkySportFootball.it" group-title="Channels",SPORT 3 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/361.ts
+#EXTINF:0 tvg-id="SkySport4.de" group-title="Channels",SPORT 4 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/362.ts
+#EXTINF:0 tvg-id="Sport5HD.il" group-title="Channels",SPORT 5 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/363.ts
+#EXTINF:0 tvg-id="SkySport6.de" group-title="Channels",Sport 6 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/364.ts
+#EXTINF:0 tvg-id="SkySport7.de" group-title="Channels",SPORT 7 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/365.ts
+#EXTINF:0 tvg-id="sport1" group-title="Channels",SPORT 1 (HD)
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/366.ts
+#EXTINF:0 tvg-id="sport2" group-title="Channels",SPORT 2 (HD)
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/367.ts
+#EXTINF:0 tvg-id="SkySportFootball.it" group-title="Channels",SPORT 3 (HD)
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/368.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT 4 (HD)
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/369.ts
+#EXTINF:0 tvg-id="Sport5.cz" group-title="Channels",Sport 5 (HD)
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/370.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ex Yu: Arena Sport 1 HR FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/1082.ts
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="Channels",Ex Yu: Arena Sport 2 HR FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/1083.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ex Yu: Arena Sport 3 HR FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/1084.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ex Yu: Arena Sport 4 HR FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/1085.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ex Yu: Arena Sport 5 HR FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/1086.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ex Yu:  Arena Sport 1 SR FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/1087.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ex Yu:  Arena Sport 2 SR FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/1088.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ex Yu:  Arena Sport 3 SR FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/1089.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ex Yu:  Arena Sport 4 SR FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/1090.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ex Yu:  Arena Sport 5 SR FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/1091.ts no
+
+
+
