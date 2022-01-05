@@ -571,47 +571,8 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ID - INVESTIGAÇÃO DISCOVERY HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20817.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: COMBATE HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20821.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 2 HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20825.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN BRASIL HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20826.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN EXTRA HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20827.ts
-#EXTINF:0 tvg-id="Espnhd.br" group-title="Channels",BR: ESPN HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20828.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN+ HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20829.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX SPORTS 2 HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20830.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX SPORTS HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20831.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 2 HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20832.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 3 HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20833.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 4 HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20834.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 5 HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20835.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 6 SD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20836.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE CLUBES HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20837.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 2 HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20838.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 3 HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20839.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20840.ts
 
 
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BET JAMS
 http://the827solutions.com:25461/NE99101/p3szcPmhSN/54
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BET SOUL
