@@ -574,19 +574,19 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND CAMPINAS SD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20774.m3u8
+http://smart4k.live:8080/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20774
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND NORDESTE SD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20775.m3u8
+http://smart4k.live:8080/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20775
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND SP HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20776.m3u8
+http://smart4k.live:8080/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20776
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: CULTURA HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20777.m3u8
+http://smart4k.live:8080/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20777
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: FUTURA HD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20778.m3u8
+http://smart4k.live:8080/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20778
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO ANHANGUERA GOIANIA SD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20779.m3u8
+http://smart4k.live:8080/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20779
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO BRASILIA SD
-http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20780.m3u8
+http://smart4k.live:8080/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20780
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO EPTV CAMPINAS HD
 http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/20781.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO MINAS HD
