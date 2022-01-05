@@ -573,60 +573,30 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
 
 
 
-#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="Channels",US: FOX NEWS CHANNEL
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/207.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX SACRAMENTO CA
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/209.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX SALT LAKE CITY UT
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/210.m3u8
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",US: FOX SPORTS 1
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/212.m3u8
-#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",US: FOX SPORTS 2
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/213.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX WUTV-BUFFALO NY
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/228.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: FUBO SPORTS NETWORK
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/232.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN LA LIGA
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/42.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/42
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="Channels",US: BEIN SPORTS
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/43.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/43
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS 4
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/44.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/44
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS 5
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/45.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/45
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS 6
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/46.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/46
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS 7
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/47.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/47
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS 8
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/48.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/48
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS CANADA
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/49.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/49
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BEIN SPORTS EN ESPANHOL
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/50.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/50
 
 #EXTINF:0 tvg-id="MSNBCHD.us" group-title="Channels",US: MSNBC
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/375.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/375
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA TV
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/390.m3u8
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/390
 
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: SMITHSONIAN CHANNEL
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/1274.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: SMITHSONIAN CHANNEL
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/1275.m3u8
-
-
-#EXTINF:0 tvg-id="TennisChannel.us" group-title="Channels",US: TENNIS CHANNEL
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/1314.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: THE FIGHT NETWORK
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/1318.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: THE GOLF CHANNEL
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/1319.m3u8
-#EXTINF:0 tvg-id="TheWeatherChannel.us" group-title="Channels",US: THE WEATHER CHANNEL
-http://the827solutions.com:25461/live/NE99101/p3szcPmhSN/1320.m3u8
