@@ -570,3 +570,24 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/7093
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 6 HD
 http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
 
+#EXTINF:-0,SPORT TV NBA
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/343.ts
+
+#EXTINF:-0,SPORT TV1 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/314.ts
+
+#EXTINF:-0, SPORT TV 2 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/315.ts
+
+#EXTINF:-0, SPORT TV3 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/316.ts
+
+#EXTINF:-0, SPORT TV4 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/317.ts
+
+#EXTINF:-0, Sport TV 5 HD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/318.ts
+
+#EXTINF:-0,SPORT TV 1 FHD
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/32307.ts
+
