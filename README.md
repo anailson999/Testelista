@@ -477,7 +477,7 @@ http://ky-tv.cc:80/live/toyota18/toyota18/399411.m3u8
 http://ky-tv.cc:80/live/toyota18/toyota18/399271.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| LOVE NATURE 4K
-http://xtra-tv.xyz:1503/Om82881227/94023654842/787
+http://xtra-tv.xyz:1503/live/Om82881227/94023654842/787.m3u8
 
 
 
