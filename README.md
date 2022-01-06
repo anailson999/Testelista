@@ -433,4 +433,254 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/7092
 http://195.230.23.8:25461/goldsfree3/goldstv.com/7093
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 6 HD
 http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
-
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AXN FHD
+http://ky-tv.cc:80/toyota18/toyota18/219705.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: A&E FHD
+http://ky-tv.cc:80/toyota18/toyota18/219706.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AMC HD
+http://ky-tv.cc:80/toyota18/toyota18/219707.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ANIMAL PLANET 4K
+http://ky-tv.cc:80/toyota18/toyota18/219708.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ARTE 1 FHD
+http://ky-tv.cc:80/toyota18/toyota18/219709.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BABY TV HD
+http://ky-tv.cc:80/toyota18/toyota18/219710.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND CAMPINAS HD
+http://ky-tv.cc:80/toyota18/toyota18/219711.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND NEWS HD
+http://ky-tv.cc:80/toyota18/toyota18/219712.ts
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BR: Band Sports
+http://ky-tv.cc:80/toyota18/toyota18/219713.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BIS FHD
+http://ky-tv.cc:80/toyota18/toyota18/219714.ts
+#EXTINF:0 tvg-id="Boomerang.br" group-title="Channels",BR: BOOMERANG
+http://ky-tv.cc:80/toyota18/toyota18/219715.ts
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",BR: CANAL BRASIL
+http://ky-tv.cc:80/toyota18/toyota18/219716.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CINEMAX FHD
+http://ky-tv.cc:80/toyota18/toyota18/219719.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: COMBATE FHD
+http://ky-tv.cc:80/toyota18/toyota18/219721.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: COMEDY CENTRAL FHD
+http://ky-tv.cc:80/toyota18/toyota18/219722.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CULTURA HD
+http://ky-tv.cc:80/toyota18/toyota18/219723.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CURTA!
+http://ky-tv.cc:80/toyota18/toyota18/219724.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DAZN HD
+http://ky-tv.cc:80/toyota18/toyota18/219725.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY CHANNEL FHD
+http://ky-tv.cc:80/toyota18/toyota18/219726.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HGTV HD
+http://ky-tv.cc:80/toyota18/toyota18/219727.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY HOME & HEALTH HD
+http://ky-tv.cc:80/toyota18/toyota18/219729.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY KIDS FHD
+http://ky-tv.cc:80/toyota18/toyota18/219730.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY SCIENCE HD
+http://ky-tv.cc:80/toyota18/toyota18/219731.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY THEATER FHD
+http://ky-tv.cc:80/toyota18/toyota18/219732.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY TLC HD
+http://ky-tv.cc:80/toyota18/toyota18/219733.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Turbo FHD
+http://ky-tv.cc:80/toyota18/toyota18/219734.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY WORLD FHD
+http://ky-tv.cc:80/toyota18/toyota18/219735.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISNEY CHANNEL FHD
+http://ky-tv.cc:80/toyota18/toyota18/219736.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISNEY JR FHD
+http://ky-tv.cc:80/toyota18/toyota18/219737.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISNEY XD FHD
+http://ky-tv.cc:80/toyota18/toyota18/219738.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: E! HD
+http://ky-tv.cc:80/toyota18/toyota18/219739.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 2 HD
+http://ky-tv.cc:80/toyota18/toyota18/219741.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN Brasil HD
+http://ky-tv.cc:80/toyota18/toyota18/219743.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN EXTRA HD
+http://ky-tv.cc:80/toyota18/toyota18/219746.ts
+#EXTINF:0 tvg-id="Espnhd.br" group-title="Channels",BR: ESPN FHD
+http://ky-tv.cc:80/toyota18/toyota18/219747.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FISH TV
+http://ky-tv.cc:80/toyota18/toyota18/219751.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOOD NETWORK FHD
+http://ky-tv.cc:80/toyota18/toyota18/219752.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX CRIME
+http://ky-tv.cc:80/toyota18/toyota18/219754.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX FHD
+http://ky-tv.cc:80/toyota18/toyota18/219755.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX LIFE FHD
+http://ky-tv.cc:80/toyota18/toyota18/219756.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX PREMIUM 1 HD
+http://ky-tv.cc:80/toyota18/toyota18/219757.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Fox Premium 2 FHD
+http://ky-tv.cc:80/toyota18/toyota18/219758.ts
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Channels",BR: FOX SPORTS 2
+http://ky-tv.cc:80/toyota18/toyota18/219762.ts
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Channels",BR: FOX SPORTS
+http://ky-tv.cc:80/toyota18/toyota18/219766.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FUTURA HD
+http://ky-tv.cc:80/toyota18/toyota18/219769.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FX FHD
+http://ky-tv.cc:80/toyota18/toyota18/219770.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Amazônica HD
+http://ky-tv.cc:80/toyota18/toyota18/219773.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO BAHIA HD
+http://ky-tv.cc:80/toyota18/toyota18/219775.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO BRASILIA HD
+http://ky-tv.cc:80/toyota18/toyota18/219776.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO EPTV CAMPINAS HD
+http://ky-tv.cc:80/toyota18/toyota18/219779.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO EPTV RIBEIRÃO PRETO HD
+http://ky-tv.cc:80/toyota18/toyota18/219781.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO EPTV SAO CARLOS HD
+http://ky-tv.cc:80/toyota18/toyota18/219782.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO INTERNACIONAL HD
+http://ky-tv.cc:80/toyota18/toyota18/219787.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO MINAS FHD
+http://ky-tv.cc:80/toyota18/toyota18/219789.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO NEWS HD
+http://ky-tv.cc:80/toyota18/toyota18/219791.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO NORDESTE FHD
+http://ky-tv.cc:80/toyota18/toyota18/219792.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO RBS PORTO ALEGRE HD
+http://ky-tv.cc:80/toyota18/toyota18/219795.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RJ HD
+http://ky-tv.cc:80/toyota18/toyota18/219801.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO TV BELEM HD
+http://ky-tv.cc:80/toyota18/toyota18/219805.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO TV TEM SOROCABA HD
+http://ky-tv.cc:80/toyota18/toyota18/219810.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Tribuna HD
+http://ky-tv.cc:80/toyota18/toyota18/219811.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO TV TRIBUNA SANTOS HD
+http://ky-tv.cc:80/toyota18/toyota18/219812.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO TV VERDES MARES FORTALEZA HD
+http://ky-tv.cc:80/toyota18/toyota18/219814.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOOB FHD
+http://ky-tv.cc:80/toyota18/toyota18/219816.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOOBINHO
+http://ky-tv.cc:80/toyota18/toyota18/219817.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GNT FHD
+http://ky-tv.cc:80/toyota18/toyota18/219818.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: H2 FHD
+http://ky-tv.cc:80/toyota18/toyota18/219819.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO 2 FHD
+http://ky-tv.cc:80/toyota18/toyota18/219821.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO FAMILY FHD
+http://ky-tv.cc:80/toyota18/toyota18/219823.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO FHD
+http://ky-tv.cc:80/toyota18/toyota18/219824.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO PLUS FHD
+http://ky-tv.cc:80/toyota18/toyota18/219825.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO SIGNATURE FHD
+http://ky-tv.cc:80/toyota18/toyota18/219826.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HISTORY CHANNEL HD
+http://ky-tv.cc:80/toyota18/toyota18/219828.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ID-INVESTIGACAO DISCOVERY HD
+http://ky-tv.cc:80/toyota18/toyota18/219829.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: LIFE TIME FHD
+http://ky-tv.cc:80/toyota18/toyota18/219831.ts
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",BR: MAX PRIME
+http://ky-tv.cc:80/toyota18/toyota18/219832.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO XTREME FHD
+http://ky-tv.cc:80/toyota18/toyota18/219833.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MEGA PIX FHD
+http://ky-tv.cc:80/toyota18/toyota18/219839.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MTV HD
+http://ky-tv.cc:80/toyota18/toyota18/219840.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MTV LIVE FHD
+http://ky-tv.cc:80/toyota18/toyota18/219841.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NAT GEO FHD
+http://ky-tv.cc:80/toyota18/toyota18/219843.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NAT GEO KIDS FHD
+http://ky-tv.cc:80/toyota18/toyota18/219844.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NAT GEO WILD FHD
+http://ky-tv.cc:80/toyota18/toyota18/219845.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NICK JR FHD
+http://ky-tv.cc:80/toyota18/toyota18/219846.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: nickelodeon HD
+http://ky-tv.cc:80/toyota18/toyota18/219847.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: OFF FHD
+http://ky-tv.cc:80/toyota18/toyota18/219849.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PARAMOUNT CHANNEL HD
+http://ky-tv.cc:80/toyota18/toyota18/219850.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere 7
+http://ky-tv.cc:80/toyota18/toyota18/219853.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 2
+http://ky-tv.cc:80/toyota18/toyota18/219854.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 3
+http://ky-tv.cc:80/toyota18/toyota18/219856.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 4
+http://ky-tv.cc:80/toyota18/toyota18/219858.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 5
+http://ky-tv.cc:80/toyota18/toyota18/219860.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 6
+http://ky-tv.cc:80/toyota18/toyota18/219862.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD BA
+http://ky-tv.cc:80/toyota18/toyota18/219867.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD CAMPINAS HD
+http://ky-tv.cc:80/toyota18/toyota18/219868.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD ESP SANTO
+http://ky-tv.cc:80/toyota18/toyota18/219870.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD FHD
+http://ky-tv.cc:80/toyota18/toyota18/219871.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD MG HD
+http://ky-tv.cc:80/toyota18/toyota18/219872.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD NEWS FHD
+http://ky-tv.cc:80/toyota18/toyota18/219873.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD NORDESTE HD
+http://ky-tv.cc:80/toyota18/toyota18/219874.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD RJ HD
+http://ky-tv.cc:80/toyota18/toyota18/219876.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD SP HD
+http://ky-tv.cc:80/toyota18/toyota18/219878.ts
+#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",BR: REDE TV
+http://ky-tv.cc:80/toyota18/toyota18/219884.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT
+http://ky-tv.cc:80/toyota18/toyota18/219885.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SONY FHD
+http://ky-tv.cc:80/toyota18/toyota18/219887.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPACE FHD
+http://ky-tv.cc:80/toyota18/toyota18/219888.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 3
+http://ky-tv.cc:80/toyota18/toyota18/219892.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV
+http://ky-tv.cc:80/toyota18/toyota18/219894.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: STUDIO UNIVERSAL FHD
+http://ky-tv.cc:80/toyota18/toyota18/219895.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SYFY FHD
+http://ky-tv.cc:80/toyota18/toyota18/219896.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TBS FHD
+http://ky-tv.cc:80/toyota18/toyota18/219897.ts
+#EXTINF:0 tvg-id="Tcm.br" group-title="Channels",BR: TCM
+http://ky-tv.cc:80/toyota18/toyota18/219898.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Action FHD
+http://ky-tv.cc:80/toyota18/toyota18/219899.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE CULT FHD
+http://ky-tv.cc:80/toyota18/toyota18/219900.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Pipoca FHD
+http://ky-tv.cc:80/toyota18/toyota18/219902.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Premium FHD
+http://ky-tv.cc:80/toyota18/toyota18/219903.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Touch FHD
+http://ky-tv.cc:80/toyota18/toyota18/219904.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT FHD
+http://ky-tv.cc:80/toyota18/toyota18/219905.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT SERIES FHD
+http://ky-tv.cc:80/toyota18/toyota18/219906.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TOONCAST HD
+http://ky-tv.cc:80/toyota18/toyota18/219907.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: UNIVERSAL CHANNEL FHD
+http://ky-tv.cc:80/toyota18/toyota18/219909.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: VH1 HD
+http://ky-tv.cc:80/toyota18/toyota18/219910.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: VIVA FHD
+http://ky-tv.cc:80/toyota18/toyota18/219912.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Warner Bros FHD
+http://ky-tv.cc:80/toyota18/toyota18/219913.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: WOOHOO HD
+http://ky-tv.cc:80/toyota18/toyota18/219915.ts
