@@ -453,11 +453,11 @@ http://ky-tv.cc:80/toyota18/toyota18/219197.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SANTUARIO DE FATIMA
 http://ky-tv.cc:80/toyota18/toyota18/219221.ts
 #EXTINF:0 tvg-id="NBA.pt" group-title="Channels",PT: NBA FHD
-http://ky-tv.cc:80/toyota18/toyota18/219250.ts
+http://ky-tv.cc:80/live/toyota18/toyota18/219250.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIO HD
 http://ky-tv.cc:80/toyota18/toyota18/219253.ts
 #EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC FHD
-http://ky-tv.cc:80/toyota18/toyota18/219270.ts
+http://ky-tv.cc:80/live/toyota18/toyota18/219270.m3u8
 #EXTINF:0 tvg-id="SicK.pt" group-title="Channels",PT: SIC K
 http://ky-tv.cc:80/toyota18/toyota18/219271.ts
 #EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC NOTICIAS FHD
@@ -629,21 +629,21 @@ http://ky-tv.cc:80/toyota18/toyota18/399386.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: RECORD NEWS HD
 http://ky-tv.cc:80/toyota18/toyota18/399388.ts
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV + FHD
-http://ky-tv.cc:80/toyota18/toyota18/399394.ts
+http://ky-tv.cc:80/live/toyota18/toyota18/399394.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP International TV
-http://ky-tv.cc:80/toyota18/toyota18/399395.ts
+http://ky-tv.cc:80/toyota18/toyota18/399395.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FHD
-http://ky-tv.cc:80/toyota18/toyota18/399398.ts
+http://ky-tv.cc:80/live/toyota18/toyota18/399398.m3u8
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FHD
-http://ky-tv.cc:80/toyota18/toyota18/399401.ts
+http://ky-tv.cc:80/live/toyota18/toyota18/399401.m3u8
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FHD
-http://ky-tv.cc:80/toyota18/toyota18/399404.ts
+http://ky-tv.cc:80/live/toyota18/toyota18/399404.m3u8
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FHD
-http://ky-tv.cc:80/toyota18/toyota18/399407.ts
+http://ky-tv.cc:80/live/toyota18/toyota18/399407.m3u8
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 FHD
-http://ky-tv.cc:80/toyota18/toyota18/399410.ts
+http://ky-tv.cc:80/live/toyota18/toyota18/399410.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA FHD
-http://ky-tv.cc:80/toyota18/toyota18/399411.ts
+http://ky-tv.cc:80/live/toyota18/toyota18/399411.m3u8
 #EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT: TLC
 http://ky-tv.cc:80/toyota18/toyota18/399418.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: TOROS TV FHD
@@ -685,7 +685,7 @@ http://ky-tv.cc:80/toyota18/toyota18/399467.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP MADEIRA FHD
 http://ky-tv.cc:80/toyota18/toyota18/1034303.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: COMBATE FHD
-http://ky-tv.cc:80/toyota18/toyota18/399271.ts
+http://ky-tv.cc:80/live/toyota18/toyota18/399271.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CASA E COZINHA FHD
 http://ky-tv.cc:80/toyota18/toyota18/399261.ts
 #EXTINF:0 tvg-id="vh1.pt" group-title="Channels",PT: VH1
