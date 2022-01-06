@@ -439,45 +439,39 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
 
 
 #EXTINF:0 tvg-id="NBA.pt" group-title="Channels",PT: NBA FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/219250.m3u8
-
-
+http://ky-tv.cc:80/toyota18/toyota18/219250
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: E! ENTERTAINMENT FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399283.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399283
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399286.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399286
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399289.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399289
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399292.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399292
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399295.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399295
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399298.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399298
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399301.m3u8
-
-#
+http://ky-tv.cc:80/toyota18/toyota18/399301
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV + FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399394.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399394
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399398.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399398
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399401.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399401
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399404.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399404
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399407.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399407
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399410.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/399410
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399411.m3u8
-
+http://ky-tv.cc:80/toyota18/toyota18/399411
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: COMBATE FHD
-http://ky-tv.cc:80/live/toyota18/toyota18/399271.m3u8
-
+http://ky-tv.cc:80/toyota18/toyota18/399271
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| LOVE NATURE 4K
-http://xtra-tv.xyz:1503/live/Om82881227/94023654842/787.m3u8
+http://xtra-tv.xyz:1503/Om82881227/94023654842/787
 
 
 
