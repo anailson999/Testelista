@@ -1269,7 +1269,323 @@ http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36490
 #EXTINF:0 tvg-id="NHLNetwork.us" group-title="Channels",USA: NHL NETWORK HD
 http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36491
 
-
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SporTV 3
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89220
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SporTV 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89221
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SporTV 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89222
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89223
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN BRASIL HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89224
+#EXTINF:0 tvg-id="Espnhd.br" group-title="Channels",BR: ESPN HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89225
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX SPORTS 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89226
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX SPORTS FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89227
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX PREMIUM 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89228
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX PREMIUM 1 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89229
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: 78 DESTINATIONS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88085
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: A&E FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88086
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ALFA TV
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88087
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AMC HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88088
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ANIMAL PLANET HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88089
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ARTE 1 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88090
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AXN FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88091
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Baby HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88092
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND CAMPINAS HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88093
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88094
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND NEWS HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88095
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND SPORT HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88096
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BIS FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88097
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BOOMERANG FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88098
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BOX TV
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88099
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BULGARIA ON AIR
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88100
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",BR: CANAL BRASIL
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88101
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cartoon Network FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88102
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CINEMAX HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88103
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: COMBATE FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88104
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: COMEDY CENTRAL FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88105
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: COMEDY PLUS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88106
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CONMEBOL 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88107
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Crime+ Investigation
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88108
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CURTA! HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88109
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DIEAMA TV
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88110
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DIEMA FAMILY
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88111
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY CHANNEL FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88112
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY CIVILIZATION HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88113
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY HOME & HEALTH HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88114
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY ID HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88115
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY KIDS FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88116
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY SCIENCE FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88117
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY THEATER FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88118
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY TLC FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88119
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Turbo FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88120
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY WORLD FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88121
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISNEY CHANNEL FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88122
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISNEY JR FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88123
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISNEY XD FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88124
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: E! HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88125
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: EKIDS 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88126
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ELEVEN SPORTS 5 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88127
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88128
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN BRASIL HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88129
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN EXTRA HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88130
+#EXTINF:0 tvg-id="Espnhd.br" group-title="Channels",BR: ESPN FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88131
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FEN TV HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88132
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FISH TV FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88133
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOOD NETWORK FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88134
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88135
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX LIFE FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88136
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX PREMIUM 1 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88137
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX PREMIUM 2 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88138
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX SPORTS 2 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88139
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX SPORTS FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88140
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FUTURA HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88141
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FX FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88142
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO BRASILIA HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88143
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO EPTV Campinas HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88144
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88145
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO Internacional HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88146
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO MINAS FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88147
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO NEWS HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88148
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO NORDESTE FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88149
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO RBS PORTO ALEGRE HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88150
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO RJ HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88151
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO SP FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88152
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOOB FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88153
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GNT FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88154
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Gospel Movies Television
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88155
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: H2 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88156
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO 2 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88157
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO FAMILY FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88158
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88159
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO PLUS FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88160
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO SIGNATURE FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88161
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HISTORY CHANNEL HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88162
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: KINO NOVA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88163
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: LIFE TIME FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88164
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MAGIC TV
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88165
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MAX FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88166
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MAX PRIME FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88167
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MAX UP FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88168
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MEGA PIX FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88169
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MTV HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88170
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MULTISHOW FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88171
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NAT GEO FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88172
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NAT GEO KIDS FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88173
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NAT GEO WILD FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88174
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NICK JR FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88175
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nickelodeon FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88176
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NOVA TV HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88177
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NOVO TEMPO
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88178
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: OFF FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88179
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PARAMOUNT CHANNEL HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88180
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 1 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88181
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 2 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88182
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 3 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88183
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 4 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88184
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 5 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88185
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 6 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88186
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 7 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88187
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE CLUBES HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88188
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RA TIM BUM HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88189
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88190
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD NEWS FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88191
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD RJ HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88192
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: REDE BRAZIL
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88193
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: REDE TV HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88194
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RPC TV CURITIBA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88195
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88196
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT NORDESTE FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88197
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SONY FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88198
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPACE FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88199
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 1 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88200
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 2 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88201
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 3 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88202
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: STUDIO UNIVERSAL FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88203
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SYFY FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88204
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TBS FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88205
+#EXTINF:0 tvg-id="Tcm.br" group-title="Channels",BR: TCM
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88206
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Action FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88207
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE CULT FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88208
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE FUN FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88209
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE PIPOCA FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88210
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Premium FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88211
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TELECINE TOUCH FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88212
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: THE VOICE
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88213
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TIANKOV FOLK
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88214
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88215
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT SERIES FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88216
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT SPORTS FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88217
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TOONCAST HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88218
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV APARECIDA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88219
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="Channels",BR: Tv Brasil
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88220
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Diario HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88221
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV EVANGELIZAR FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88222
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV GAZETA HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88223
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Novo Tempo
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88224
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV SENADO
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88225
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: UNIVERSAL CHANNEL FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88226
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: VIASAT EXPLORE
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88227
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: VIASAT NATURE & History HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88228
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: VIVA FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88229
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: WARNER CHANNEL FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88230
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: WOHOO FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88231
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ZOOMO FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88232
 
 
 
