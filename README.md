@@ -416,3 +416,860 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/7093
 http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
 
 
+
+
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV+ HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89131
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89132
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89133
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89134
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89135
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89136
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89137
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89138
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89139
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89140
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89141
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89142
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89143
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89144
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89145
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89146
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89147
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV+
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89148
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV+ HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89149
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting TV
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89150
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting TV HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89151
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89152
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 1 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89153
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89154
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89155
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 3
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89156
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 3 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89157
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 4
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89158
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 4 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89159
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 5
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89160
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 5 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89161
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 6
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89162
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 6 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89163
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36806
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV + FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36807
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV+
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36808
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36809
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36810
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36811
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36812
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36813
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36814
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36815
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36816
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 SD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36817
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36818
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36819
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36820
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36821
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BTV HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36822
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV 1 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36823
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36824
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36825
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36826
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 SD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36827
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36828
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36829
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36830
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36831
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4 FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36832
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36833
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36834
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36835
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting Tv FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36836
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: SPORTING TV
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36837
+#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PT: PFC
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36841
+#EXTINF:0 tvg-id="KombatSport.pt" group-title="Channels",PT: KOMBAT SPORT
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36842
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36843
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: FUEL TV
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36844
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",PT: CACA E PESCA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36846
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: beIN Sport 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89236
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: beIN Sport 4 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89237
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: beIN Sport 5 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89238
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: beIN Sport 6 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89239
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: beIN Sport 7 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89240
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: beIN Sport 8 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89241
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: beIN Sports Connect HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89242
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: beIN Sports Connect Ñ HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89243
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Arizona HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89244
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Carolina HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89245
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports College Central HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89246
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Detroit HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89247
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Florida HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89248
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Indiana HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89249
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Midwest HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89250
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports New Orleans HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89251
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports North HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89252
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Ohio HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89253
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Oklahoma HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89254
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Prime Ticket HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89255
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports San Antonio HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89256
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports San Diego HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89257
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports San Diego Plus HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89258
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports South East HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89259
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports South HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89260
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports South West HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89261
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Sun HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89262
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports West HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89263
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Wisconsin HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89264
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89265
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 1 HD HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89266
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 2 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89267
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 3 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89268
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 4 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89269
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 5 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89270
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 6 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89271
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 7 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89272
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 8 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89273
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 9 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89274
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 10 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89275
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 11 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89276
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 12 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89277
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 13 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89278
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA Live 14 HD [ Match Time Only ]
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89279
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL REDZONE (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90003
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90004
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90005
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 3
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90006
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 4
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90007
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 5
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90008
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 6
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90009
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 7
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90010
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 8
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90011
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 9
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90012
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 10
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90013
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 11
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90014
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 12
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90015
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 13
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90016
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 14
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90017
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 15
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90018
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 16
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90019
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 17
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90020
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 18
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90021
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 19
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90022
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 20
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90023
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 21
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90024
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 22
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90025
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 23
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90026
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 24
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90027
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 25
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90028
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 26
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90029
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 27
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90030
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 28
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90031
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 29
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90032
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 30
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90033
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 31
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90034
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 32
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90035
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 33
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90036
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 34
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90037
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 35
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90038
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 36
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90039
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 37
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90040
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 38
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90041
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 39
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90042
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NCAAB 40
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90043
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90044
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90045
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 3
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90046
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 5
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90047
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 6
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90048
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 7
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90049
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 8
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90050
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 9
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90051
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 10
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90052
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 11
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90053
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 12
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90054
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 13
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90055
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 14
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90056
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 16
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90057
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA ATLANTA HAWKS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90058
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA DALLAS MAVERICKS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90059
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA DENVER NUGGETS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90060
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA DETROIT PISTONS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90061
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA GOLDEN STATE WARRIORS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90062
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA HOUSTON ROCKETS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90063
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA INDIANA PACERS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90064
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA LOS ANGLES CLIPPERS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90065
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA LOS ANGLES LAKERS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90066
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA BOSTON SELTICS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90067
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA BROOKLYN NETS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90068
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA CHARLOTTE HORNETS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90069
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA CHICAGO BULLS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90070
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA CLEVLAND CAVALIERS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90071
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL 15
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90072
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90073
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: STADIUM
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90074
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: EMPIRE DC S LEGENDS OF TOMORROW 5
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90075
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS 10 (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90076
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS 09 (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90077
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS 08 (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90078
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS 07 (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90079
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS 06 (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90080
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS 05 (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90081
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS 04 (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90082
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS 03 (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90083
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS 02 (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90084
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: UFC FIGHT PASS 01 (MATCH TIME:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90085
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 15 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90086
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 14 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90087
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 13 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90088
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 12 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90089
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 10 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90090
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 9 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90091
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 8 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90092
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 7 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90093
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 6 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90094
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 5 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90095
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 4 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90096
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 3 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90097
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 2 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90098
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NHL 1 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90099
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 15 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90100
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 14 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90101
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 13 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90102
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 12 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90103
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 11 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90104
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 10 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90105
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 9 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90106
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 8 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90107
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 7 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90108
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 6 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90109
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 5 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90110
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 4 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90111
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 3 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90112
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 2 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90113
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NFL 1 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90114
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 15 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90115
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 14 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90116
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 13 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90117
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 12 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90118
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 11 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90119
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 10 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90120
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 9 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90121
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 8 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90122
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 7 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90123
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 6 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90124
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 5 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90125
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 4 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90126
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 3 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90127
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 2 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90128
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS NBA 1 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90129
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 99 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90130
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 98 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90131
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 97 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90132
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 96 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90133
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 95 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90134
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 94 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90135
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 93 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90136
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 92 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90137
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 91 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90138
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 90 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90139
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 9 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90140
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 89 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90141
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 88 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90142
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 87 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90143
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 86 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90144
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 85 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90145
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 84 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90146
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 83 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90147
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 82 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90148
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 81 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90149
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 80 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90150
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 8 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90151
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 79 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90152
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 78 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90153
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 77 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90154
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 76 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90155
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 75 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90156
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 74 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90157
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 73 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90158
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 72 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90159
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 71 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90160
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 70 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90161
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 7 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90162
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 69 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90163
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 68 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90164
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 67 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90165
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 66 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90166
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 65 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90167
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 64 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90168
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 63 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90169
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 62 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90170
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 61 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90171
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 60 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90172
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 6 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90173
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 59 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90174
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 58 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90175
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 57 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90176
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 56 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90177
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 55 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90178
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 54 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90179
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 53 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90180
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 52 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90181
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 51 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90182
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 50 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90183
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 5 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90184
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 49 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90185
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 48 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90186
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 47 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90187
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 46 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90188
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 45 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90189
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 44 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90190
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 43 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90191
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 42 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90192
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 41 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90193
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 40 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90194
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 4 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90195
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 39 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90196
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 38 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90197
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 37 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90198
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 36 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90199
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 35 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90200
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 34 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90201
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 33 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90202
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 31 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90203
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 30 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90204
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 3 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90205
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 29 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90206
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 28 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90207
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 27 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90208
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 26 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90209
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 25 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90210
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 24 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90211
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 23 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90212
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 22 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90213
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: SPORTS MLB 21 (LIVE EVENT:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90214
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA MEMPHIS GRIZZLIES
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90215
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA MIAMI HEAT
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90216
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA MILWAUKEE BUCKS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90217
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA MINNESOTA TIMBERWOLVES
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90218
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA NEW ORLEANS PELICANS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90219
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA NEW YORK KNICKS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90220
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA OKLAHOMA CITY THUNDERS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90221
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA ORLANDO MAGIC
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90222
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA PHILADELPHIA 76ERS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90223
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA PHOENIX SUNS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90224
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTIME OHIO
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90225
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS KANSAS CITY PLUS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90226
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS KANSAS CITY
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90227
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS INDIANA PLUS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90228
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS INDIANA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90229
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS WISCONSIN
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90230
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS SPORTSTIME OHIO
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90231
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS SOUTHWEST PLUS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90232
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS PRIME TICKET
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90233
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS HOUSTON
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90234
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS CAROLINA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90235
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS NORTH
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90236
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS TWO
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90237
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS WASHINGTON
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90238
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS PHILADELPHIA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90239
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS CHICAGO PLUS
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90240
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS CALIFORNIA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90241
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS BAY AREA
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90242
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS NORTHWEST
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90243
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS CHICAGO
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90244
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS BOSTON
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/90245
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Entertainment
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36245
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX Ocala
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36246
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX Sacramento
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36247
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX Salt Lake City
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36248
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Arizona HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36249
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Detroit
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36250
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Florida
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36251
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports North Carolina
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36252
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Ohio
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36253
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Oklahoma
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36254
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports West and Prime Ticket
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36255
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports San Diego HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36256
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports South
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36257
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX Sports Southeast HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36258
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX Sports Southwest HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36259
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fox Sports Sun
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36260
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN 1 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36367
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",USA: ESPN 2 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36368
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN 3 HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36369
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN Bases Loaded
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36370
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN DEPORTES FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36371
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN GOAL LINE HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36372
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="Channels",USA: ESPN HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36373
+#EXTINF:0 tvg-id="ESPNews.us" group-title="Channels",USA: ESPN NEWS HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36374
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: ESPN U HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36375
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FASHION 4K
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36376
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fight HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36377
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fight Sport 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36378
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: Fishing Network
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36379
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36454
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 10
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36455
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 11
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36456
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 12
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36457
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 13
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36458
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 14
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36459
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 15
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36460
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36461
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 3
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36462
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 4
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36463
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 6
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36464
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 7
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36465
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 8
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36466
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA 9
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36467
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 02
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36468
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 03
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36469
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 04
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36470
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 05
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36471
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 06
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36472
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 07
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36473
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 08
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36474
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 09
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36475
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 10
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36476
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 11
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36477
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 12
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36478
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 13
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36479
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA League Pass 14
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36480
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36481
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC Chicago
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36482
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC Golf Channel FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36483
+#EXTINF:0 tvg-id="KNBCLosAngelesNBCHDWest.us" group-title="Channels",USA: NBC HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36484
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC Sports Network
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36485
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SN HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36486
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL Network FHD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36488
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL Now HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36489
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NFL RedZone (Live on GameDay:
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36490
+#EXTINF:0 tvg-id="NHLNetwork.us" group-title="Channels",USA: NHL NETWORK HD
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36491
+
+
+
+
+
