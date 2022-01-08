@@ -403,16 +403,3 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 1 HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/7089
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 2 HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/7090
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 3 HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/7091
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 4 HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/7092
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 5 HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/7093
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:  ELEVEN SPORTS 6 HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/7094
-
