@@ -6,15 +6,6 @@ http://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-0,CLARO SPORTS FHD
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
-#EXTINF:-0,NBA HD
-http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/89265.ts
-
-#EXTINF:-0,NBA
-http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90073.ts
-
-#EXTINF:-0,NBA HD
-http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/36481.ts
-
 #EXTINF:-0,NBC Chicago
 http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36482
 
