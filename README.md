@@ -571,7 +571,134 @@ http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/36819.ts
 http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/36820.ts
 
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
-http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/36821.ta
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/36821.ts
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA ATLANTA HAWKS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90058.ts
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA DALLAS MAVERICKS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90059.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA DENVER NUGGETS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90060.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA DETROIT PISTONS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90061.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA GOLDEN STATE WARRIORS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90062.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA HOUSTON ROCKETS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90063.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA INDIANA PACERS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90064.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA LOS ANGLES CLIPPERS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90065.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA LOS ANGLES LAKERS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90066.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA BOSTON SELTICS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90067.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA BROOKLYN NETS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90068.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA CHARLOTTE HORNETS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90069.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA CHICAGO BULLS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90070.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA CLEVLAND CAVALIERS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90071.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA MILWAUKEE BUCKS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90217.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA MINNESOTA TIMBERWOLVES
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90218.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA NEW ORLEANS PELICANS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90219.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA NEW YORK KNICKS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90220.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA OKLAHOMA CITY THUNDERS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90221.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA ORLANDO MAGIC
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90222.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA PHILADELPHIA 76ERS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90223.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBA PHOENIX SUNS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90224.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTIME OHIO
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90225.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS KANSAS CITY PLUS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90226.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS KANSAS CITY
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90227.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS INDIANA PLUS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90228.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS INDIANA
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90229.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS WISCONSIN
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90230.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS SPORTSTIME OHIO
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90231.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS SOUTHWEST PLUS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90232.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS PRIME TICKET
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90233.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS HOUSTON
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90234.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS CAROLINA
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90235.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS NORTH
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90236.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: FOX SPORTS TWO
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90237.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS WASHINGTON
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90238.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS PHILADELPHIA
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90239.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS CHICAGO PLUS
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90240.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS CALIFORNIA
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90241.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS BAY AREA
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90242.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS NORTHWEST
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90243.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS CHICAGO
+http://bestiptv.smartv.me:8000/live/bestlivetv/dz9GjtPaYw/90244.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA: NBC SPORTS BOSTON
+http://bestiptv.smartv.me:8000/lo tive/bestlivetv/dz9GjtPaYw/90245.ts
