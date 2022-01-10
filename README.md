@@ -31,9 +31,9 @@ http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23073
 #EXTINF:0 tvg-id="NHLNetwork.us" group-title="Channels",USA: NHL NETWORK HD
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23046
 #EXTINF:0 tvg-id="ext" group-title="Channels",CA: BBC EARTH
-http://dragoniptv.iptf.me:8080/nrwin/a4DWkrhWKzYU/36282
+http://dragoniptv.iptf.me:8080/live/nrwin/a4DWkrhWKzYU/36282.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",CA: BBC WORLD NEWS
-http://dragoniptv.iptf.me:8080/nrwin/a4DWkrhWKzYU/36283
+http://dragoniptv.iptf.me:8080/live/nrwin/a4DWkrhWKzYU/36283.m3u8
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21407
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 HD
