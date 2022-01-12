@@ -9,14 +9,14 @@ http://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-0,CLARO SPORTS FHD
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
-#EXTINF:-0,NBC Chicago
-http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36482
 
-#EXTINF:-0,Tv Diário HD
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZS8eRQm6c1yOHa5QGTXWtF0)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
-#EXTINF:-0,Tv Diario FHD
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZS8eRQm6c1yOHa5QGTXWtF0)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc
+#EXTINF:-0,TV DIÁRIO HD
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYuzXA4nQTLRsV8KMf1xxjc)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+
+
+
+
 
 #EXTINF:-0,Record HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
