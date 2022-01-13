@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-0,ESPN HD
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5227.m3u8
-
-#EXTINF:-0,NBC SPORT
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2864.m3u8
-
-#EXTINF:-0,ESPN
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/872.m3u8
-
-#EXTINF:-0, ESPN 2 HD
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5386.m3u8
-
 
 
 #EXTINF:-0,LOVE NATURE - ESPANHOL
@@ -158,9 +146,6 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w4
 
 #EXTINF:-0,Love Nature Usa 1080p
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
-
-#EXTINF :-0,Tv Diário HD
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZe2XVmxANWyBDZ5lLphEmsM)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-0,Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
