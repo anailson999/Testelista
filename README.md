@@ -9,19 +9,17 @@ http://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-0,CLARO SPORTS FHD
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
-
-
 #EXTINF:-0,TV DIÁRIO HD
 https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYuzXA4nQTLRsV8KMf1xxjc)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-0,Rede vida HD 1
-https://cvd1.cds.ebtcvd.net/liv...da.smil/chunklist_b608000.m3u8
+https://cvd1.cds.ebtcvd.net/live-redevida/smil/chunklist_b608000.m3u8
 
 #EXTINF:-0,Rede vida HD 2
-https://cvd1.cds.ebtcvd.net/liv...a.smil/chunklist_b1296000.m3u8
+https://cvd1.cds.ebtcvd.net/live-redevida/smil/chunklist_b1296000.m3u8
 
 #EXTINF:-0,Rede vida HD 3
-https://cvd1.cds.ebtcvd.net/liv...a.smil/chunklist_b2128000.m3u8
+https://cvd1.cds.ebtcvd.net/live-redevida/smil/chunklist_b2128000.m3u8
 
 
 
