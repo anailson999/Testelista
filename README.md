@@ -1,5 +1,15 @@
 #EXTM3U
+#EXTINF:-0,ESPN HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5227.m3u8
 
+#EXTINF:-0,NBC SPORT
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2864.m3u8
+
+#EXTINF:-0,ESPN
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/872.m3u8
+
+#EXTINF:-0, ESPN 2 HD
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5386.m3u8
 
 
 
