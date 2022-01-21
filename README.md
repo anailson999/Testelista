@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-0,Space channel universe
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
 #EXTINF:-0, Smithsonian
 https://lists.bestfreeiptv.com/m3u/br-lists-bestfreeiptv-20-01-22.m3u
