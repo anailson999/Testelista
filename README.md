@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-0,AMC PRESENTS
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-0,Space channel universe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
