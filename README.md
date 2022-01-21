@@ -10,7 +10,7 @@ https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
 #EXTINF:-0,Smithsonian hd
-https://lists.bestfreeiptv.com/m3u/br-lists-bestfreeiptv-20-01-22.m3u
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-0,LOVE NATURE - ESPANHOL
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
