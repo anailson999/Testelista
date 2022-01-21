@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+
+#EXTINF:-0, Smithsonian
+https://lists.bestfreeiptv.com/m3u/br-lists-bestfreeiptv-20-01-22.m3u
+
 #EXTINF:-0,LOVE NATURE - ESPANHOL
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
 
