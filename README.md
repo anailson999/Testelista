@@ -9,7 +9,7 @@ https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-0,Space channel universe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
-#EXTINF:-0, Smithsonian
+#EXTINF:-0,Smithsonian hd
 https://lists.bestfreeiptv.com/m3u/br-lists-bestfreeiptv-20-01-22.m3u
 
 #EXTINF:-0,LOVE NATURE - ESPANHOL
