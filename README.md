@@ -2,7 +2,7 @@
 
 
 #EXTINF:-0,LOVE NATURE CA
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66744
+http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/66744.m3u8
 
 #EXTINF:-0,AMC PRESENTS
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
