@@ -1,11 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-0,LOVE NATURE CA
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/66744.m3u8
-
-#EXTINF:-0,AMC PRESENTS
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-0,Space channel universe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
@@ -16,29 +11,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea080
 #EXTINF:-0,LOVE NATURE - ESPANHOL
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-0,CLARO SPORTS FHD
-http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-
-#EXTINF:-0,TV DIÁRIO HD
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYuzXA4nQTLRsV8KMf1xxjc)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-0,Rede vida HD 1
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
-
-
-#EXTINF:-0,Record HD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-
-#EXTINF:-0,Band FHD
-https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm45vuWI6H-_TpNcaFSrEQeEA)/dm/3/x83vbd6/s/live-4.m3u8#cell=lnyc
-
-
-#EXTINF:-0,Band HD
-https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm45vuWI6H-_TpNcaFSrEQeEA)/dm/3/x83vbd6/s/live-3.m3u8#cell=lnyc
-
-#EXTINF:-0,Globo SP
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
 
 #EXTINF:-0,Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
@@ -59,9 +35,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b828000.m3u8
 #EXTINF:-0,Love Nature UHD
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-0,Love Nature UHD 2
-https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
-
 
 #EXTINF:-0,Love Nature (1080p)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -79,25 +52,14 @@ http://need.sleep.codaytv.eu/c.m3u8?
 #EXTINF:-0,Love Nature hd
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:0,Band (1080p) [Geo-blocked]
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
-
-#EXTINF:0,Record TV SP (720p) [Geo-blocked]
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-
 
 #EXTINF:0,Claro Sports
 http://45.179.140.242:8000/play/a0ht
-
-#EXTINF:0,Jovem Pan News (1080p)
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 
 #EXTINF:-0,KRONEHIT TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-
-#EXTINF:-0,RECORD SP HD http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF:-0,LOVE NATURE - ESPANHOL
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
@@ -105,50 +67,6 @@ http://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-0,SBT HD SP
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
 
-#EXTINF:-0,Band 
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
-
-#EXTINF:-0,Record 
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-
-#EXTINF:-0,Record News 
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-
-#EXTINF:-1, RecordTV
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-
-#EXTINF:-1, RecordTV Rio de Janeiro
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-
-#EXTINF:-1, RecordTV Bahia
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-
-#EXTINF:-1, RecordTV Brasília
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
-
-#EXTINF:-1, RecordTV Belo Horizonte
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
-
-#EXTINF:-1, RecordTV Pará
-https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
-
-#EXTINF:-1, RecordTV Manaus
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-
-#EXTINF:-1, RecordTV Goiás
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
-
-#EXTINF:-1, RecordTV Rio Grande do Sul
-https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
-
-#EXTINF:-1, RedeTV! TV Arapuan HD (PB)
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-
-#EXTINF:-1, RedeTV! Rondônia
-https://tna5.bozztv.com/sgc17/index.m3u8
-
-#EXTINF:-1, 1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 #EXTINF:-0,Sbt hd
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
@@ -202,59 +120,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 #EXTINF:-0,Space Channel Nasa FHD 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
-#EXTINF:-1,BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
-
-#EXTINF:-0,Record TV HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF:-0,Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
-#EXTINF:-1,RedeTV! HD1
-http://177.20.208.58:8000/play/a03x/index.m3u8
-
-#EXTINF:-1,RedeTV! HD2
-http://177.20.208.58:8000/play/a03p/index.m3u8
 
 #EXTINF:-1,Rede TV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,Rede TV
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
 #EXTINF:-1,Love Nature 4K
 http://177.20.208.58:8000/play/a04o/index.m3u8
 
-#EXTINF:-1,Love Nature QHD
+#EXTINF:-1,Love Nature 7HD
 http://177.20.208.58:8000/play/a03r/index.m3u8
 
-#EXTINF:-1,Love Nature 4k Español
-http://177.20.208.58:8000/play/a03r/index.m3u8
 
-#EXTINF:-1,Love Nature 4k UHD
-http://177.20.208.58:8000/play/a03r/index.m3u8
-
-#EXTINF:-0,NASA FHD
-https://youtu.be/watch?v=21X5lGlDOfg
-
-#EXTINF:-0,NASA MÍDIA HD 1
-https://youtu.be/watch?v=nA9UZF-SZoQ
-
-#EXTINF:-0,Record News HD
-https://youtu.be/watch?v=saz29dZJR04
-
-#EXTINF:-0,Sky News HD
-https://youtu.be/watch?v=9Auq9mYxFEE
-
-#EXTINF:-0,NBC NEWS HD
-https://youtu.be/watch?v=SrWdkIscbug
-
-#EXTINF:-0,Jovem Pan News not 24/7
-https://youtu.be/watch?v=n2nf-uBEiXs
-
-#EXTINF:-0,Euronews Live
-https://www.youtube.com/watch?v=sPgqEHsONK8
 
 #EXTINF:-1,REDE VIDA FHD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
@@ -262,14 +143,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,REDE VIDA HD 1
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1,TV NOVO TEMPO
-http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?
-
-#EXTINF:-1,IURD TV HD UNIVERSAL
-https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0,CNN Int HD
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0,Love Nature HDD
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
@@ -298,53 +171,13 @@ https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CD
 #EXTINF:-1,Love Nature 4k Latin America 
 http://177.20.208.58:8000/play/a03r/index.m3u8
 
-#EXTINF:-1,Travel HD
-http://177.20.208.58:8000/play/a04i/index.m3u8
-
 #EXTINF:-1,Love nature usa hd
 http://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-EXTINF:-1,RECORD SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD RJ
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD BA
-http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD BA HD
-http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD DF
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD DF HD
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD MG
-http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD MG HD
-http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD PA
-http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1,RECORD PA HD
-http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1,TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1,Record News HD Alt
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1,Porto Canal
 http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -355,14 +188,6 @@ http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,RED BULL TV 4K
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1,NR1 FHD
-https://stream-03.sv4.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFnPEBjSRry52bXwBBURDds)/dm/3/x67c77j/s/live-3.m3u8#cell=lsv4
-
-#EXTINF:-1,LOVE NATURE 4K#1
-http://177.20.208.58:8000/play/a03r/index.m3u8
-
-#EXTINF:-1,1HD MUSIC FHD
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,LOVE NATURE PT BR FHD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -400,8 +225,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,KroneTV SD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
 
-#EXTINF:-1,RECORD SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF:-1,NATURE TV HD
 https://stmv1.srvif.com/nattv/nattv/chunklist_w2034641661.m3u8
