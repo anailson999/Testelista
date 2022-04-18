@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+#EXTINF:-0,https://iptv-org.github.io/iptv/countries/br.m3u
 
 #EXTINF:-0,Space channel universe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
