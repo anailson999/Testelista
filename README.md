@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-0,https://lists.bestfreeiptv.com/m3u/br-lists-bestfreeiptv-10-04-22.m3u
-
-#EXTINF:-0,https://iptv-org.github.io/iptv/countries/br.m3u
-
 #EXTINF:-0,Space channel universe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
