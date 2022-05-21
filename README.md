@@ -1,5 +1,22 @@
 #EXTM3U
 
+EXTINF:-1,ES| M. DEPORTES HD
+http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10512.m3u8
+#EXTINF:-1,ES| M. DEPORTES1 HD
+http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10513.m3u8
+#EXTINF:-1,ES| M. DEPORTES2
+http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10514.m3u8
+#EXTINF:-1,ES| M. DEPORTES3 [LIVEEVENT]
+http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10515.m3u8
+#EXTINF:-1,ES| M. DEPORTES4 (LIVEEVEENT)
+http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10516.m3u8
+#EXTINF:-1,ES| M. DEPORTES5 (LIVEEVEENT)
+http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10517.m3u8
+#EXTINF:-1,ES| M. DEPORTES6 (LIVEEVEENT)
+http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10518.m3u8
+#EXTINF:-1,ES| M. DEPORTES7 (LIVEEVEENT)
+http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10519.m3u8
+
 
 #EXTINF:-0,Space channel universe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
