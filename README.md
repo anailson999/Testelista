@@ -17,6 +17,19 @@ http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10518.m3u8
 #EXTINF:-1,ES| M. DEPORTES7 (LIVEEVEENT)
 http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10519.m3u8
 
+#EXTINF:-1,BAND SP - FHD
+http://clientend.prx2.xyz:80/live/zezinho/zezinho/103675.m3u8
+#EXTINF:-1,BAND SP - HD
+http://clientend.prx2.xyz:80/live/zezinho/zezinho/103674.m3u8
+#EXTINF:-1,BAND SP - SD²
+
+#EXTINF:-1,ES| SUNDANCE TV
+http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10560.m3u8
+
+
+
+
+
 
 #EXTINF:-0,Space channel universe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
