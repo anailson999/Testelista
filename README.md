@@ -3,6 +3,10 @@
 #EXTINF:-0,Love Nature 4K
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
 
+#EXTINF:-1,Plenitude TV
+https://meupainel.top:1936/iaptd/iaptd/chunklist_w293817197.m3u8
+
+#EXTINF:-1,
 
 #EXTINF:-0,Space channel universe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
