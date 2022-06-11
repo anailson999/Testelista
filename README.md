@@ -1,5 +1,37 @@
 #EXTM3U
 
+#EXTINF:-0,NBA
+http://30frasiiii.hopto.me:80/0000/0000/243141
+
+#EXTINF:-0,Nbc Sports
+http://30frasiiii.hopto.me:80/0000/0000/243143
+
+#EXTINF:-0,Cbs sports
+http://30frasiiii.hopto.me:80/0000/0000/243142
+
+#EXTINF:-0,Love Nature CA
+http://30frasiiii.hopto.me:80/0000/0000/209762
+
+#EXTINF:-0,SPORT TV + FHD	http://30frasiiii.hopto.me:80/0000/0000/247655
+#EXTINF:-0, SportTVplus.pt	PT: SPORT TV + HD	http://30frasiiii.hopto.me:80/0000/0000/247656
+#EXTINF:-0,sporttv1.pt	PT: SPORT TV 1 FHD	http://30frasiiii.hopto.me:80/0000/0000/247657
+#EXTINF:-0,sporttv1.pt	PT: SPORT TV 1 HD	http://30frasiiii.hopto.me:80/0000/0000/247658
+#EXTINF:-0,sporttv2.pt	PT: SPORT TV 2 FHD	http://30frasiiii.hopto.me:80/0000/0000/247659
+#EXTINF:-0,sporttv2.pt	PT: SPORT TV 2 HD	http://30frasiiii.hopto.me:80/0000/0000/247660
+#EXTINF:-0,sporttv3.pt	PT: SPORT TV 3 FHD	http://30frasiiii.hopto.me:80/0000/0000/247661
+#EXTINF:-0,sporttv3.pt	PT: SPORT TV 3 HD	http://30frasiiii.hopto.me:80/0000/0000/247662
+#EXTINF:-0,sporttv4.pt	PT: SPORT TV 4 FHD	http://30frasiiii.hopto.me:80/0000/0000/247663
+#EXTINF:-0,sporttv4.pt	PT: SPORT TV 4 HD	http://30frasiiii.hopto.me:80/0000/0000/247664
+#EXTINF:-0,sporttv5.pt	PT: SPORT TV 5 FHD	http://30frasiiii.hopto.me:80/0000/0000/247665
+#EXTINF:-0,sporttv5.pt	PT: SPORT TV 5 HD	http://30frasiiii.hopto.me:80/0000/0000/247666
+#EXTINF:-0,SPORT TV 6 FHD	http://30frasiiii.hopto.me:80/0000/0000/247667
+#EXTINF:-0,SPORT TV NBA FHD	http://30frasiiii.hopto.me:80/0000/0000/247668
+#EXTINF:-0,SPORTINGTV.pt	PT: SPORTING TV	http://30frasiiii.hopto.me:80/0000/0000/247689
+#EXTINF:-0,SPORTINGTV.pt	PT: SPORTING TV FHD	http://30frasiiii.hopto.me:80/0000/0000/247688
+
+
+
+
 #EXTINF:-0,All Sports hd
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w302004459.m3u8
 
