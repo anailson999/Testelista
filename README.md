@@ -10,7 +10,7 @@ http://iptv.tvfix.org/hls/lovenature4k.m3u8
 #EXTINF:-1,Plenitude TV
 https://meupainel.top:1936/iaptd/iaptd/chunklist_w293817197.m3u8
 
-#EXTINF:-1,Love nature hd
+#EXTINF:-1,Love nature extra
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 
