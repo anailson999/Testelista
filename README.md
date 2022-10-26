@@ -1,7 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-0,
+#EXTINF:-0,Love Nature
+https://link.zozotv.xyz/live/fx2/fx2/116.ts
+
+#EXTINF:-1 
 
 #EXTINF:-0,All Sports hd
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w302004459.m3u8
