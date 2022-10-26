@@ -1,51 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-0,PT: SPORTING TV	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/285
-	
-
-#EXTINF:-0,PT: SPORT TV 1 FullHD	http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/280
-
-#EXTINF:-0,PT: SPORT TV 2 FullHD	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/281
-
-EXTINF:-0,PT: SPORT TV 3 FullHD	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/282
-
-#EXTINF:-0,PT: SPORT TV 4 FullHD	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/283
-
-#EXTINF:-0,PT: SPORT TV 5 FullHD	http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/284
-
-#EXTINF:-0,PT: EuroNews	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52074
-
-#EXTINF:-0,SYFY FullHD	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/279
-
-#EXTINF:-0,PT: SIC RADICAL HD	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/733
-
-#EXTINF:-0,PT: SIC MULHER	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/1520
-
-#EXTINF:-0'PT: SIC NOTICIAS	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/275
-
-#EXTINF:-0,PT: Sic FHD	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/1953
-
-#EXTINF:-0,PT: SIC Caras FullHD	
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/49983
-
-
-
-
-
-#EXTINF:-0,LOVE NATURE UK
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNjsnKpDhqUM3hix6wZ7i-4/ts?checkedby:iptvcat.net
-
+#EXTINF:-0,
 
 #EXTINF:-0,All Sports hd
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w302004459.m3u8
