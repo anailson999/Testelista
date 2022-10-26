@@ -1,8 +1,45 @@
 #EXTM3U
 
 
-#EXTINF:-0,SPORT.TV
-http://red.ipfox.org:8080/osama2022/osama2023/49374?checkedby:iptvcat.com
+#EXTINF:-0,PT: SPORTING TV	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/285
+	
+
+#EXTINF:-0,PT: SPORT TV 1 FullHD	http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/280
+
+#EXTINF:-0,PT: SPORT TV 2 FullHD	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/281
+
+EXTINF:-0,PT: SPORT TV 3 FullHD	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/282
+
+#EXTINF:-0,PT: SPORT TV 4 FullHD	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/283
+
+#EXTINF:-0,PT: SPORT TV 5 FullHD	http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/284
+
+#EXTINF:-0,PT: EuroNews	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52074
+
+#EXTINF:-0,SYFY FullHD	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/279
+
+#EXTINF:-0,PT: SIC RADICAL HD	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/733
+
+#EXTINF:-0,PT: SIC MULHER	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/1520
+
+#EXTINF:-0'PT: SIC NOTICIAS	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/275
+
+#EXTINF:-0,PT: Sic FHD	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/1953
+
+#EXTINF:-0,PT: SIC Caras FullHD	
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/49983
+
+
 
 
 
