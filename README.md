@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-0,SPORT.TV
+http://red.ipfox.org:8080/osama2022/osama2023/49374?checkedby:iptvcat.com
+
 
 
 #EXTINF:-0,LOVE NATURE UK
